@@ -1,0 +1,502 @@
+﻿<File version="2">
+  <FileID>ba76ffa3-80ad-4505-a4af-b07da904ac89</FileID>
+  <Preview>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
+7OzuiaZe8LFjx8qePYvlxIkT5cyZ0+Wee46UvXuXyunTp3vrM2Vl5UDZv/9g/3n9Wd179Oix/t57
+772vvz558mT/9UOH7imLi8v91+p6aWmlHDx4qP/81KlT/b3Hjx/vv14f67r+vL5e99X99Xl9vb5P
+fb+6ru9f99bPq6/Vz6/rwTXW66vXWZ/Xn9Xrr/dR99b7qnvdn/tzf+/n/lbcn/tzfzfh/s6ePdt/
+z3a7M/Z7+FrT6Sz03nf/tQPgkUd+tfv888+XS5cuTTwXL17sPV7sPz733HPvrevzwXrwWp1xe4fX
+w3uH1xcvrnd2/OcMry/vvXI9bm+d8Z9zc84O7x1eu7+Nzt7ca7yRs8N7h9fub6OzN/cab+Ts8N7h
+tfvb6OzNvcYbOTu8d3h9u99f3Tfu+3eSqd/p58+fv3YAPPnkk90CANw2Lly4cO0AeOKJJ7rvvPPO
+2hEA4MPuqaeeEgAAkEYAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEE
+AAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAA
+EEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAg
+AQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQA
+AAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQ
+SAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCAB
+AACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAA
+BBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBI
+AABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEA
+AIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAE
+EgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgA
+AEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAA
+gQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQS
+AAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAA
+QCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACB
+BAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIA
+ABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABA
+IAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEE
+AAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAA
+EEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAg
+AQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQA
+AAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQ
+SAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCAB
+AACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAA
+BBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBI
+AABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEA
+AIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAE
+EgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgA
+AEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAA
+gQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQS
+AAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAA
+QCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACB
+BAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAECgiQPg3XffXTsCAHzYTRoAP/QnAABw++gFwP+s
+fc2v7+GHH377woULP661YIwxxpgP99Tv9N53e3ftax4AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD4Yd9zxf9PeXM0mFIIGAAAAAElFTkSuQmCC</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formFolders" children="Controls">
+    <Property name="BackColor">49, 49, 54</Property>
+    <Property name="ClientSize">540, 491</Property>
+    <Property name="ContextMenuStrip">
+      <Reference name="folderOptions" />
+    </Property>
+    <Property name="FormBorderStyle">None</Property>
+    <Property name="Name">formFolders</Property>
+    <Property name="StartPosition">Manual</Property>
+    <Property name="Text">Form</Property>
+    <Event name="Load">formFolders_Load</Event>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowBarPanel" children="Controls">
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="Name">windowBarPanel</Property>
+      <Property name="Size">540, 19</Property>
+      <Property name="TabIndex">34</Property>
+      <Event name="MouseDown">windowBarPanel_MouseDown</Event>
+      <Event name="MouseUp">windowBarPanel_MouseUp</Event>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonAddFolder" children="Controls">
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+          <Property name="MouseOverBackColor">83, 84, 89</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">0, -3</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="Name">buttonAddFolder</Property>
+        <Property name="Size">14, 22</Property>
+        <Property name="TabIndex">3</Property>
+        <Property name="Text">+</Property>
+        <Property name="TextAlign">TopCenter</Property>
+        <Property name="ToolTip" extended="True" provider="tooltipButtons">Add Folder</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonAddFolder_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonFoldersClose" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+          <Property name="MouseOverBackColor">83, 84, 89</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">522, -1</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="Name">buttonFoldersClose</Property>
+        <Property name="Size">18, 22</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">X</Property>
+        <Property name="TextAlign">BottomCenter</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonFoldersClose_Click</Event>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="folderList" children="Controls">
+      <Property name="Activation">OneClick</Property>
+      <Property name="Alignment">Left</Property>
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="BackColor">White</Property>
+      <Property name="BorderStyle">FixedSingle</Property>
+      <Property name="Columns">
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Icon" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Description" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Path" />
+        </Item>
+      </Property>
+      <Property name="ForeColor">Black</Property>
+      <Property name="FullRowSelect">True</Property>
+      <Property name="HeaderStyle">None</Property>
+      <Property name="HotTracking">True</Property>
+      <Property name="HoverSelection">True</Property>
+      <Property name="LargeImageList">
+        <Reference name="folderIconList" />
+      </Property>
+      <Property name="Location">0, 19</Property>
+      <Property name="MultiSelect">False</Property>
+      <Property name="Name">folderList</Property>
+      <Property name="ShowItemToolTips">True</Property>
+      <Property name="Size">540, 472</Property>
+      <Property name="SmallImageList">
+        <Reference name="folderIconList" />
+      </Property>
+      <Property name="Sorting">Ascending</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="UseCompatibleStateImageBehavior">False</Property>
+      <Property name="View">Details</Property>
+      <Event name="ItemActivate">folderList_ItemActivate</Event>
+      <Event name="SelectedIndexChanged">folderList_SelectedIndexChanged</Event>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Path">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">310</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="folderIconList">
+    <Property name="ImageStream">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAu
+MC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAA
+ACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkD
+AAAADwMAAAAQDgAAAk1TRnQBSQFMAwEBAAFwAQABcAEAASABAAEgAQAE/wEhAQAI/wFCAU0BNgcA
+ATYDAAEoAwABgAMAASADAAEBAQABIAYAAUD/AP8A/wD/AP8A/wAcAAMcAf8DHAH/AxoB/wMaAf8D
+GgH/AxoB/wMaAf8DGgH/AxsB/wMbAf8DGwH/AxsB/wMcAf8DHAH/AxwB/wMcAf8DHQH/Ax0B/wMb
+Af8DHAH/AxwB/wMcAf8DHAH/Ax0B/wMdAf8DHQH/Ax0B/wMeAf8DHgH/Ax4B/wMeAf//AIUAAxwB
+/wMcAf8DHAH/AxwB/wMcAf8DHAH/Ax0B/wMdAf8DHQH/Ax4B/wMeAf8DHgH/Ax4B/wMfAf8DHwH/
+Ax8B/wMgAf8DIAH/AyAB/wMgAf8DIQH/AyEB/wMhAf8DIQH/AyIB/wMiAf8DIgH/AyIB/wMjAf8D
+IwH/AyMB//8AhQADHAH/AxwB/wMcAf8DHQH/Ax0B/wMdAf8DHQH/Ax4B/wMeAf8DHgH/Ax8B/wMf
+Af8DHwH/Ax8B/wMgAf8DIAH/AyAB/wMgAf8DIQH/AyEB/wMhAf8DIQH/AyIB/wMiAf8DIgH/AyIB
+/wMjAf8DIwH/AyMB/wMjAf8DIwH//wCFAAMcAf8DHQH/Ax0B/wMdAf8DHgH/Ax4B/wMeAf8DHgH/
+Ax8B/wMfAf8DHwH/AyAB/wMgAf8DIAH/AyAB/wMhAf8DIQH/AyEB/wMhAf8DIgH/AyIB/wMiAf8D
+IgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/AyQB/wMkAf//AIUAAx0B/wMdAf8DHgH/Ax4B/wMe
+Af8DHwH/Ax8B/wMfAf8DHwH/AyAB/wMgAf8DIAH/AyAB/wMhAf8DIQH/AyEB/wMhAf8DIgH/AyIB
+/wMiAf8DIgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/AyQB/wMkAf8DJAH/AyUB//8AhQADHgH/
+Ax4B/wMeAf8DHwH/Ax8B/wMfAf8DIAH/AyAB/wMgAf8DIAH/AyEB/wMhAf8DIQH/AyEB/wMiAf8D
+IgH/AyIB/wMiAf8DIwH/AyMB/wMjAf8DIwH/AyMB/wMkAf8DJAH/AyQB/wMkAf8DJAH/AyUB/wMl
+Af8DJQH//wCFAAMfAf8DHwH/Ax8B/wMfAf8DIAH/AyAB/wMgAf8DIAH/AyEB/wMhAf8DIQH/AyEB
+/wMiAf8DIgH/AyIB/wMiAf8DIwH/AyMB/wMjAf8DIwH/AyMB/wMkAf8DJAH/AyQB/wMkAf8DJQH/
+AyUB/wMlAf8DJQH/AyUB/wMlAf//AIUAAx8B/wMgAf8DIAH/AyAB/wMgAf8DIAH/AyEB/wMhAf8D
+IQH/AyIB/wMiAf8DIgH/AyIB/wMjAf8DIwH/AyMB/wMjAf8DIwH/AyQB/wMkAf8DJAH/AyQB/wMk
+Af8DJQH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJgH/AyYB//8AhQADIAH/AyAB/wMgAf8DIQH/AyEB
+/wMhAf8DIQH/AyIB/wMiAf8DIgH/AyIB/wMjAf8DIwH/AyMB/wMjAf8DIwH/AyQB/wMkAf8DJAH/
+AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMmAf8DJgH/AyYB/wMmAf8DJgH//wCFAAMgAf8D
+IQH/AyEB/wMhAf8DIgH/AyIB/wMiAf8DIgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/AyQB/wMk
+Af8DJAH/AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMmAf8DJgH/AyYB/wMmAf8DJgH/AycB
+/wMnAf//AIUAAyEB/wMhAf8DIgH/AyIB/wMiAf8DIgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/
+AyQB/wMkAf8DJAH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyYB/wMmAf8DJgH/AyYB/wMmAf8D
+JgH/AycB/wMnAf8DJwH/AycB//8AhQADIgH/AyIB/wMiAf8DIwH/AyMB/wMjAf8DIwH/AyMB/wMk
+Af8DJAH/AyQB/wMkAf8DJAH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyYB/wMmAf8DJgH/AyYB
+/wMmAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH//wCFAAMiAf8DIwH/AyMB/wMjAf8DIwH/
+AyMB/wMkAf8DJAH/AyQB/wMkAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJgH/AyYB/wMmAf8D
+JgH/AyYB/wMmAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/AygB/wMoAf//AIUAAyMB/wMj
+Af8DIwH/AyQB/wMkAf8DJAH/AyQB/wMkAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJgH/AyYB
+/wMmAf8DJgH/AyYB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/AygB/wMoAf8DKAH/
+AygB//8AhQADIwH/AyQB/wMkAf8DJAH/AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMmAf8D
+JgH/AyYB/wMmAf8DJgH/AyYB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DKAH/AygB/wMo
+Af8DKAH/AygB/wMoAf8DKAH//wCFAAMkAf8DJAH/AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB
+/wMmAf8DJgH/AyYB/wMmAf8DJgH/AyYB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DKAH/
+AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf//AIUAAyUB/wMlAf8DJQH/AyUB/wMlAf8D
+JQH/AyYB/wMmAf8DJgH/AyYB/wMmAf8DJgH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMo
+Af8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB//8AhQADJQH/AyUB
+/wMlAf8DJQH/AyYB/wMmAf8DJgH/AyYB/wMmAf8DJgH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/
+AycB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8D
+KAH//wCFAAMlAf8DJgH/AyYB/wMmAf8DJgH/AyYB/wMmAf8DJwH/AycB/wMnAf8DJwH/AycB/wMn
+Af8DJwH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB
+/wMoAf8DKAH/AygB/wMoAf//AIUAAyYB/wMmAf8DJgH/AyYB/wMmAf8DJwH/AycB/wMnAf8DJwH/
+AycB/wMnAf8DJwH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8D
+KAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB//8AhQADJgH/AyYB/wMnAf8DJwH/AycB/wMn
+Af8DJwH/AycB/wMnAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB
+/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH//wCFAAMnAf8DJwH/
+AycB/wMnAf8DJwH/AycB/wMnAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8D
+KAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMo
+Af//AIUAAcwBlwEAAf8BywGWAQAB/wHJAZUBAAH/AccBkwEAAf8BxgGSAQAB/wHDAZABAAH/AcEB
+jwEAAf8BwAGOAQAB/wG+AYwBAAH/AbwBiwEAAf8DBQH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/
+AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf//
+AIUAAdoBoQEAAf8B2QGhAQAB/wHYAaABAAH/AdgBnwEAAf8B1wGfAQAB/wHVAZ4BAAH/AdQBnQEA
+Af8B0wGcAQAB/wHSAZsBAAH/AdEBmgEAAf8BzwGZAQAB/wGnAYMBAAH/AaUBggEAAf8BpQGCAQAB
+/wGjAYABAAH/AaIBfwEAAf8BoQF+AQAB/wGeAX0BAAH/AZ0BfAEAAf8BnAF6AQAB/wGaAXkBAAH/
+AZkBeAEAAf8BlwF3AQAB/wGVAXUBAAH/AZMBdAEAAf8BkgFzAQAB/wGQAXIBAAH/AY4BcAEAAf8B
+jAFuAQAB/wGLAW0BAAH/AYkBbAEAAf//AIUAAcsBmQEAAf8B2wGiAQAB/wHbAaIBAAH/AdsBogEA
+Af8B2wGiAQAB/wHbAaIBAAH/AdsBogEAAf8B2wGiAQAB/wHbAaIBAAH/AdsBogEAAf8BsgGMAQAB
+//8A/wD/AP8A/wD/AP8A/wD/ANkAAUIBTQE+BwABPgMAASgDAAGAAwABIAMAAQEBAAEBBgABAhYA
+A/8BAAT/DAAE/wwABP8MAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwAB
+gA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGA
+AQ8C/wwABP8MAAT/DAAE/wwABP8MAAs=</Binary>
+    </Property>
+    <Property name="TransparentColor">Transparent</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="folderOptions" children="Controls">
+    <Property name="BackColor">42, 43, 48</Property>
+    <Property name="Items">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="addFolderToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="editFolderToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="copyUNCPathToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="importFoldersToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="exportFoldersToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="removeSelectedFolderToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">contextmenustrip1</Property>
+    <Property name="ShowImageMargin">False</Property>
+    <Property name="Size">135, 114</Property>
+    <Event name="Opened">folderOptions_Opened</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="addFolderToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">addFolderToolStripMenuItem</Property>
+    <Property name="Size">134, 22</Property>
+    <Property name="Text">Add New Folder</Property>
+    <Event name="Click">addFolderToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="removeSelectedFolderToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">removeSelectedFolderToolStripMenuItem</Property>
+    <Property name="Size">175, 22</Property>
+    <Property name="Text">Remove Selected Folder</Property>
+    <Event name="Click">removeSelectedFolderToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Description">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">180</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="copyUNCPathToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">copyUNCPathToolStripMenuItem</Property>
+    <Property name="Size">134, 22</Property>
+    <Property name="Text">Copy Path</Property>
+    <Event name="Click">copyUNCPathToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="exportFoldersToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">exportFoldersToolStripMenuItem</Property>
+    <Property name="Size">134, 22</Property>
+    <Property name="Text">Export Folders</Property>
+    <Event name="Click">exportFoldersToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="importFoldersToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">importFoldersToolStripMenuItem</Property>
+    <Property name="Size">134, 22</Property>
+    <Property name="Text">Import Folders</Property>
+    <Event name="Click">importFoldersToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Icon">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">40</Property>
+  </Object>
+  <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowMoveTimer">
+    <Property name="Interval">10</Property>
+    <Event name="Tick">windowMoveTimer_Tick</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="editFolderToolStripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">editFolderToolStripMenuItem</Property>
+    <Property name="Size">134, 22</Property>
+    <Property name="Text">Edit Folder</Property>
+    <Event name="Click">editFolderToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="tooltipButtons" />
+  <Code><![CDATA[
+$formFolders_Load = {
+	
+	$formFolders.StartPosition = 'Manual'
+	$formFolders.Location = $formSitesAnchor.PointToScreen($formFolders.Location)
+	$newLoc = $formFolders.Location; $newLoc.X = $newLoc.X - 304
+	$formFolders.Location = $newLoc
+	
+	$folderArray = @(); $folderArray = Get-ChildItem -Path "HKCU:\Software\Nexus\Folders" -Recurse
+	$listViewObjectArray = @()
+	$index = 0
+	foreach ($object in $folderArray)
+	{
+		$propertyPath = $object.Name.Replace("HKEY_CURRENT_USER", "HKCU:")
+		$folderProperties = Get-ItemProperty -Path "$propertyPath"
+
+		Add-ListViewItem -ListView $folderList -Items "" -ImageIndex 0 -SubItems $folderProperties.Description, $folderProperties.Path, $propertyPath
+		$folderList.Items[$index].ToolTipText = $($folderProperties.Path)
+		$index++
+	}
+	Sort-ListViewColumn -ListView $folderList -ColumnIndex 1 -SortOrder 'Ascending'
+	$formFolders.Add_Shown({ $formFolders.Activate(); $formFolders.focus() })
+	
+	#region Variables
+	$global:folderEditData = @()
+	#endregion
+}
+
+#region Functions
+
+$folderList_SelectedIndexChanged = {
+	$folder = $null
+	$ErrorActionPreference = 'SilentlyContinue'
+	$script:folder = $folderList.SelectedItems[0].SubItems[2].Text
+	$script:folder = $script:site.Split("(")[0]
+	$script:folderIndex = $folderList.SelectedIndices[0]
+}
+
+$folderList_ItemActivate = { explorer.exe $($folderList.Items[$folderIndex].SubItems[2].Text) }
+
+$removeSelectedFolderToolStripMenuItem_Click={
+	
+	$regPath = $folderList.Items[$folderIndex].SubItems[3].Text
+	Write-Host $regPath
+	Remove-Item -Path "$regPath" -Recurse
+	$folderList.Items[$folderIndex].Remove()
+	$folderList.Refresh()
+	
+}
+
+$folderOptions_Opened={ $folderOptions.Focus() }
+
+$buttonFoldersClose_Click={ $formFolders.Close() }
+
+$buttonAddFolder_Click = { Call-folder-add_psf; Reopen-Folders }
+
+$addFolderToolStripMenuItem_Click = { Call-folder-add_psf; $folderList.Items.Clear(); Reopen-Folders }
+
+$copyUNCPathToolStripMenuItem_Click = { Set-Clipboard -Value "$script:folder"; write-Host $script:folder }
+
+$exportFoldersToolStripMenuItem_Click={
+	
+	$folderData = Get-ChildItem -Path "HKCU:\Software\Nexus\Folders" | Get-ItemProperty
+	$count = $folderData.Count
+	$folderArray = @()
+	for ($index = 0; $index -lt $count; $index++)
+	{
+		$folderObj = New-Object PSObject -Property @{
+			
+			Description = $folderData[$index].Description
+			Path = $folderData[$index].Path
+			PSPath = $folderData[$index].PSPath.Split("\")[-1]
+		}
+		$folderArray += $folderObj
+	}
+	$saveFileDialog = New-Object System.Windows.Forms.SaveFileDialog
+	$saveFileDialog.initialDirectory = $initialDirectory
+	$saveFileDialog.filter = "CSV (*.csv)| *.csv"
+	$saveFileDialog.ShowDialog() | Out-Null
+	
+	$saveLocation = $saveFileDialog.FileName
+	$folderArray | Select Description, Path, PSPath | Export-CSV -Path "$saveLocation" -NoTypeInformation
+	
+}
+
+$importFoldersToolStripMenuItem_Click={
+	
+	$OpenFileDialog = New-Object System.Windows.Forms.OpenFileDialog
+	$OpenFileDialog.initialDirectory = $initialDirectory
+	$OpenFileDialog.filter = "CSV (*.csv)| *.csv"
+	$OpenFileDialog.ShowDialog() | Out-Null
+	
+	$folders = Import-CSV -Path $OpenFileDialog.Filename
+	
+	foreach ($folder in $folders)
+	{
+		$Path = "HKCU:\Software\Nexus\Folders\" + $folder.PSPath
+		New-Item "$Path" -Force
+		New-ItemProperty -Path "$Path" -Name Description -PropertyType String -Value $folder.Description -Force
+		New-ItemProperty -Path "$Path" -Name Path -PropertyType String -Value $folder.Path -Force
+	}
+	Reopen-Folders
+}
+
+$windowBarPanel_MouseDown = [System.Windows.Forms.MouseEventHandler]{
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$controlPosition = $windowBarPanel.PointToClient((New-Object System.Drawing.Point($_.X, $_.Y)))
+	$script:diffX = ($cursorPosition.X + $controlPosition.X)
+	$script:diffy = ($cursorPosition.Y + $controlPosition.Y)
+	$windowMoveTimer.Start()
+	
+}
+
+$windowBarPanel_MouseUp = [System.Windows.Forms.MouseEventHandler]{
+	
+	$script:diffx = 0
+	$script:diffy = 0
+	$windowMoveTimer.Stop()
+	
+}
+
+$windowMoveTimer_Tick = {
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$newPosX = $cursorPosition.X - ($diffx/2)
+	if (($cursorPosition.Y - ($diffy/2)) -lt 0)
+	{ $newPosY = 0 }
+	Else
+	{ $newPosY = $cursorPosition.Y - ($diffy/2) }
+	$formFolders.SetDesktopLocation($newPosX, $newPosY)
+	
+}
+
+$editFolderToolStripMenuItem_Click = {
+	
+	$global:folderEditData = New-Object PSObject -Property @{
+		
+	Description = $($folderList.Items[$folderIndex].SubItems[1].Text)
+	Path = $($folderList.Items[$folderIndex].SubItems[2].Text)
+		
+	}
+	
+	Call-folder-add_psf
+	Reopen-Folders
+}
+]]></Code>
+  <Mode>0</Mode>
+  <Assemblies>
+    <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

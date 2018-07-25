@@ -1,0 +1,29 @@
+﻿<Project>
+  <Version>1</Version>
+  <FileID>a1fa1941-adc8-4bbb-98ae-3e200c1b00e1</FileID>
+  <ProjectType>0</ProjectType>
+  <Files>
+    <File ReferenceName="" Build="0">Startup.pss</File>
+    <File ReferenceName="Call-main-form_psf" Build="0">main-form.psf</File>
+    <File ReferenceName="Call-globals_ps1" Build="0" CommandExtension="True">globals.ps1</File>
+    <File ReferenceName="Call-user-info_psf" Build="0">user-info.psf</File>
+    <File ReferenceName="Call-ps-options_psf" Build="0">ps-options.psf</File>
+    <File ReferenceName="Call-remote-desktop_psf" Build="0">remote-desktop.psf</File>
+    <File ReferenceName="Call-remote-settings_psf" Build="0">remote-settings.psf</File>
+    <File ReferenceName="Call-sysinfo-options_psf" Build="0">sysinfo-options.psf</File>
+    <File ReferenceName="Call-button-update_psf" Build="0">button-update.psf</File>
+    <File ReferenceName="Call-sites_psf" Build="0">sites.psf</File>
+    <File ReferenceName="Call-site-add_psf" Build="0">site-add.psf</File>
+    <File ReferenceName="Call-browser-add_psf" Build="0">browser-add.psf</File>
+    <File ReferenceName="Call-system-info_psf" Build="0">system-info.psf</File>
+    <File ReferenceName="Call-folders_psf" Build="0">folders.psf</File>
+    <File ReferenceName="Call-folder-add_psf" Build="0">folder-add.psf</File>
+    <File ReferenceName="Call-label-update_psf" Build="0">label-update.psf</File>
+    <File ReferenceName="Call-shares_psf" Build="0">shares.psf</File>
+    <File ReferenceName="Call-error_psf" Build="0">error.psf</File>
+    <File ReferenceName="Call-credentials_psf" Build="0">credentials.psf</File>
+    <File ReferenceName="Call-ad-query_psf" Build="0">ad-query.psf</File>
+    <File ReferenceName="Call-dropdown_psf" Build="0">dropdown.psf</File>
+    <File ReferenceName="Call-settings-new_psf" Build="0">settings-new.psf</File>
+  </Files>
+</Project>

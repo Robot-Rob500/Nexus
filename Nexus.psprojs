@@ -1,0 +1,27 @@
+﻿<ProjectState>
+  <Version>1.0</Version>
+  <FileID>a1fa1941-adc8-4bbb-98ae-3e200c1b00e1</FileID>
+  <OpenFiles>
+    <File>browser-add.psf</File>
+    <File>button-update.psf</File>
+    <File>folder-add.psf</File>
+    <File>folders.psf</File>
+    <File>globals.ps1</File>
+    <File>label-update.psf</File>
+    <File>site-add.psf</File>
+    <File>sites.psf</File>
+    <File>sysinfo-options.psf</File>
+    <File>user-info.psf</File>
+    <File>remote-settings.psf</File>
+    <File>shares.psf</File>
+    <File>error.psf</File>
+    <File>credentials.psf</File>
+    <File>ad-query.psf</File>
+    <File>ps-options.psf</File>
+    <File>dropdown.psf</File>
+    <File>system-info.psf</File>
+    <File>main-form.psf</File>
+    <File>settings-new.psf</File>
+    <File>remote-desktop.psf</File>
+  </OpenFiles>
+</ProjectState>

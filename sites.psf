@@ -1,0 +1,602 @@
+﻿<File version="2">
+  <FileID>ba76ffa3-80ad-4505-a4af-b07da904ac89</FileID>
+  <Preview>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
+AACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAA
+BBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBI
+AABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEA
+AIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAE
+EgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgA
+AEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAA
+gQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQS
+AAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAA
+QCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACB
+BAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIA
+ABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABA
+IAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEE
+AAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAA
+EEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAg
+AQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQA
+AAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQ
+SAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCAB
+AACBBAAABBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAA
+BBIAABBIAABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBI
+AABAIAEAAIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEA
+AIEEAAAEEgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABBIAABAIAEAAIEEAAAE
+EgAAEEgAAEAgAQAAgQQAAAQSAAAQSAAAQCABAACBBAAABBIAABDomAJg/foL/zpzPQDwEbB16/U1
+c8wf2cTEmS9fddXWNzZvvtrMzMxO+m19Y9WqNf+eOeYBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD5ETjnlv7+U7ZJaUDQLAAAAAElF
+TkSuQmCC</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formSites" children="Controls">
+    <Property name="BackColor">49, 49, 54</Property>
+    <Property name="CancelButton">
+      <Reference name="buttonSitesClose" />
+    </Property>
+    <Property name="ClientSize">630, 491</Property>
+    <Property name="ContextMenuStrip">
+      <Reference name="siteOptions" />
+    </Property>
+    <Property name="FormBorderStyle">None</Property>
+    <Property name="Name">formSites</Property>
+    <Property name="StartPosition">Manual</Property>
+    <Property name="Text">Form</Property>
+    <Event name="Load">formSites_Load</Event>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowBarPanel" children="Controls">
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="Name">windowBarPanel</Property>
+      <Property name="Size">630, 19</Property>
+      <Property name="TabIndex">33</Property>
+      <Event name="MouseDown">windowBarPanel_MouseDown</Event>
+      <Event name="MouseUp">windowBarPanel_MouseUp</Event>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonAddSite" children="Controls">
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+          <Property name="MouseOverBackColor">83, 84, 89</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">1, -3</Property>
+        <Property name="Name">buttonAddSite</Property>
+        <Property name="Size">14, 22</Property>
+        <Property name="TabIndex">3</Property>
+        <Property name="Text">+</Property>
+        <Property name="TextAlign">TopCenter</Property>
+        <Property name="ToolTip" extended="True" provider="tooltipButtons">Add Site</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonAddSite_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonSitesClose" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="DialogResult">Cancel</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+          <Property name="MouseOverBackColor">83, 84, 89</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">611, 0</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="Name">buttonSitesClose</Property>
+        <Property name="Size">18, 21</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">X</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonSitesClose_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonAddBrowser" children="Controls">
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+          <Property name="MouseOverBackColor">83, 84, 89</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 14.25pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">18, -7</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="Name">buttonAddBrowser</Property>
+        <Property name="Size">16, 35</Property>
+        <Property name="TabIndex">13</Property>
+        <Property name="Text">□</Property>
+        <Property name="ToolTip" extended="True" provider="tooltipButtons">Add Browser</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonAddBrowser_Click</Event>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="siteList" children="Controls">
+      <Property name="Activation">OneClick</Property>
+      <Property name="Alignment">Left</Property>
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="BackColor">White</Property>
+      <Property name="BorderStyle">FixedSingle</Property>
+      <Property name="Columns">
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Browser" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Description" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="URL" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="account" />
+        </Item>
+      </Property>
+      <Property name="ForeColor">Black</Property>
+      <Property name="FullRowSelect">True</Property>
+      <Property name="HeaderStyle">None</Property>
+      <Property name="HotTracking">True</Property>
+      <Property name="HoverSelection">True</Property>
+      <Property name="LargeImageList">
+        <Reference name="browserIconList" />
+      </Property>
+      <Property name="Location">0, 19</Property>
+      <Property name="MultiSelect">False</Property>
+      <Property name="Name">siteList</Property>
+      <Property name="ShowItemToolTips">True</Property>
+      <Property name="Size">630, 472</Property>
+      <Property name="SmallImageList">
+        <Reference name="browserIconList" />
+      </Property>
+      <Property name="Sorting">Ascending</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="UseCompatibleStateImageBehavior">False</Property>
+      <Property name="View">Details</Property>
+      <Event name="ItemActivate">siteList_ItemActivate</Event>
+      <Event name="SelectedIndexChanged">siteList_SelectedIndexChanged</Event>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Browser">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">40</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="URL">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">270</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="browserIconList">
+    <Property name="ColorDepth">Depth32Bit</Property>
+    <Property name="ImageSize">32, 32</Property>
+    <Property name="TransparentColor">Transparent</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="siteOptions" children="Controls">
+    <Property name="BackColor">42, 43, 48</Property>
+    <Property name="BackgroundImageLayout">None</Property>
+    <Property name="Items">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="addSiteToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="editSiteToolstripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="copyURLToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="importSitesToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="exportSitesToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="removeSelectedSiteToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">contextmenustrip1</Property>
+    <Property name="ShowImageMargin">False</Property>
+    <Property name="Size">121, 114</Property>
+    <Event name="Opened">siteOptions_Opened</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="addSiteToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">addSiteToolStripMenuItem</Property>
+    <Property name="Size">120, 22</Property>
+    <Property name="Text">Add New Site</Property>
+    <Event name="Click">addSiteToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="removeSelectedSiteToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">removeSelectedSiteToolStripMenuItem</Property>
+    <Property name="Size">161, 22</Property>
+    <Property name="Text">Remove Selected Site</Property>
+    <Event name="Click">removeSelectedSiteToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Description">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">200</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="copyURLToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">copyURLToolStripMenuItem</Property>
+    <Property name="Size">120, 22</Property>
+    <Property name="Text">Copy URL</Property>
+    <Event name="Click">copyURLToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="exportSitesToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">exportSitesToolStripMenuItem</Property>
+    <Property name="Size">120, 22</Property>
+    <Property name="Text">Export Sites</Property>
+    <Event name="Click">exportSitesToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="importSitesToolStripMenuItem">
+    <Property name="DisplayStyle">Text</Property>
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">importSitesToolStripMenuItem</Property>
+    <Property name="Size">120, 22</Property>
+    <Property name="Text">Import Sites</Property>
+    <Event name="Click">importSitesToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowMoveTimer">
+    <Property name="Interval">10</Property>
+    <Event name="Tick">windowMoveTimer_Tick</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="account">
+    <Property name="Text">Account</Property>
+    <Property name="Width">100</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="editSiteToolstripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">editSiteToolstripMenuItem</Property>
+    <Property name="Size">120, 22</Property>
+    <Property name="Text">Edit Site</Property>
+    <Event name="Click">editSiteToolstripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="tooltipButtons" />
+  <Code><![CDATA[
+$formSites_Load = {
+
+	$formSites.StartPosition = 'Manual'
+	$formSites.Location = $formSitesAnchor.PointToScreen($formSites.Location)
+	$newLoc = $formSites.Location; $newLoc.X = $newLoc.X - 394
+	$formSites.Location = $newLoc
+	
+	$groupArray = @(); $groupArray = Get-Item -Path "HKCU:\Software\Nexus\WebsiteGroups"
+	$siteList.Groups.AddRange($groupArray.Property)
+	
+	$browserArray = @(); $browserArray = Get-ChildItem -Path "HKCU:\Software\Nexus\WebBrowsers" -Recurse
+	$imageIndexArray = @()
+	$script:browserPathArray = @()
+	$index = 0
+	
+	foreach ($object in $browserArray)
+	{
+		$objectPath = $null; $objectPath = $object.Name.Replace("HKEY_CURRENT_USER", "HKCU:")
+		$iconPath = Get-ItemPropertyValue -Path $objectPath -Name IconPath
+		$browserPath = Get-ItemPropertyValue -Path $objectPath -Name ProgramPath
+		$icon = [System.Drawing.Bitmap]::FromFile($iconPath)
+		$browserIconList.Images.Add($icon)
+		
+		$imageIndexObj = New-Object PSObject -Property @{
+			
+			Index = $index
+			ImageName = $objectPath.Split("\")[-1].Replace(".ico",'')
+			
+		}
+		
+		$browserArrayObj = New-Object PSObject -Property @{
+			
+			Browser = $objectPath.Split("\")[-1]
+			Path = $browserPath
+		}
+		
+		$script:browserPathArray += $browserArrayObj
+		$imageIndexArray += $imageIndexObj
+		$index++
+	}
+	
+	$siteArray = @(); $siteArray = Get-ChildItem -Path "HKCU:\Software\Nexus\Websites" -Recurse
+	$listViewObjectArray = @()
+	$index = 0
+	$siteArrayTable = @()
+	
+	foreach ($object in $siteArray)
+	{
+		$propertyPath = $object.Name.Replace("HKEY_CURRENT_USER", "HKCU:")
+		$siteProperties = Get-ItemProperty -Path "$propertyPath"
+		$siteArrayTable += $siteProperties
+	}
+	
+	$siteArrayTable = $siteArrayTable | Sort-Object Groupname
+	
+	foreach ($object in $siteArrayTable)
+	{
+		$propertyPath = $object.PSPath.Replace("Microsoft.PowerShell.Core\Registry::HKEY_CURRENT_USER", "HKCU:")
+		foreach ($item in $imageIndexArray)
+		{
+			if ($object.Browser -like $item.ImageName)
+			{
+				$imageIndex = $item.Index
+			}
+			
+		}
+		Add-ListViewItem -ListView $siteList -Items "" -Group $object.Groupname -ImageIndex $imageIndex -SubItems $object.Description, $object.URL, $object.AccountType, $object.Groupname, $propertyPath, $object.WebProtocol, $object.Browser
+		$siteList.Items[$index].ToolTipText = $($object.URL)
+		$index++
+	}
+	Sort-ListViewColumn -ListView $siteList -ColumnIndex 1 -SortOrder 'Ascending'
+	$formSites.Add_Shown({ $formSites.Activate(); $formSites.focus() })
+	
+	#region Variables
+	$global:sitesEditData = @()
+	#endregion
+	
+	#region Window Foreground
+	Mainform-Foreground
+	#endregion
+}
+
+$windowBarPanel_MouseDown = [System.Windows.Forms.MouseEventHandler]{
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$controlPosition = $windowBarPanel.PointToClient((New-Object System.Drawing.Point($_.X, $_.Y)))
+	$script:diffX = ($cursorPosition.X + $controlPosition.X)
+	$script:diffy = ($cursorPosition.Y + $controlPosition.Y)
+	$windowMoveTimer.Start()
+	
+}
+
+$windowBarPanel_MouseUp = [System.Windows.Forms.MouseEventHandler]{
+	
+	$script:diffx = 0
+	$script:diffy = 0
+	$windowMoveTimer.Stop()
+	
+}
+
+$windowMoveTimer_Tick = {
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$newPosX = $cursorPosition.X - ($diffx/2)
+	if (($cursorPosition.Y - ($diffy/2)) -lt 0)
+	{ $newPosY = 0 }
+	Else
+	{ $newPosY = $cursorPosition.Y - ($diffy/2) }
+	$formSites.SetDesktopLocation($newPosX, $newPosY)
+	
+}
+
+$siteList_SelectedIndexChanged = {
+	$site = $null
+	$ErrorActionPreference = 'SilentlyContinue'
+	$script:site = $siteList.SelectedItems[0].SubItems[2].Text
+	$script:site = $script:site.Split("(")[0]
+	$script:siteIndex = $siteList.SelectedIndices[0]
+	$accountLevel = $siteList.SelectedItems[0].SubItems[3].Text
+
+	if ($accountLevel -like 'No Preference') { $global:cred = $null }
+	if ($accountLevel -like 'Standard') { $global:cred = New-Object System.Management.Automation.PSCredential -ArgumentList @($usercred_user, (ConvertTo-SecureString -String $usercred_pass -AsPlainText -Force)); }
+	if ($accountLevel -like 'Administrator') { $global:cred = New-Object System.Management.Automation.PSCredential -ArgumentList @($admincred_user, (ConvertTo-SecureString -String $admincred_pass -AsPlainText -Force)); }
+	
+}
+
+$siteList_ItemActivate = {
+	
+	If ($site -ne $null)
+	{
+		$newBrowser = $null
+		foreach ($object in $script:browserPathArray)
+		{
+			if ($object.Browser -like $siteList.Items[$siteIndex].SubItems[7].Text)
+			{
+				$newBrowser = $object.Path
+			}
+		}
+		
+		if ($newBrowser -like "*MicrosoftEdge.exe")
+		{
+			if ($site -notlike "http*")
+			{
+				$site = "http://$site"
+				start microsoft-edge:$site
+			}
+			Else
+			{
+				start microsoft-edge:$site
+			}
+		}
+		Elseif ($newBrowser -eq $null)
+		{
+			start $site
+		}
+		Else
+		{
+			if (($siteList.Items[$siteIndex].SubItems[3].Text -like "Standard") -or ($siteList.Items[$siteIndex].SubItems[3].Text -like "Administrator"))
+			{
+				Start-Process $newBrowser -ArgumentList $site -LoadUserProfile -Credential $cred
+			}
+			elseif (($siteList.Items[$siteIndex].SubItems[3].Text -like "No Preference") -or ($siteList.Items[$siteIndex].SubItems[3].Text -like ""))
+			{
+				Start-Process $newBrowser -ArgumentList $site
+			}
+		}
+	}
+	
+}
+
+$removeSelectedSiteToolStripMenuItem_Click={
+	
+	$regPath = $siteList.Items[$siteIndex].SubItems[5].Text
+	Remove-Item -Path "$regPath" -Recurse
+	$siteList.Items[$siteIndex].Remove()
+	$siteList.Refresh()
+	
+}
+
+$siteOptions_Opened={ $siteOptions.Focus() }
+
+$buttonSitesClose_Click={ $formSites.Close() }
+
+$buttonAddSite_Click = { Call-site-add_psf; Reopen-Sites }
+
+$buttonAddBrowser_Click = { Call-browser-add_psf; Reopen-Sites }
+
+$addSiteToolStripMenuItem_Click = {
+	
+	if (((Get-ChildItem -Path "HKCU:\Software\Nexus\WebBrowsers").Count -lt 1) -eq $true)
+	{
+		$global:errorMessage = "There are currently no browsers added. Please add a browser before adding a new site."
+		Call-error_psf
+		Call-browser-add_psf
+		$global:siteEditData = @()
+		Reopen-Sites
+	}
+	else
+	{
+		Call-site-add_psf
+		$global:siteEditData = @()
+		Reopen-Sites
+	}
+	
+}
+
+$copyURLToolStripMenuItem_Click = { Set-Clipboard -Value "$script:site" }
+
+$exportSitesToolStripMenuItem_Click={
+	
+	$websiteData = Get-ChildItem -Path "HKCU:\Software\Nexus\Websites" | Get-ItemProperty
+	$count = $websiteData.Count
+	$webArray = @()
+	for ($index = 0; $index -lt $count; $index++)
+	{
+		$webObj = New-Object PSObject -Property @{
+			
+			AccountType = $websiteData[$index].AccountType
+			Browser = $websiteData[$index].Browser
+			Description = $websiteData[$index].Description
+			Groupname = $websiteData[$index].Groupname
+			URL = $websiteData[$index].URL
+			PSPath = $websiteData[$index].PSPath.Split("\")[-1]
+		}
+		$webArray += $webObj
+	}
+	$saveFileDialog = New-Object System.Windows.Forms.SaveFileDialog
+	$saveFileDialog.initialDirectory = $initialDirectory
+	$saveFileDialog.filter = "CSV (*.csv)| *.csv"
+	$saveFileDialog.ShowDialog() | Out-Null
+	
+	$saveLocation = $saveFileDialog.FileName
+	$webArray | Select AccountType, Browser, Description, Groupname, URL, PSPath | Export-CSV -Path "$saveLocation" -NoTypeInformation
+	
+}
+
+$importSitesToolStripMenuItem_Click={
+	
+	$OpenFileDialog = New-Object System.Windows.Forms.OpenFileDialog
+	$OpenFileDialog.initialDirectory = $initialDirectory
+	$OpenFileDialog.filter = "CSV (*.csv)| *.csv"
+	$OpenFileDialog.ShowDialog() | Out-Null
+	
+	$sites = Import-CSV -Path $OpenFileDialog.Filename
+	
+	foreach ($site in $sites)
+	{
+		$path = "HKCU:\Software\Nexus\Websites\" + $site.PSPath
+		New-Item "$path" -Force
+		New-ItemProperty -Path "$path" -Name AccountType -PropertyType String -Value $site.AccountType -Force
+		New-ItemProperty -Path "$path" -Name Browser -PropertyType String -Value $site.Browser -Force
+		New-ItemProperty -Path "$path" -Name Description -PropertyType String -Value $site.Description -Force
+		New-ItemProperty -Path "$path" -Name Groupname -PropertyType String -Value $site.Groupname -Force
+		New-ItemProperty -Path "$path" -Name URL -PropertyType String -Value $site.URL -Force
+	}
+	
+	$websiteGroups = @()
+	$websiteGroups = $sites.Groupname | Select -Unique
+	
+	$path = "HKCU:\Software\Nexus\WebsiteGroups\"
+	if ((Test-Path -Path $path) -eq $false)
+	{ New-Item "$path" -Force }
+	
+	foreach ($group in $websiteGroups)
+	{
+		New-ItemProperty -Path "$path" -Name $group -PropertyType DWORD -Value 0 -Force
+	}
+	
+}
+
+$editSiteToolstripMenuItem_Click={
+	
+	$global:siteEditData = New-Object PSObject -Property @{
+		
+		SiteName = $siteList.Items[$siteIndex].SubItems[1].Text
+		URL = $siteList.Items[$siteIndex].SubItems[2].Text
+		Account = $siteList.Items[$siteIndex].SubItems[3].Text
+		Group = $siteList.Items[$siteIndex].SubItems[4].Text
+		RegPath = $siteList.Items[$siteIndex].SubItems[5].Text
+		Browser = $siteList.Items[$siteIndex].SubItems[7].Text
+		
+	}
+	
+	if (((Get-ChildItem -Path "HKCU:\Software\Nexus\WebBrowsers").Count -lt 1) -eq $true)
+	{
+		$global:errorMessage = "There are currently no browsers added. Please add a browser before adding a new site."
+		Call-error_psf
+		Call-browser-add_psf
+		$global:siteEditData = @()
+		Reopen-Sites
+	}
+	else
+	{
+		Call-site-add_psf
+		$global:siteEditData = @()
+		Reopen-Sites
+	}
+	
+}
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

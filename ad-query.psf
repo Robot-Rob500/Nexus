@@ -1,0 +1,545 @@
+﻿<File version="2">
+  <FileID>ba76ffa3-80ad-4505-a4af-b07da904ac89</FileID>
+  <Preview>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
+zuLMmzExDy5aljmVR/i9rrg855/fI088/lhm3DUhvauG5YnXd2X3mmfTt2vP9Bw8KR98VPun4SD5
+ewNgyvWDMm9ZZYy+PC+9u1Sl/6i5ef+dxRnad2CuPPuXGXB7ZcjdPz2zF7y899kzaAAO7TMAs2/P
+jeNrvglwT8Z3OC/nV92WqT0Hp1ePgbnot+1yZdXA3HrX43lx4YyMmfREFs29K+MmP5z7RnVJj8rB
+qtfYe/PHdXsPYfx9nx0Au/P07GG54Kqr07Nzh1RNfiiP3TY+HS/tnk5Xt89vOvbJgJum57VXn8gN
+g2bk1ZfmZdCw6ZkxbmBmrdx7PutX3JNrr7k2fa69NF07XJeqflPy2Jxx6dz2knS6pGNGVc/NvMmd
+0u7qK3JZ1c1Z9MKL6Xfh5bmu18B0vrpbevcenLsefSf5eFWGDhqeIb2uTr8R8/JG5VFXvxsfqP09
+FtzcLmdcUXm0P3RUurTrm6subZdLKyNx2JgHsmr5gxk84oEsf+be3HTbg3lsUr/06NY73UfckRff
++eLfNfCZAbD77fS86Py07dQjXSoH/tvmPJnVb72Um66/PANvGJzqOQ/n5i7tc8nvOqZt+86Z/sLz
+ua/bgHSvdMmF7dK214CMmPh4/vT63elwUcfcNGZ0ps1dnAenjs/sx5dk+oTbM2vOQxnXu10GDByY
+MffMzi033pKHV2zJ9tULK1//oel33eUZMXWxR5sH0ec+A7B87wC4YfCNlet4h9wyelRuGHNf5XYz
+pjJ0O6Z75TJ6YNkXH5pwuDmkA2DH1k3ZsGnvd1Tv3rEpazbvzJ6tf84LixbmhZVvZe2Gjdm0ZXt2
+bt+SjZu3Z3vl4z+sOd7vXJunKh+zaq1vx9lfdf8VwK68tuSpPLloST6sPd7tyqrFi/LMkuX509oN
+2bBxS3bt2p716ysvd27L+g2bsnHtuuzadxTa8/HObNm0I2v/tDJPLnw6723fe0f61opnsvCZl/Z+
+s9Qnm7LkmUV59b29l9Wf316eRYtezOp31mXD+g3ZvO3jysfsqv29Plz3Vl555e1s27UtGzbse2bn
+4635oPL6J7s256WnF+a5Za/mg/UbK9ebrZU/09as37h17/VjS835bMuSpxdl6dvr9/7aL+gzA6By
+2F3z1so8tfDJyoh546//ImHTe69m4VOLs+6jdRnZt2dlpM7Osysqg6bikw/3Xo+XvPxm/ly5Hm/Y
+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
+FOlLX/q/lYmu3xQkvc4AAAAASUVORK5CYII=</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formADQuery" children="Controls">
+    <Property name="BackColor">45, 46, 51</Property>
+    <Property name="ClientSize">804, 434</Property>
+    <Property name="FormBorderStyle">None</Property>
+    <Property name="Name">formADQuery</Property>
+    <Property name="StartPosition">CenterParent</Property>
+    <Property name="Text">Form</Property>
+    <Event name="Load">formADQuery_Load</Event>
+    <Object type="System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="listviewADQuery" children="Controls">
+      <Property name="BackColor">240, 240, 240</Property>
+      <Property name="BorderStyle">None</Property>
+      <Property name="Columns">
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="columnheader5" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="columnheader1" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="columnheader2" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="columnheader3" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="columnheader4" />
+        </Item>
+      </Property>
+      <Property name="FullRowSelect">True</Property>
+      <Property name="Location">2, 19</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="MultiSelect">False</Property>
+      <Property name="Name">listviewADQuery</Property>
+      <Property name="ShowGroups">False</Property>
+      <Property name="Size">800, 384</Property>
+      <Property name="Sorting">Ascending</Property>
+      <Property name="TabIndex">40</Property>
+      <Property name="UseCompatibleStateImageBehavior">False</Property>
+      <Property name="View">Details</Property>
+      <Event name="ColumnClick">listviewADQuery_ColumnClick</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonOK" children="Controls">
+      <Property name="BackColor">42, 43, 48</Property>
+      <Property name="FlatAppearance">
+        <Property name="BorderColor">60, 61, 69</Property>
+        <Property name="MouseOverBackColor">150, 151, 159</Property>
+      </Property>
+      <Property name="FlatStyle">Flat</Property>
+      <Property name="ForeColor">White</Property>
+      <Property name="Location">364, 407</Property>
+      <Property name="Name">buttonOK</Property>
+      <Property name="Size">76, 23</Property>
+      <Property name="TabIndex">36</Property>
+      <Property name="Text">OK</Property>
+      <Property name="UseVisualStyleBackColor">False</Property>
+      <Event name="Click">buttonOK_Click</Event>
+    </Object>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowBarPanel" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="AutoSizeMode">GrowAndShrink</Property>
+      <Property name="BackColor">42, 43, 48</Property>
+      <Property name="Dock">Top</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="Name">windowBarPanel</Property>
+      <Property name="Size">804, 19</Property>
+      <Property name="TabIndex">34</Property>
+      <Event name="MouseDown">windowBarPanel_MouseDown</Event>
+      <Event name="MouseUp">windowBarPanel_MouseUp</Event>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonADQueryClose" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+          <Property name="MouseOverBackColor">83, 84, 89</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">786, 0</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="Name">buttonADQueryClose</Property>
+        <Property name="Size">18, 19</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">X</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonADQueryClose_Click</Event>
+      </Object>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowMoveTimer">
+    <Property name="Interval">10</Property>
+    <Event name="Tick">windowMoveTimer_Tick</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="columnheader1">
+    <Property name="Text">Name</Property>
+    <Property name="Width">153</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="columnheader2">
+    <Property name="Text">SamAccountName</Property>
+    <Property name="Width">119</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="columnheader3">
+    <Property name="Text">Department</Property>
+    <Property name="Width">196</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="columnheader4">
+    <Property name="Text">Title</Property>
+    <Property name="Width">314</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="columnheader5">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">0</Property>
+  </Object>
+  <Code><![CDATA[
+$formADQuery_Load = {
+	
+	$formADQuery.Add_Shown({ $formADQuery.Activate(); $formADQuery.focus() })
+	$labelError.Text = $global:errorMessage
+	
+	$dimensions = New-Object PSObject -Property @{
+		
+		FormX = $formADQuery.Width
+		FormY = $formADQuery.Height
+		LabelX = $labelError.Width
+		LabelY = $labelError.Height
+		
+	}
+	
+	[int]$1 = [math]::round(($dimensions.FormX - $dimensions.LabelX) /2)
+	[int]$2 = [math]::round(($dimensions.FormY - $dimensions.LabelY) /2)
+	
+	$labelError.Location = "$1,$2"
+	
+	$res = [System.Windows.Forms.Screen]::AllScreens | Where-Object { $_.Primary -eq 'True' } | Select-Object WorkingArea
+	[int]$x = [math]::Round(($res.WorkingArea.Width / 2) - ($($formADQuery.Width) / 2))
+	[int]$y = [math]::Round(($($res.WorkingArea.Height) / 4))
+	$formADQuery.Location = "$x,$y"
+	
+	foreach ($object in $global:adQuery)
+	{
+		Add-ListViewItem -ListView $listviewADQuery -Items "" -ImageIndex 5 -SubItems $object.Name,$object.SamAccountName,$object.Department,$object.Title -
+	}
+	
+	#region Window Foreground
+	Mainform-Foreground
+	#endregion
+}
+
+#region Functions
+
+$buttonADQueryClose_Click={ $formADQuery.Close() }
+
+$windowBarPanel_MouseDown = [System.Windows.Forms.MouseEventHandler]{
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$controlPosition = $windowBarPanel.PointToClient((New-Object System.Drawing.Point($_.X, $_.Y)))
+	$script:diffX = ($cursorPosition.X + $controlPosition.X)
+	$script:diffy = ($cursorPosition.Y + $controlPosition.Y)
+	$windowMoveTimer.Start()
+	
+}
+
+$windowBarPanel_MouseUp = [System.Windows.Forms.MouseEventHandler]{
+	
+	$script:diffx = 0
+	$script:diffy = 0
+	$windowMoveTimer.Stop()
+	
+}
+
+$windowMoveTimer_Tick = {
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$newPosX = $cursorPosition.X - ($diffx/2)
+	if (($cursorPosition.Y - ($diffy/2)) -lt 0)
+	{ $newPosY = 0 }
+	Else
+	{ $newPosY = $cursorPosition.Y - ($diffy/2) }
+	$formADQuery.SetDesktopLocation($newPosX, $newPosY)
+	
+}
+
+$buttonOK_Click = { $global:adQuery = $listviewADQuery.SelectedItems[0].SubItems[2].Text; $formADQuery.Close() }
+
+#region Control Helper Functions
+function Sort-ListViewColumn 
+{
+	<#
+	.SYNOPSIS
+		Sort the ListView's item using the specified column.
+
+	.DESCRIPTION
+		Sort the ListView's item using the specified column.
+		This function uses Add-Type to define a class that sort the items.
+		The ListView's Tag property is used to keep track of the sorting.
+
+	.PARAMETER ListView
+		The ListView control to sort.
+
+	.PARAMETER ColumnIndex
+		The index of the column to use for sorting.
+		
+	.PARAMETER  SortOrder
+		The direction to sort the items. If not specified or set to None, it will toggle.
+	
+	.EXAMPLE
+		Sort-ListViewColumn -ListView $listview1 -ColumnIndex 0
+#>
+	param(	
+			[ValidateNotNull()]
+			[Parameter(Mandatory=$true)]
+			[System.Windows.Forms.ListView]$ListView,
+			[Parameter(Mandatory=$true)]
+			[int]$ColumnIndex,
+			[System.Windows.Forms.SortOrder]$SortOrder = 'None')
+	
+	if(($ListView.Items.Count -eq 0) -or ($ColumnIndex -lt 0) -or ($ColumnIndex -ge $ListView.Columns.Count))
+	{
+		return;
+	}
+	
+	#region Define ListViewItemComparer
+		try{
+		$local:type = [ListViewItemComparer]
+	}
+	catch{
+	Add-Type -ReferencedAssemblies ('System.Windows.Forms') -TypeDefinition  @" 
+	using System;
+	using System.Windows.Forms;
+	using System.Collections;
+	public class ListViewItemComparer : IComparer
+	{
+	    public int column;
+	    public SortOrder sortOrder;
+	    public ListViewItemComparer()
+	    {
+	        column = 0;
+			sortOrder = SortOrder.Ascending;
+	    }
+	    public ListViewItemComparer(int column, SortOrder sort)
+	    {
+	        this.column = column;
+			sortOrder = sort;
+	    }
+	    public int Compare(object x, object y)
+	    {
+			if(column >= ((ListViewItem)x).SubItems.Count)
+				return  sortOrder == SortOrder.Ascending ? -1 : 1;
+		
+			if(column >= ((ListViewItem)y).SubItems.Count)
+				return sortOrder == SortOrder.Ascending ? 1 : -1;
+		
+			if(sortOrder == SortOrder.Ascending)
+	        	return String.Compare(((ListViewItem)x).SubItems[column].Text, ((ListViewItem)y).SubItems[column].Text);
+			else
+				return String.Compare(((ListViewItem)y).SubItems[column].Text, ((ListViewItem)x).SubItems[column].Text);
+	    }
+	}
+"@  | Out-Null
+	}
+	#endregion
+	
+	if($ListView.Tag -is [ListViewItemComparer])
+	{
+		#Toggle the Sort Order
+		if($SortOrder -eq [System.Windows.Forms.SortOrder]::None)
+		{
+			if($ListView.Tag.column -eq $ColumnIndex -and $ListView.Tag.sortOrder -eq 'Ascending')
+			{
+				$ListView.Tag.sortOrder = 'Descending'
+			}
+			else
+			{
+				$ListView.Tag.sortOrder = 'Ascending'
+			}
+		}
+		else
+		{
+			$ListView.Tag.sortOrder = $SortOrder
+		}
+		
+		$ListView.Tag.column = $ColumnIndex
+		$ListView.Sort()#Sort the items
+	}
+	else
+	{
+		if($SortOrder -eq [System.Windows.Forms.SortOrder]::None)
+		{
+			$SortOrder = [System.Windows.Forms.SortOrder]::Ascending	
+		}
+		
+		#Set to Tag because for some reason in PowerShell ListViewItemSorter prop returns null
+		$ListView.Tag = New-Object ListViewItemComparer ($ColumnIndex, $SortOrder) 
+		$ListView.ListViewItemSorter = $ListView.Tag #Automatically sorts
+	}
+}
+
+
+function Add-ListViewItem
+{
+<#
+	.SYNOPSIS
+		Adds the item(s) to the ListView and stores the object in the ListViewItem's Tag property.
+
+	.DESCRIPTION
+		Adds the item(s) to the ListView and stores the object in the ListViewItem's Tag property.
+
+	.PARAMETER ListView
+		The ListView control to add the items to.
+
+	.PARAMETER Items
+		The object or objects you wish to load into the ListView's Items collection.
+		
+	.PARAMETER  ImageIndex
+		The index of a predefined image in the ListView's ImageList.
+	
+	.PARAMETER  SubItems
+		List of strings to add as Subitems.
+	
+	.PARAMETER Group
+		The group to place the item(s) in.
+	
+	.PARAMETER Clear
+		This switch clears the ListView's Items before adding the new item(s).
+	
+	.EXAMPLE
+		Add-ListViewItem -ListView $listview1 -Items "Test" -Group $listview1.Groups[0] -ImageIndex 0 -SubItems "Installed"
+#>
+	
+	Param( 
+	[ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	[System.Windows.Forms.ListView]$ListView,
+	[ValidateNotNull()]
+	[Parameter(Mandatory=$true)]
+	$Items,
+	[int]$ImageIndex = -1,
+	[string[]]$SubItems,
+	$Group,
+	[switch]$Clear)
+	
+	if($Clear)
+	{
+		$ListView.Items.Clear();
+    }
+    
+    $lvGroup = $null
+    if ($Group -is [System.Windows.Forms.ListViewGroup])
+    {
+        $lvGroup = $Group
+    }
+    elseif ($Group -is [string])
+    {
+        #$lvGroup = $ListView.Group[$Group] # Case sensitive
+        foreach ($groupItem in $ListView.Groups)
+        {
+            if ($groupItem.Name -eq $Group)
+            {
+                $lvGroup = $groupItem
+                break
+            }
+        }
+        
+        if ($lvGroup -eq $null)
+        {
+            $lvGroup = $ListView.Groups.Add($Group, $Group)
+        }
+    }
+    
+	if($Items -is [Array])
+	{
+		$ListView.BeginUpdate()
+		foreach ($item in $Items)
+		{		
+			$listitem  = $ListView.Items.Add($item.ToString(), $ImageIndex)
+			#Store the object in the Tag
+			$listitem.Tag = $item
+			
+			if($SubItems -ne $null)
+			{
+				$listitem.SubItems.AddRange($SubItems)
+			}
+			
+			if($lvGroup -ne $null)
+			{
+				$listitem.Group = $lvGroup
+			}
+		}
+		$ListView.EndUpdate()
+	}
+	else
+	{
+		#Add a new item to the ListView
+		$listitem  = $ListView.Items.Add($Items.ToString(), $ImageIndex)
+		#Store the object in the Tag
+		$listitem.Tag = $Items
+		
+		if($SubItems -ne $null)
+		{
+			$listitem.SubItems.AddRange($SubItems)
+		}
+		
+		if($lvGroup -ne $null)
+		{
+			$listitem.Group = $lvGroup
+		}
+	}
+}
+
+#endregion
+
+$listviewADQuery_ColumnClick=[System.Windows.Forms.ColumnClickEventHandler]{
+	
+	Sort-ListViewColumn -ListView $listviewADQuery -ColumnIndex $_.Column
+	
+}
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

@@ -1,0 +1,837 @@
+﻿<File version="2">
+  <FileID>5522467a-c2ca-408b-88f6-8315ee0716bc</FileID>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAYjSURBVHhe7dzbTuJgGIZRb4Vty86o2EILDCRe
+1lxVz2eu7R+LGDMGA4kn2G+t5Dmr9vB/SdreAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAABfKor6d1Xtm6LYSJKkDrR+PddPx/zXXi/8u/v1kqp6L0mSOtB295JOx/zX
+2qXQXlyUG0mS1IHW1d4AkCQpWlcPgHpzSOVqK0mSOlBVHy4PgOVy3azWu7R8riRJUgcqV7vLA6Df
+Hzej8SwNhrkkSepAo/H0ugEwHE1Tf5BJkqQONBxNDABJkqJlAEiSFDADQJKkgBkAkiQFzACQJClg
+BoAkSQEzACRJCpgBIElSwAwASZICZgBIkhQwA0CSpIAZAJIkBcwAkCQpYAaAJEkBMwAkSQqYASBJ
+UsAMAEmSAmYASJIUMANAkqSAGQCSJAXMAJAkKWAGgCRJAbtqAPR6o2YwnKRef/xf5/6hJEm6rT6f
+322DYXZ5AOT5vJnNH1M+WZy6T1m+OHsTSZJ0W2X5/Hh2f5zjizSdPVweAGW5berNIZWr7bHVepee
+i/p1PeRnbyRJkm6j9tf+03J1PLvfz/G2qj5cHgBFsWmqep+KcnOs/cPlc2UASJJ047UD4PGpPJ7d
+7+d427raGwCSJHU1A0CSpIB9awB4BkCSpJ/Zt54ByPP701sA7ROE92kyfXuS8NyNJEnSbdW+BfB2
+dn80m1/xFoDvAEiS9HP7fH63XfUdAF8ClCSpW/kUsCRJATMAJEkKmAEgSVLADABJkgJmAEiSFDAD
+QJKkgBkAkiQFzACQJClgBoAkSQEzACRJCpgBIElSwAwASZICZgBIkhQwA0CSpIAZAJIkBcwAkCQp
+YAaAJEkBMwAkSQqYASBJUsAMAEmSAmYASJIUMANAkqSAGQCSJAXMAJAkKWAGgCRJAbtqAPR62Z9x
+tjheLEmSfn7jbH55AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABA
+VHd3/wARB32VzzN30wAAAABJRU5ErkJggg==</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formDropdown" children="Controls">
+    <Property name="AutoSize">True</Property>
+    <Property name="BackColor">34, 35, 39</Property>
+    <Property name="BackgroundImageLayout">None</Property>
+    <Property name="ClientSize">1243, 164</Property>
+    <Property name="ContextMenuStrip">
+      <Reference name="dropdownMenuStrip" />
+    </Property>
+    <Property name="ControlBox">False</Property>
+    <Property name="DoubleBuffered">True</Property>
+    <Property name="FormBorderStyle">None</Property>
+    <Property name="Icon">
+      <Binary>AAABAAEAKCgAAAEAIABoGgAAFgAAACgAAAAoAAAAUAAAAAEAIAAAAAAAQBoAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAIAAAAGAAAACwAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAA
+DAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAMAAAADAAAAAwAAAAM
+AAAADAAAAA0MAAAOLAAAEDsAABEsAAAQFgAADAAAAAYAAAABAAAAAAAAAAIyMjIae3t7X319fYt5
+eXmRfX19kX19fZGAgICRgICAkYGBgZGCgoKRhYWFkYWFhZGIiIiRiYmJkYmJiZGMjIyRjIyMkY2N
+jZGNjY2RjY2NkYuLi5GLi4uRiIiIkYmJiZGGhoaRhoaGkYWFhZGCgoKRf39/kX1/f5GBenuTkXJ0
+lqZpbZqsYmecn2Romo5wc45+cXJaICIjFQAAAAIAAAAPjIyMhGFhYfI2Njb+MjIy/zAwMP8uLi7/
+LS0t/ywsLP8pKSn/KCgo/ycnJ/8mJib/JCQk/yIiIv8hISH/Hh4e/xwcHP8ZGRn/GBgY/xYWFv8V
+FRX/FBQU/xISEv8SEhL/EhIS/xISEv8SEhL/ERER/xISEv8REhL/GhAS/1AhF/+uakL/t25X/6dl
+PP9MIx3+XFRV7n6BgXQAAAALODg4JoODg9EiIiL/ExMT/xISEv8SEhL/Dw8P/w4ODv8LCwv/CwsL
+/wgICP8HBwf/BQUF/wICAv8CAgL/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/
+AAAA/wAAAP8AAAD/AAAA/wAAAP8AAAD/AAAA/wAAAP82AAD/mkgV/6FNK/+TQxD/LgAA/xcOD/9z
+c3PDHh4eHC8vLypmZmbYMjIy/zs7O/86Ojr/Ozs7/zk5Of86Ojr/OTk5/zk5Of84ODj/Nzc3/zY2
+Nv82Njb/NTU1/zQ0NP8zMzP/MTEx/zAwMP8uLi7/LS0t/ywsLP8pKSn/Kioq/ygoKP8oKCj/KSkp
+/ycnJ/8oKCj/KCgo/yYmJv8pJCX/NSAj/0YaH/9LFRz/Qhgd/zMgI/8mIiL/UVBQyxsbGyAdHR0g
+rq6uzuLi4v/n5+f/6Ojo/+fn5//n5+f/5ubm/+bm5v/l5eX/5OTk/+Xl5f/k5OT/4+Pj/+Li4v/i
+4uL/4eHh/+Dg4P/f39//3t7e/9/f3//e3t7/3t7e/93d3f/d3d3/3Nzc/9vb2//a2tr/2tra/9jY
+2P/Y2dn/2NnZ/9nY2P/Z2Nj/2tbW/9jW1v/V1dX/xsbG/46Ojr8ODg4XwcHBNPT09Onw8PD/5eXl
+/+Hh4f/g4OD/3Nzc/9ra2v/Z2dn/2NjY/9fX1//W1tb/1dXV/9TU1P/T09P/0tLS/9HR0f/Q0ND/
+z8/P/87Ozv/Nzc3/zMzM/8vLy//Ly8v/y8vL/8rKyv/Jycn/ycnJ/8jIyP/Hx8f/x8fH/8fHx//G
+x8f/x8jI/8nLy//Ky8v/ysvL/8zNzf/Q0NDfoaGhJtnZ2T7w8PDz8PDw/+Xk5P+pp6f/0tHR/9/f
+3//b29v/2tra/9nZ2f/Y2Nj/2NjY/9bW1v/V1dX/1NTU/9PT0//S0tL/0dHR/9DQ0P/Pz8//zs7O
+/83Nzf/MzMz/y8vL/8vLy//Kysr/ysrK/8nJyf/Jycn/yMjI/8fHx//Hx8f/xsbG/8nJyf+4t7f/
+nZmZ/8XFxf/IyMj/yMjI6rKysi/d3d0m8PDw4vLy8v/Y19f/XFZW/7y7u//i4uL/3t7e/9zc3P/c
+3Nz/2tra/9nZ2f/Z2dn/2NjY/9fX1//V1dX/1NTU/9PT0//S0tL/0dHR/9DQ0P/Pz8//z8/P/87O
+zv/Nzc3/zMzM/8vLy//Kysr/ysrK/8nJyf/Jycn/yMjI/8fHx//Kysr/oqCg/1dSUv+6ubn/yMjI
+/8XFxda6uroauLi4Du7u7sHz8/P/9/f3//Pz8//u7u7/4uLi/+Dg4P/f39//3t7e/93d3f/c3Nz/
+29vb/9ra2v/Z2dn/2NjY/9fX1//W1tb/1dXV/9TU1P/T09P/0tLS/9HR0f/Q0ND/z8/P/87Ozv/N
+zc3/zMzM/8vLy//Kysr/ysrK/8nJyf/Jycn/ysrK/87Ozv/Kysr/zMzM/8jIyP/Pz8+wysrKB///
+/wLt7e2T9vb2//T09P/y8vL/7+/v/+Xl5f/h4eH/4eHh/+Dg4P/f39//3t7e/93d3f/c3Nz/29vb
+/9ra2v/Z2dn/2NjY/9fX1//W1tb/1dXV/9TU1P/T09P/0tLS/9HR0f/Q0ND/z8/P/87Ozv/Nzc3/
+zMzM/8vLy//Kysr/ysrK/8rKyv/Jycn/ysrK/8jIyP/Hx8f+zMzMfgAAAAEAAAAA6enpX/f39/v1
+9fX/9PT0//Pz8//v7+//5eXl/+Tk5P/j4+P/4uLi/+Hh4f/g4OD/39/f/93d3f/c3Nz/29vb/9ra
+2v/Z2dn/2NjY/9jY2P/W1tb/1dXV/9TU1P/T09P/0tLS/9HR0f/Q0ND/z8/P/87Ozv/Nzc3/zMzM
+/8vLy//Ly8v/ysrK/8rKyv/Jycn/yMjI98bGxk0AAAAAAAAAAOLi4jX6+vrs+fn5//b29v/19fX/
+9PT0/+7u7v/m5ub/5OTk/+Tk5P/j4+P/4uLi/+Hh4f/g4OD/39/f/97e3v/d3d3/3Nzc/9vb2//Z
+2dn/2dnZ/9jY2P/W1tb/1dXV/9TU1P/T09P/0tLS/9HR0f/Q0ND/0NDQ/8/Pz//Ozs7/zc3N/8zM
+zP/Ly8v/ysrK/8nJyeO+vr4nAAAAAAAAAADV1dUX+/v70fz8/P/5+fn/9/f3//b29v/19fX/7+/v
+/+fn5//n5+f/5eXl/+Tk5P/j4+P/4uLi/+Hh4f/g4OD/39/f/97e3v/d3d3/3Nzc/9vb2//a2tr/
+2dnZ/9jY2P/X19f/1tbW/9XV1f/U1NT/09PT/9LS0v/R0dH/0NDQ/8/Pz//Ozs7/zc3N/83Nzf/M
+zMzCtbW1DgAAAAAAAAAAx8fHBvr6+qj/////+/v7//r6+v/4+Pj/9/f3//b29v/v7+//6Ojo/+jo
+6P/n5+f/5ubm/+Tk5P/j4+P/4uLi/+Hh4f/g4OD/39/f/97e3v/d3d3/3Nzc/9vb2//a2tr/2dnZ
+/9jY2P/X19f/1tbW/9XV1f/U1NT/09PT/9LS0v/R0dH/0NDQ/8/Pz//Pz8//zc3NlV9fXwIAAAAA
+AAAAAAAAAAD09PR1/////v39/f/8/Pz/+/v7//n5+f/4+Pj/9/f3/+7u7v/p6en/6enp/+jo6P/n
+5+f/5ubm/+Xl5f/j4+P/4+Pj/+Li4v/h4eH/4ODg/97e3v/d3d3/3Nzc/9vb2//a2tr/2dnZ/9nZ
+2f/Y2Nj/1tbW/9XV1f/U1NT/09PT/9LS0v/R0dH/0tLS+8rKymEAAAAAAAAAAAAAAAAAAAAA7e3t
+Rf////T//////v7+//39/f/7+/v/+vr6//r6+v/4+Pj/8PDw/+rq6v/q6ur/6enp/+jo6P/n5+f/
+5ubm/+Xl5f/k5OT/4+Pj/+Li4v/h4eH/4ODg/9/f3//e3t7/3d3d/9zc3P/b29v/2dnZ/9nZ2f/Y
+2Nj/19fX/9XV1f/U1NT/09PT/9PT0+3ExMQ2AAAAAAAAAAAAAAAAAAAAAOHh4SL////e////////
+///+/v7//f39//z8/P/7+/v/+/v7//j4+P/x8fH/6+vr/+vr6//q6ur/6enp/+jo6P/o6Oj/5+fn
+/+bm5v/k5OT/4+Pj/+Li4v/h4eH/4ODg/9/f3//e3t7/3d3d/9zc3P/b29v/2tra/9nZ2f/Y2Nj/
+19fX/9fX1//X19fSurq6GAAAAAAAAAAAAAAAAAAAAADf398L+/v7u//////////////////////+
+/v7//Pz8//v7+//6+vr/+fn5//Ly8v/s7Oz/7Ozs/+vr6//q6ur/6enp/+np6f/o6Oj/5+fn/+bm
+5v/l5eX/5OTk/+Li4v/h4eH/4ODg/9/f3//e3t7/3d3d/9zc3P/b29v/2tra/9nZ2f/Z2dn/1dXV
+q5iYmAYAAAAAAAAAAAAAAAAAAAAA////Afb29oz///////////////////////////7+/v/9/f3/
+/Pz8//z8/P/6+vr/8/Pz/+3t7f/t7e3/7Ozs/+vr6//q6ur/6enp/+np6f/o6Oj/5+fn/+bm5v/l
+5eX/5OTk/+Pj4//i4uL/4ODg/+Dg4P/f39//3d3d/9zc3P/b29v/2tra/tPT03gAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAD09PRY/v7++v////////////////////////////////7+/v/8/Pz/+/v7
+//v7+//09PT/7u7u/+7u7v/t7e3/7Ozs/+vr6//q6ur/6urq/+np6f/o6Oj/5+fn/+bm5v/l5eX/
+5OTk/+Pj4//i4uL/4uLi/+Pj4//g4OD/3t/f/93d3fXNzc1IAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAA8fHxL////+n/////3Nvb/+Ti4v///////////////////////v7+//39/f/8/Pz/+/v7//b2
+9v/v7+//7+/v/+7u7v/u7u7/7e3t/+zs7P/r6+v/6urq/+np6f/o6Oj/6Ojo/+fn5//l5eX/5OTk
+/+bm5v/Ozc3/xcTE/+Tl5f/d3d3gyMjIJAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAOzs7BP7+/vM
+/////7u4uP/My8v//////////////////////////////////v7+//7+/v/8/Pz/9/f3//Hx8f/v
+7+//7+/v/+/v7//u7u7/7e3t/+zs7P/r6+v/6urq/+np6f/o6Oj/6Ojo/+fn5//p6en/vbq6/62r
+q//m5ub/5eXlvtjY2AwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8E+vr6of//////////////
+///////////////////////////////////////+/v7//f39//39/f/6+vr/8vLy//Dw8P/w8PD/
+7+/v/+/v7//u7u7/7e3t/+zs7P/r6+v/6urq/+np6f/p6en/6urq/+vs7P/q6+v/6enp/+Tk5I9S
+UlICAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPX19W3////9////////////////////////
+//////////////////////////////7+/v/+/v7//Pz8//z8/P/09PT/8fHx//Hx8f/w8PD/7+/v
+/+/v7//u7u7/7e3t/+zs7P/r6+v/6urq/+rq6v/p6en/6Ojo/+fn5/vh4eFcAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAD09PQ//v7+8v//////////////////////////////////////
+//////////////////////////7+/v/+/v7//f39//f39//y8vL/8vLy//Hx8f/w8PD/8PDw/+/v
+7//u7u7/7u7u/+3t7f/s7Oz/6+vr/+rq6v/q6urr4ODgMgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAA6urqHv7+/tr/////////////////////////////////////////////////////
+/////////////////v7+//39/f/9/f3/+fn5//T09P/y8vL/8vLy//Hx8f/w8PD/8PDw/+/v7//v
+7+//7u7u/+3t7f/t7e3/6urqz9bW1hUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAANbW
+1gn+/v61////////////////////////////////////////////////////////////////////
+///////////////////////+/v7/+Pj4//T09P/z8/P/8vLy//Hx8f/x8fH/8PDw/+/v7//v7+//
+7+/v/+jo6Ka/v78FAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD///8B+fn5hP//////
+////////////////////////////////////////////////////////////////////////////
+////////////////////////9PT0//T09P/z8/P/8vLy//Ly8v/x8fH/8PDw/+/v7/7o6OhyAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPb29lH////4////////////////
+7u7u/z8/P/85OTn/Ojo6/zs7O/84ODj/Ojo6/zs7O/88PDz/Pz8//zY2Nv8gICD/RkZG/0ZGRv9w
+cHD///////z8/P/39/f/8/Pz//T09P/z8/P/8vLy//Ly8v/x8fHz5ubmQwAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD39/cq////5f////////////////j4+P8xMTH/PT09
+/zw8PP86Ojr/PT09/zg4OP89PT3/Pj4+/yQkJP8UFBT/AAAA/2VlZf9lZWX/bGxs///////9/f3/
+/f39//n5+f/29vb/9PT0//T09P/09PT/8/Pz3eTk5CAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAA6enpEP39/cb/////+fn5////////////2NjY/9ra2v/Z2dn/2dnZ/9zc
+3P/Z2dn/3t7e/9zc3P/R0dH/09PT/8/Pz//c3Nz/1dXV/+Xl5f///////v7+//7+/v/+/v7//f39
+//v7+//09fX/+Pj4//Hx8bnf398KAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAP///wL///+H+Pn5+6Kenv/r6+v/////////////////////////////////////////////
+///////////////////////////////////////////////+/v7////////////o6Oj/rqur//T1
+9fry8vJ4////AQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA////
+F////33///+2////vP///7z///+8////vP///7z///+8////vP///7z///+8////vP///7z///+8
+////vP///7z///+8////vP///7z///+8////vP///7z+/v68////vPr6+rX7/Px27u7uEgAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABFRUUC////CN7f
+3wre3t4K3t7eCt7e3gre3t4K3t7eCt7e3gre3t4K3t7eCt7e3gre3t4K3t7eCt7e3gre3t4K3t7e
+Ct7e3gre3t4K3t7eCt7e3gre3t4K39/fCuDg4ArV1dUI////AQAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAA//////8AAACAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAgAAAAAEAAACAAAAAAQAAAIAAAAABAAAAgAAAAAEAAADAAAAAAwAAAMAAAAADAAAAwAAAAAMA
+AADAAAAAAwAAAMAAAAAHAAAA4AAAAAcAAADgAAAABwAAAOAAAAAHAAAA4AAAAAcAAADwAAAADwAA
+APAAAAAPAAAA8AAAAA8AAADwAAAADwAAAPAAAAAfAAAA+AAAAB8AAAD4AAAAHwAAAPgAAAAfAAAA
++AAAAB8AAAD8AAAAPwAAAP4AAAB/AAAA//////8AAAD//////wAAAP//////AAAA//////8AAAA=</Binary>
+    </Property>
+    <Property name="KeyPreview">True</Property>
+    <Property name="MaximumSize">1243, 1000</Property>
+    <Property name="MinimumSize">1243, 160</Property>
+    <Property name="Name">formDropdown</Property>
+    <Property name="Opacity">94%</Property>
+    <Property name="ShowIcon">False</Property>
+    <Property name="ShowInTaskbar">False</Property>
+    <Property name="SizeGripStyle">Hide</Property>
+    <Property name="StartPosition">Manual</Property>
+    <Event name="Load">formDropdown_Load</Event>
+    <Event name="KeyDown">formDropdown_KeyDown</Event>
+    <Event name="MouseEnter">formDropdown_MouseEnter</Event>
+    <Event name="MouseLeave">formDropdown_MouseLeave</Event>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel2" children="Controls">
+      <Property name="Anchor">None</Property>
+      <Property name="BackColor">53, 54, 59</Property>
+      <Property name="Location">0, 78</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="Name">panel2</Property>
+      <Property name="Size">1243, 14</Property>
+      <Property name="TabIndex">17</Property>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel3Label" children="Controls">
+        <Property name="Anchor">Bottom, Left</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Font">Segoe UI, 9.75pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">12, -3</Property>
+        <Property name="Name">panel3Label</Property>
+        <Property name="Size">609, 19</Property>
+        <Property name="TabIndex">27</Property>
+        <Property name="TextAlign">TopCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel4Label" children="Controls">
+        <Property name="Anchor">Bottom, Left</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Font">Segoe UI, 9.75pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">621, -3</Property>
+        <Property name="Name">panel4Label</Property>
+        <Property name="Size">607, 19</Property>
+        <Property name="TabIndex">28</Property>
+        <Property name="TextAlign">TopCenter</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel3" children="Controls">
+      <Property name="Anchor">Top, Left, Right</Property>
+      <Property name="BackColor">53, 54, 59</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="Name">panel3</Property>
+      <Property name="Size">1243, 14</Property>
+      <Property name="TabIndex">35</Property>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel2Label" children="Controls">
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Font">Segoe UI, 9.75pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">621, -2</Property>
+        <Property name="Name">panel2Label</Property>
+        <Property name="Size">607, 19</Property>
+        <Property name="TabIndex">27</Property>
+        <Property name="TextAlign">TopCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel1Label" children="Controls">
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Font">Segoe UI, 9.75pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">14, -2</Property>
+        <Property name="Name">panel1Label</Property>
+        <Property name="Size">607, 19</Property>
+        <Property name="TabIndex">28</Property>
+        <Property name="TextAlign">TopCenter</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="flowControlPanel" children="Controls">
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="AutoSize">True</Property>
+      <Property name="AutoSizeMode">GrowAndShrink</Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Location">14, 17</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="MaximumSize">1214, 0</Property>
+      <Property name="MinimumSize">1214, 136</Property>
+      <Property name="Name">flowControlPanel</Property>
+      <Property name="Size">1214, 136</Property>
+      <Property name="TabIndex">80</Property>
+      <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel1layoutpanel" children="Controls">
+        <Property name="AutoScroll">True</Property>
+        <Property name="AutoSize">True</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Location">0, 0</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="MaximumSize">607, 0</Property>
+        <Property name="MinimumSize">607, 61</Property>
+        <Property name="Name">panel1layoutpanel</Property>
+        <Property name="Size">607, 61</Property>
+        <Property name="TabIndex">0</Property>
+        <Event name="MouseEnter">panel1layoutpanel_MouseEnter</Event>
+        <Event name="MouseMove">panel1layoutpanel_MouseMove</Event>
+      </Object>
+      <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel2layoutpanel" children="Controls">
+        <Property name="AutoSize">True</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+        <Property name="Location">607, 0</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="MaximumSize">607, 0</Property>
+        <Property name="MinimumSize">607, 61</Property>
+        <Property name="Name">panel2layoutpanel</Property>
+        <Property name="Size">607, 61</Property>
+        <Property name="TabIndex">1</Property>
+        <Event name="MouseEnter">panel2layoutpanel_MouseEnter</Event>
+        <Event name="MouseMove">panel2layoutpanel_MouseMove</Event>
+      </Object>
+      <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel3layoutpanel" children="Controls">
+        <Property name="AutoSize">True</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Location">0, 75</Property>
+        <Property name="Margin">0, 14, 0, 0</Property>
+        <Property name="MaximumSize">607, 0</Property>
+        <Property name="MinimumSize">607, 61</Property>
+        <Property name="Name">panel3layoutpanel</Property>
+        <Property name="Size">607, 61</Property>
+        <Property name="TabIndex">2</Property>
+        <Event name="MouseEnter">panel3layoutpanel_MouseEnter</Event>
+        <Event name="MouseMove">panel3layoutpanel_MouseMove</Event>
+      </Object>
+      <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel4layoutpanel" children="Controls">
+        <Property name="AutoSize">True</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="Location">607, 75</Property>
+        <Property name="Margin">0, 14, 0, 0</Property>
+        <Property name="MaximumSize">607, 0</Property>
+        <Property name="MinimumSize">607, 61</Property>
+        <Property name="Name">panel4layoutpanel</Property>
+        <Property name="Size">607, 61</Property>
+        <Property name="TabIndex">3</Property>
+        <Event name="MouseEnter">panel4layoutpanel_MouseEnter</Event>
+        <Event name="MouseMove">panel4layoutpanel_MouseMove</Event>
+      </Object>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="dropdownMenuStrip" children="Controls">
+    <Property name="BackColor">42, 43, 48</Property>
+    <Property name="Items">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="addButtonToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="editButtonToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="removeButtonToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="changeLabelToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">contextmenustrip1</Property>
+    <Property name="ShowImageMargin">False</Property>
+    <Property name="Size">132, 92</Property>
+    <Event name="Opening">dropdownMenuStrip_Opening</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="addButtonToolStripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">addButtonToolStripMenuItem</Property>
+    <Property name="Size">131, 22</Property>
+    <Property name="Text">Add Button</Property>
+    <Event name="Click">addButtonToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="removeButtonToolStripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">removeButtonToolStripMenuItem</Property>
+    <Property name="Size">131, 22</Property>
+    <Property name="Text">Remove Button</Property>
+    <Event name="Click">removeButtonToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="changeLabelToolStripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">changeLabelToolStripMenuItem</Property>
+    <Property name="Size">131, 22</Property>
+    <Property name="Text">Change Label</Property>
+    <Event name="Click">changeLabelToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="dropdownCloseTimer">
+    <Property name="Interval">1</Property>
+    <Event name="Tick">dropdownCloseTimer_Tick</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="tooltip">
+    <Property name="AutomaticDelay">3500</Property>
+    <Property name="AutoPopDelay">6000</Property>
+    <Property name="BackColor">Black</Property>
+    <Property name="ForeColor">Black</Property>
+    <Property name="InitialDelay">3500</Property>
+    <Property name="ReshowDelay">700</Property>
+  </Object>
+  <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="fadeInTimer">
+    <Property name="Interval">1</Property>
+    <Event name="Tick">fadeInTimer_Tick</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="editButtonToolStripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">editButtonToolStripMenuItem</Property>
+    <Property name="Size">131, 22</Property>
+    <Property name="Text">Edit Button</Property>
+    <Event name="Click">editButtonToolStripMenuItem_Click</Event>
+  </Object>
+  <Code><![CDATA[
+$formDropdown_Load = {
+	
+	$formDropdown.StartPosition = 'Manual'
+	$formDropdown.Location = $formAnchorDropdown.PointToScreen($formDropdown.Location)
+	$formDropdown.Opacity = 0
+	$fadeInTimer.Start()
+	
+	#region Variables
+	$global:editButtonData = @()
+	
+	$panel1layoutpanel.AllowDrop = $true
+	
+	#region Dropdown Label Positioning
+	if ($panel1layoutpanel.Height -gt $panel2layoutpanel.Height)
+	{
+		[int]$script:labelLocation = $panel1layoutpanel.Height + $flowControlPanel.Location.Y
+	}
+	else
+	{
+		[int]$script:labelLocation = $panel2layoutpanel.Height + $flowControlPanel.Location.Y
+	}
+	
+	$panel2.Location = "0,$script:labelLocation"
+	#endregion
+	
+	#region Dropdown Label Display
+	$script:displayLabel2 = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\" -Name "DisplayLabel2").DisplayLabel2
+	$script:displayRow2 = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\" -Name "DisplayRow2").DisplayRow2
+	
+	if ($script:displayLabel2 -notlike 'Checked') { $panel2.Visible = $false }
+	if ($script:displayRow2 -notlike 'Checked') { $panel3layoutpanel.Visible = $false; $panel4layoutpanel.Visible = $false }
+	#endregion
+	
+	#region Dropdown Foreground
+	Mainform-Foreground
+	#endregion
+}
+
+$formDropdown_MouseLeave = { $dropdownCloseTimer.Start() }
+
+$formDropdown_MouseEnter = { $dropdownCloseTimer.Stop() }
+
+$dropdownCloseTimer_Tick = {
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$cursorPositionX = $cursorPosition.X
+	$cursorPositionY = $cursorPosition.Y
+	
+	$windowPosition = $formDropdown.Location
+	$windowPositionX1 = $windowPosition.X
+	$windowPositionY1 = $windowPosition.Y
+	
+	$windowPositionX2 = $windowPositionX1 + $formDropdown.Size.Width
+	$windowPositionY2 = $windowPositionY1 + $formDropdown.Size.Height
+	
+	if (($cursorPositionX -gt $windowPositionX2) -or ($cursorPositionX -lt $windowPositionX1) -or ($cursorPositionY -lt $windowPositionY1) -or ($cursorPositionY -gt $windowPositionY2))
+	{ $formDropdown.Close() }
+}
+
+#region Panel1 Layout Panel
+
+$panel1Label.Text = (Get-ItemProperty -path "HKCU:\Software\Nexus\DropdownButtons\Panel1").Label
+$panel1Array = (get-childitem -path "HKCU:\Software\Nexus\DropdownButtons\Panel1").PSObject.BaseObject | Get-ItemProperty
+
+$buttonName = $null
+$iconPath = $null
+$programPath = $null
+$arguments = $null
+$count = 0
+$panel1ObjectArray = @()
+
+foreach ($object in $panel1Array)
+{
+	$panel1Object = New-Object PSObject -Property @{
+		
+		arguments = $object.arguments
+		ButtonName = $object.ButtonName
+		Iconpath = $object.IconPath
+		programPath = $object.programPath
+		
+	}
+	$panel1ObjectArray += $panel1Object
+	$count++
+}
+
+for ($index = 0; $index -lt $count; $index++)
+{
+	
+	$buttonName = $panel1ObjectArray[$index].ButtonName
+	$iconPath = $panel1ObjectArray[$index].IconPath
+	$programPath = $panel1ObjectArray[$index].programPath
+	$arguments = $panel1ObjectArray[$index].arguments
+	
+	if (($iconPath -notlike $null) -and ($iconPath -notlike "")) { $buttonImage = [System.Drawing.Image]::FromFile($iconPath) }
+	$newButton = New-Object System.Windows.Forms.Button
+	$newButton.Size = New-Object System.Drawing.Size(73, 65)
+	if (($iconPath -notlike $null) -and ($iconPath -notlike "")) { $newButton.Image = $buttonImage }
+	$newButton.TextAlign = 'MiddleCenter'
+	$newButton.ImageAlign = 'TopCenter'
+	$newButton.TextImageRelation = 'ImageAboveText'
+	$newButton.ForeColor = 'White'
+	$newButton.FlatStyle = 'Flat'
+	$newButton.Margin = '0, 0, 0, 0'
+	$newButton.Padding = '0, 0, 0, 0'
+	$newButton.Flatappearance.BorderSize = '0'
+	$newButton.Flatappearance.MouseOverBackColor = 'DimGray'
+	$newButton.Text = $buttonName
+	$newButton.Tag = $index
+	New-Variable -Name "panel1Button$index" -Value $newButton
+}
+for ($index = 0; $index -lt $count; $index++)
+{
+	$((Get-Variable -Name "panel1Button$index").value).Add_Click({ Invoke-Command -ScriptBlock { if ($panel1ObjectArray[$this.Tag].arguments[0] -like "") { start $panel1ObjectArray[$this.Tag].programPath } }
+		else { start $panel1ObjectArray[$this.Tag].programPath $panel1ObjectArray[$this.Tag].arguments; $formDropdown.Close() } })
+	$((Get-Variable -Name "panel1Button$index").value).Add_MouseEnter({ $global:focusedControl = $panel1ObjectArray[$this.Tag].ButtonName; $global:focusedControlIndex = $this.Tag; $global:selectedPanel = 1 })
+	$tooltip.SetToolTip($((Get-Variable -Name "panel1Button$index").value), "$($panel1ObjectArray[$((Get-Variable -Name "panel1Button$index").value).Tag].programPath) $($panel1ObjectArray[$((Get-Variable -Name "panel1Button$index").value).Tag].arguments)")
+	$panel1LayoutPanel.Controls.Add($((Get-Variable -Name "panel1Button$index").value))
+}
+
+#endregion
+
+#region Panel2 Layout Panel
+
+$panel2Label.Text = (Get-ItemProperty -path "HKCU:\Software\Nexus\DropdownButtons\Panel2").Label
+$panel2Array = (get-childitem -path "HKCU:\Software\Nexus\DropdownButtons\Panel2").PSObject.BaseObject | Get-ItemProperty
+
+$buttonName = $null
+$iconPath = $null
+$programPath = $null
+$arguments = $null
+$count = 0
+$panel2ObjectArray = @()
+
+foreach ($object in $panel2Array)
+{
+	$panel2Object = New-Object PSObject -Property @{
+		
+		arguments = $object.arguments
+		ButtonName = $object.ButtonName
+		Iconpath = $object.IconPath
+		programPath = $object.programPath
+		
+	}
+	$panel2ObjectArray += $panel2Object
+	$count++
+}
+
+for ($index = 0; $index -lt $count; $index++)
+{
+	
+	$buttonName = $panel2ObjectArray[$index].ButtonName
+	$iconPath = $panel2ObjectArray[$index].IconPath
+	$programPath = $panel2ObjectArray[$index].programPath
+	$arguments = $panel2ObjectArray[$index].arguments
+	
+	if (($iconPath -notlike $null) -and ($iconPath -notlike "")) { $buttonImage = [System.Drawing.Image]::FromFile($iconPath) }
+	$newButton = New-Object System.Windows.Forms.Button
+	$newButton.Size = New-Object System.Drawing.Size(73, 65)
+	if (($iconPath -notlike $null) -and ($iconPath -notlike "")) { $newButton.Image = $buttonImage }
+	$newButton.TextAlign = 'MiddleCenter'
+	$newButton.ImageAlign = 'TopCenter'
+	$newButton.TextImageRelation = 'ImageAboveText'
+	$newButton.ForeColor = 'White'
+	$newButton.FlatStyle = 'Flat'
+	$newButton.Margin = '0, 0, 0, 0'
+	$newButton.Padding = '0, 0, 0, 0'
+	$newButton.Flatappearance.BorderSize = '0'
+	$newButton.Flatappearance.MouseOverBackColor = 'DimGray'
+	$newButton.Text = $buttonName
+	$newButton.Tag = $index
+	New-Variable -Name "panel2Button$index" -Value $newButton
+}
+for ($index = 0; $index -lt $count; $index++)
+{
+	$((Get-Variable -Name "panel2Button$index").value).Add_Click({ Invoke-Command -ScriptBlock { if ($panel2ObjectArray[$this.Tag].arguments[0] -like "") { start $panel2ObjectArray[$this.Tag].programPath }
+			else { start $panel2ObjectArray[$this.Tag].programPath $panel2ObjectArray[$this.Tag].arguments }; $formDropdown.Close()
+		}
+	})
+	$((Get-Variable -Name "panel2Button$index").value).Add_MouseEnter({ $global:focusedControl = $panel2ObjectArray[$this.Tag].ButtonName; $global:focusedControlIndex = $this.Tag; $global:selectedPanel = 2 })
+	$tooltip.SetToolTip($((Get-Variable -Name "panel2Button$index").value), "$($panel2ObjectArray[$((Get-Variable -Name "panel2Button$index").value).Tag].programPath) $($panel2ObjectArray[$((Get-Variable -Name "panel2Button$index").value).Tag].arguments)")
+	$panel2LayoutPanel.Controls.Add($((Get-Variable -Name "panel2Button$index").value))
+}
+
+#endregion
+
+#region Panel3 Layout Panel
+
+$panel3Label.Text = (Get-ItemProperty -path "HKCU:\Software\Nexus\DropdownButtons\Panel3").Label
+$panel3Array = (get-childitem -path "HKCU:\Software\Nexus\DropdownButtons\Panel3").PSObject.BaseObject | Get-ItemProperty
+
+$buttonName = $null
+$iconPath = $null
+$programPath = $null
+$arguments = $null
+$count = 0
+$panel3ObjectArray = @()
+
+foreach ($object in $panel3Array)
+{
+	$panel3Object = New-Object PSObject -Property @{
+		
+		arguments = $object.arguments
+		ButtonName = $object.ButtonName
+		Iconpath = $object.IconPath
+		programPath = $object.programPath
+		
+	}
+	$panel3ObjectArray += $panel3Object
+	$count++
+}
+
+for ($index = 0; $index -lt $count; $index++)
+{
+	
+	$buttonName = $panel3ObjectArray[$index].ButtonName
+	$iconPath = $panel3ObjectArray[$index].IconPath
+	$programPath = $panel3ObjectArray[$index].programPath
+	$arguments = $panel3ObjectArray[$index].arguments
+	
+	if (($iconPath -notlike $null) -and ($iconPath -notlike "")) { $buttonImage = [System.Drawing.Image]::FromFile($iconPath) }
+	$newButton = New-Object System.Windows.Forms.Button
+	$newButton.Size = New-Object System.Drawing.Size(73, 65)
+	if (($iconPath -notlike $null) -and ($iconPath -notlike "")) { $newButton.Image = $buttonImage }
+	$newButton.TextAlign = 'MiddleCenter'
+	$newButton.ImageAlign = 'TopCenter'
+	$newButton.TextImageRelation = 'ImageAboveText'
+	$newButton.ForeColor = 'White'
+	$newButton.FlatStyle = 'Flat'
+	$newButton.Margin = '0, 0, 0, 0'
+	$newButton.Padding = '0, 0, 0, 0'
+	$newButton.Flatappearance.BorderSize = '0'
+	$newButton.Flatappearance.MouseOverBackColor = 'DimGray'
+	$newButton.Text = $buttonName
+	$newButton.Tag = $index
+	New-Variable -Name "panel3Button$index" -Value $newButton
+}
+for ($index = 0; $index -lt $count; $index++)
+{
+	$((Get-Variable -Name "panel3Button$index").value).Add_Click({
+		Invoke-Command -ScriptBlock {
+			if ($panel3ObjectArray[$this.Tag].arguments[0] -like "") { start $panel3ObjectArray[$this.Tag].programPath }
+			else { start $panel3ObjectArray[$this.Tag].programPath $panel3ObjectArray[$this.Tag].arguments }; $formDropdown.Close()
+		}
+	})
+	$((Get-Variable -Name "panel3Button$index").value).Add_MouseEnter({ $global:focusedControl = $panel3ObjectArray[$this.Tag].ButtonName; $global:focusedControlIndex = $this.Tag; $global:selectedPanel = 3 })
+	$tooltip.SetToolTip($((Get-Variable -Name "panel3Button$index").value), "$($panel3ObjectArray[$((Get-Variable -Name "panel3Button$index").value).Tag].programPath) $($panel3ObjectArray[$((Get-Variable -Name "panel3Button$index").value).Tag].arguments)")
+	$panel3LayoutPanel.Controls.Add($((Get-Variable -Name "panel3Button$index").value))
+}
+
+#endregion
+
+#region Panel4 Layout Panel
+
+$panel4Label.Text = (Get-ItemProperty -path "HKCU:\Software\Nexus\DropdownButtons\Panel4").Label
+$panel4Array = (get-childitem -path "HKCU:\Software\Nexus\DropdownButtons\Panel4").PSObject.BaseObject | Get-ItemProperty
+
+$buttonName = $null
+$iconPath = $null
+$programPath = $null
+$arguments = $null
+$size = $null
+$buttonFit = $null
+$count = 0
+$panel4ObjectArray = @()
+
+foreach ($object in $panel4Array)
+{
+	$panel4Object = New-Object PSObject -Property @{
+		
+		arguments = $object.arguments
+		buttonName = $object.ButtonName
+		iconPath = $object.IconPath
+		programPath = $object.programPath
+		sizeW = $object.sizeW
+		sizeH = $object.sizeH
+		buttonFit =  $object.buttonFit
+		
+	}
+	$panel4ObjectArray += $panel4Object
+	$count++
+}
+
+for ($index = 0; $index -lt $count; $index++)
+{
+	
+	$buttonName = $panel4ObjectArray[$index].ButtonName
+	$iconPath = $panel4ObjectArray[$index].IconPath
+	$programPath = $panel4ObjectArray[$index].programPath
+	$arguments = $panel4ObjectArray[$index].arguments
+	$sizeW = $panel4ObjectArray[$index].sizeW
+	$sizeH =$panel4ObjectArray[$index].sizeH
+	$fit = $panel4ObjectArray[$index].buttonFit
+	
+	if (($iconPath -notlike $null) -and ($iconPath -notlike "")) { $buttonImage = [System.Drawing.Image]::FromFile($iconPath) }
+	$newButton = New-Object System.Windows.Forms.Button
+
+	$newButton.Size = New-Object System.Drawing.Size($sizeW, $sizeH)
+	if (($iconPath -notlike $null) -and ($iconPath -notlike ""))
+	{
+		if ($iconPath -like "*.gif")
+		{
+			$newButton.Image = $buttonImage
+			$newButton.BackgroundImageLayout = 'Center'
+		}
+		else
+		{
+			$newButton.BackgroundImage = $buttonImage
+			$newButton.BackgroundImageLayout = "Center"
+		}
+	}
+	
+	$newButton.TextAlign = 'BottomCenter'
+	$newButton.ImageAlign = 'TopCenter'
+	$newButton.TextImageRelation = 'ImageAboveText'
+	$newButton.ForeColor = 'White'
+	$newButton.FlatStyle = 'Flat'
+	$newButton.Margin = '0, 0, 0, 0'
+	$newButton.Padding = '0, 0, 0, 0'
+	$newButton.Flatappearance.BorderSize = '0'
+	$newButton.Flatappearance.MouseOverBackColor = 'DimGray'
+	$newButton.Text = $buttonName
+	$newButton.Tag = $index
+	New-Variable -Name "panel4Button$index" -Value $newButton
+}
+for ($index = 0; $index -lt $count; $index++)
+{
+	$((Get-Variable -Name "panel4Button$index").value).Add_Click({ Invoke-Command -ScriptBlock { if ($panel4ObjectArray[$this.Tag].arguments[0] -like "") { start $panel4ObjectArray[$this.Tag].programPath }
+			else { start $panel4ObjectArray[$this.Tag].programPath $panel4ObjectArray[$this.Tag].arguments }; $formDropdown.Close() } })
+	$((Get-Variable -Name "panel4Button$index").value).Add_MouseEnter({ $global:focusedControl = $panel4ObjectArray[$this.Tag].ButtonName; $global:focusedControlIndex = $this.Tag; $global:selectedPanel = 4 })
+	$tooltip.SetToolTip($((Get-Variable -Name "panel4Button$index").value), "$($panel4ObjectArray[$((Get-Variable -Name "panel4Button$index").value).Tag].programPath) $($panel4ObjectArray[$((Get-Variable -Name "panel4Button$index").value).Tag].arguments)")
+	$panel4LayoutPanel.Controls.Add($((Get-Variable -Name "panel4Button$index").value))
+}
+
+#endregion
+
+$addButtonToolStripMenuItem_Click={
+	Call-button-update_psf
+	Reopen-Dropdown
+}
+
+$panel1LayoutPanel_MouseMove = [System.Windows.Forms.MouseEventHandler]{ $global:selectedPanel = 1 }
+$panel2LayoutPanel_MouseMove = [System.Windows.Forms.MouseEventHandler]{ $global:selectedPanel = 2 }
+$panel3LayoutPanel_MouseMove = [System.Windows.Forms.MouseEventHandler]{ $global:selectedPanel = 3 }
+$panel4LayoutPanel_MouseMove = [System.Windows.Forms.MouseEventHandler]{ $global:selectedPanel = 4 }
+
+$panel1LayoutPanel_MouseEnter = { $global:selectedPanel = 1 }
+$panel2LayoutPanel_MouseEnter = { $global:selectedPanel = 2 }
+$panel3LayoutPanel_MouseEnter = { $global:selectedPanel = 3 }
+$panel4LayoutPanel_MouseEnter = { $global:selectedPanel = 4 }
+
+$removeButtonToolStripMenuItem_Click = {
+	if (($global:focusedControl -ne "") -and ($global:focusedControl -ne $null))
+	{
+		$((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls[$global:focusedControlIndex].Image.Dispose()
+		$((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls[$global:focusedControlIndex].Image = $null
+		$((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls[$global:focusedControlIndex].Dispose()
+		$tempPath = $((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls[$global:focusedControlIndex].IconPath
+		
+		Remove-Item -Path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl" -Force -Recurse
+		Remove-Item -Path $tempPath -Force
+		$MainForm.Activate()
+		Reopen-Dropdown
+	}
+}
+
+$changeLabelToolStripMenuItem_Click = {
+	
+	Call-label-update_psf
+	$((Get-Variable -Name "panel$($global:selectedPanel)Label").value).Text = (Get-ItemProperty -path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel").Label
+	
+}
+
+$dropdownMenuStrip_Opening = [System.ComponentModel.CancelEventHandler]{
+	
+	$dropdownCloseTimer.Stop()
+	$variableName = $((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Name
+	
+	if ((($variableName -eq "panel1LayoutPanel") -or ($variableName -eq "panel2LayoutPanel")) -and ($((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls.Count -lt 100))
+	{
+		$addButtonToolStripMenuItem.Enabled = $true
+	}
+	elseif ((($variableName -eq "panel1LayoutPanel") -or ($variableName -eq "panel2LayoutPanel")) -and ($((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls.Count -eq 100))
+	{
+		$addButtonToolStripMenuItem.Enabled = $false
+	}
+	
+	if ((($variableName -eq "panel3LayoutPanel") -or ($variableName -eq "panel4LayoutPanel")) -and ($((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls.Count -lt 100))
+	{
+		$addButtonToolStripMenuItem.Enabled = $true
+	}
+	elseif ((($variableName -eq "panel3LayoutPanel") -or ($variableName -eq "panel4LayoutPanel")) -and ($((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls.Count -eq 100))
+	{
+		$addButtonToolStripMenuItem.Enabled = $false
+	}
+}
+
+$fadeInTimer_Tick = {
+	
+	if ($formDropDown.Opacity -lt 0.89)
+	{
+		$formDropDown.Opacity = $formDropdown.Opacity + 0.158
+	}
+	Else
+	{
+		$fadeInTimer.Stop()	
+	}
+	
+}
+
+$editButtonToolStripMenuItem_Click = {
+
+	$global:editButtonData = New-Object PSObject -Property @{
+		
+		ButtonName = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl" -Name ButtonName).ButtonName
+		ProgramPath = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl" -Name ProgramPath).ProgramPath
+		IconPath = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl" -Name IconPath).IconPath
+		Arguments = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl" -Name Arguments).Arguments
+		SizeW = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl" -Name SizeW).SizeW
+		SizeH = (Get-ItemProperty -Path "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl" -Name SizeH).SizeH
+		RegPath = "HKCU:\Software\Nexus\DropdownButtons\Panel$global:selectedPanel\$global:focusedControl"
+		
+		
+	}
+	
+	$((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls[$global:focusedControlIndex].Image.Dispose()
+	$((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls[$global:focusedControlIndex].Image = $null
+	$((Get-Variable -Name "panel$($global:selectedPanel)LayoutPanel").value).Controls[$global:focusedControlIndex].Dispose()
+	
+	Call-button-update_psf
+	Reopen-Dropdown
+	
+}
+
+$formDropdown_KeyDown=[System.Windows.Forms.KeyEventHandler]{
+	
+	if ($_.KeyCode -eq 'PageDown')
+	{
+		$formDropdown.Close()
+	}
+	
+	if ($_.KeyCode -eq 'PageUp')
+	{
+		$formDropdown.Close()
+	}
+	
+	if ($_.KeyCode -eq 'ShiftKey')
+	{
+		$formDropdown.Close()
+	}
+}
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

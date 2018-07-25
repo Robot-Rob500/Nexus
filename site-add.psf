@@ -1,0 +1,872 @@
+﻿<File version="2">
+  <FileID>315702fc-3f30-4c9e-a417-a23a477e5a6c</FileID>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAFRPSURBVHhe7d13VNT3vu//++dd6/fXb637O3eX
+JFb69N7ovSOIgAqIiooFe4+9gb1gr9h7rwjYK00FlCKigC0m2dnl7HPPPvvc1+/zHTAxkeydZGuG
+8nqs9VwmM8OXYZg1n/d3mPnO/yAiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIi
+IiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIiIqJfid7kVWe2+XylN3sxxhhj
+rJ1n8fT9ymD2vNyyzP84ceG/2bwDYLb5MsYYY6yd5+kTCIPJs7plmf9xepPX19IXGMxejDHGGGvn
+WTz9pAGgrGWZ/3EcABhjjLGOEwcAxhhjrBPGAYAxxhjrhHEAYIwxxjphHAAYY4yxThgHAMYYY6wT
+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
+cQBgjP1qSYMA+3i1dpsz9mNxAGCMMcY6YRwAGGOMsU4YBwDGGGOsE/aTBwDpwp4+QfYvYIwxxlj7
+zss3GGLn/knLMv/jDCavKyabb5k0LTDGGGOsfWe2+Yl/vfa3LPNERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERERE
+RET0cf2P//H/A5TnVSGfeTirAAAAAElFTkSuQmCC</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formSiteAdd" children="Controls">
+    <Property name="AcceptButton">
+      <Reference name="buttonAdd" />
+    </Property>
+    <Property name="BackColor">54, 57, 62</Property>
+    <Property name="BackgroundImageLayout">Stretch</Property>
+    <Property name="CancelButton">
+      <Reference name="buttonCancel" />
+    </Property>
+    <Property name="ClientSize">419, 178</Property>
+    <Property name="FormBorderStyle">None</Property>
+    <Property name="MaximizeBox">False</Property>
+    <Property name="MinimizeBox">False</Property>
+    <Property name="Name">formSiteAdd</Property>
+    <Property name="Opacity">97%</Property>
+    <Property name="ShowIcon">False</Property>
+    <Property name="ShowInTaskbar">False</Property>
+    <Property name="SizeGripStyle">Hide</Property>
+    <Property name="StartPosition">CenterParent</Property>
+    <Property name="TopMost">True</Property>
+    <Event name="Load">FormEvent_Load</Event>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel1" children="Controls">
+      <Property name="Location">233, 63</Property>
+      <Property name="Name">panel1</Property>
+      <Property name="Size">168, 80</Property>
+      <Property name="TabIndex">11</Property>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonDefault" children="Controls">
+        <Property name="Anchor">Top</Property>
+        <Property name="BackColor">42, 43, 48</Property>
+        <Property name="Enabled">False</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderColor">60, 61, 69</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">3, 2</Property>
+        <Property name="Name">buttonDefault</Property>
+        <Property name="Size">75, 23</Property>
+        <Property name="TabIndex">5</Property>
+        <Property name="Text">Default</Property>
+        <Property name="ToolTip" extended="True" provider="tooltip1">Set browser as default</Property>
+        <Property name="UseVisualStyleBackColor">False</Property>
+        <Event name="Click">buttonDefault_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonAddBrowser" children="Controls">
+        <Property name="Anchor">Bottom</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">0, -1</Property>
+        <Property name="Name">buttonAddBrowser</Property>
+        <Property name="Size">14, 22</Property>
+        <Property name="TabIndex">6</Property>
+        <Property name="Text">+</Property>
+        <Property name="TextAlign">TopCenter</Property>
+        <Property name="ToolTip" extended="True" provider="tooltip1">Add a browser</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonAddBrowser_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonAddGroup" children="Controls">
+        <Property name="Anchor">Bottom</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">0, 53</Property>
+        <Property name="Name">buttonAddGroup</Property>
+        <Property name="Size">14, 22</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">+</Property>
+        <Property name="TextAlign">TopCenter</Property>
+        <Property name="ToolTip" extended="True" provider="tooltip1">Add a group</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonAddGroup_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonRemoveGroup" children="Controls">
+        <Property name="Anchor">Bottom</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">17, 52</Property>
+        <Property name="Name">buttonRemoveGroup</Property>
+        <Property name="Size">14, 22</Property>
+        <Property name="TabIndex">1</Property>
+        <Property name="Text">-</Property>
+        <Property name="TextAlign">TopCenter</Property>
+        <Property name="ToolTip" extended="True" provider="tooltip1">Remove a group</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonRemoveGroup_Click</Event>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="flowlayoutpanel3" children="Controls">
+      <Property name="BackColor">Transparent</Property>
+      <Property name="FlowDirection">TopDown</Property>
+      <Property name="Location">9, 7</Property>
+      <Property name="Name">flowlayoutpanel3</Property>
+      <Property name="Padding">4, 8, 4, 4</Property>
+      <Property name="Size">86, 137</Property>
+      <Property name="TabIndex">3</Property>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelURL" children="Controls">
+        <Property name="Font">Microsoft Sans Serif, 9.75pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">7, 8</Property>
+        <Property name="Name">labelURL</Property>
+        <Property name="Padding">0, 3, 0, 3</Property>
+        <Property name="Size">100, 25</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">URL:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDescription" children="Controls">
+        <Property name="Font">Microsoft Sans Serif, 9.75pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">7, 33</Property>
+        <Property name="Name">labelDescription</Property>
+        <Property name="Padding">0, 3, 0, 3</Property>
+        <Property name="Size">100, 25</Property>
+        <Property name="TabIndex">4</Property>
+        <Property name="Text">Description:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelBrowser" children="Controls">
+        <Property name="Font">Microsoft Sans Serif, 9.75pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">7, 58</Property>
+        <Property name="Name">labelBrowser</Property>
+        <Property name="Padding">0, 3, 0, 3</Property>
+        <Property name="Size">100, 25</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">Browser:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelAccount" children="Controls">
+        <Property name="Font">Microsoft Sans Serif, 9.75pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">7, 83</Property>
+        <Property name="Name">labelAccount</Property>
+        <Property name="Padding">0, 3, 0, 3</Property>
+        <Property name="Size">100, 25</Property>
+        <Property name="TabIndex">1</Property>
+        <Property name="Text">Account:</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelGroup" children="Controls">
+        <Property name="Font">Microsoft Sans Serif, 9.75pt</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">7, 108</Property>
+        <Property name="Name">labelGroup</Property>
+        <Property name="Padding">0, 3, 0, 3</Property>
+        <Property name="Size">67, 25</Property>
+        <Property name="TabIndex">3</Property>
+        <Property name="Text">Group:</Property>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="flowlayoutpanel2" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="AutoSizeMode">GrowAndShrink</Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Location">143, 147</Property>
+      <Property name="Name">flowlayoutpanel2</Property>
+      <Property name="Size">162, 29</Property>
+      <Property name="TabIndex">2</Property>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonAdd" children="Controls">
+        <Property name="Anchor">Bottom, Right</Property>
+        <Property name="BackColor">42, 43, 48</Property>
+        <Property name="DialogResult">OK</Property>
+        <Property name="Enabled">False</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderColor">60, 61, 69</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">3, 3</Property>
+        <Property name="Name">buttonAdd</Property>
+        <Property name="Size">75, 23</Property>
+        <Property name="TabIndex">0</Property>
+        <Property name="Text">&amp;Add</Property>
+        <Property name="UseVisualStyleBackColor">False</Property>
+        <Event name="Click">buttonAdd_Click</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonCancel" children="Controls">
+        <Property name="BackColor">42, 43, 48</Property>
+        <Property name="DialogResult">Cancel</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderColor">60, 61, 69</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">84, 3</Property>
+        <Property name="Name">buttonCancel</Property>
+        <Property name="Size">75, 23</Property>
+        <Property name="TabIndex">1</Property>
+        <Property name="Text">Cancel</Property>
+        <Property name="UseVisualStyleBackColor">False</Property>
+        <Event name="Click">buttonCancel_Click</Event>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="flowlayoutpanel1" children="Controls">
+      <Property name="AutoSize">True</Property>
+      <Property name="AutoSizeMode">GrowAndShrink</Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="FlowDirection">TopDown</Property>
+      <Property name="Location">101, 11</Property>
+      <Property name="Name">flowlayoutpanel1</Property>
+      <Property name="Size">309, 133</Property>
+      <Property name="TabIndex">1</Property>
+      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="url" children="Controls">
+        <Property name="Location">3, 3</Property>
+        <Property name="Name">url</Property>
+        <Property name="Size">303, 20</Property>
+        <Property name="TabIndex">0</Property>
+        <Event name="TextChanged">url_TextChanged</Event>
+      </Object>
+      <Object type="System.Windows.Forms.TextBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="description" children="Controls">
+        <Property name="Location">3, 29</Property>
+        <Property name="Name">description</Property>
+        <Property name="Size">303, 20</Property>
+        <Property name="TabIndex">1</Property>
+        <Event name="TextChanged">description_TextChanged</Event>
+      </Object>
+      <Object type="System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="browserSelectBox" children="Controls">
+        <Property name="DropDownStyle">DropDownList</Property>
+        <Property name="FormattingEnabled">True</Property>
+        <Property name="Location">3, 55</Property>
+        <Property name="Name">browserSelectBox</Property>
+        <Property name="Size">128, 21</Property>
+        <Property name="TabIndex">2</Property>
+        <Event name="SelectedIndexChanged">browserSelectBox_SelectedIndexChanged</Event>
+      </Object>
+      <Object type="System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="accountSelectBox" children="Controls">
+        <Property name="DropDownStyle">DropDownList</Property>
+        <Property name="FormattingEnabled">True</Property>
+        <Property name="Items">
+          <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">No Preference</Item>
+          <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Standard</Item>
+          <Item type="System.String, mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">Administrator</Item>
+        </Property>
+        <Property name="Location">3, 82</Property>
+        <Property name="Name">accountSelectBox</Property>
+        <Property name="Size">128, 21</Property>
+        <Property name="TabIndex">3</Property>
+      </Object>
+      <Object type="System.Windows.Forms.ComboBox, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupSelectBox" children="Controls">
+        <Property name="FormattingEnabled">True</Property>
+        <Property name="Location">3, 109</Property>
+        <Property name="Name">groupSelectBox</Property>
+        <Property name="Size">128, 21</Property>
+        <Property name="TabIndex">4</Property>
+        <Event name="SelectedIndexChanged">groupSelectBox_SelectedIndexChanged</Event>
+        <Event name="TextUpdate">groupSelectBox_TextUpdate</Event>
+      </Object>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="openfiledialog1">
+    <Property name="DefaultExt">*.ico</Property>
+    <Property name="Filter">Ico Files|*.ico</Property>
+    <Property name="InitialDirectory">$lastIconDirectory</Property>
+  </Object>
+  <Object type="System.Windows.Forms.OpenFileDialog, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="openfiledialog2">
+    <Property name="DefaultExt">*.*</Property>
+    <Property name="InitialDirectory">C:\</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="tooltip1">
+    <Property name="AutomaticDelay">1000</Property>
+  </Object>
+  <Code><![CDATA[
+$FormEvent_Load = {
+	
+	if ($($global:formSiteAddRelaunched.Relaunched) -eq $true)
+	{
+		$x = $global:formSiteAddRelaunched.X
+		$y = $global:formSiteAddRelaunched.Y
+		$formSiteAdd.StartPosition = 'Manual'
+		$formSiteAdd.Location = "$x,$y"
+		$global:formSiteAddRelaunched = $null
+	}
+	$script:editPath = $null
+	$script:default = $null
+	$script:default = Get-ItemProperty -Path "HKCU:\Software\Nexus\WebBrowsers" | Select -ExpandProperty DefaultBrowser
+	$browsers = Get-ChildItem -Path "HKCU:\Software\Nexus\WebBrowsers"
+	$script:browserList = @()
+	foreach ($object in $browsers)
+	{
+		$script:browserList += $object.Name.Split("\")[-1]
+	}
+	
+	$groups = Get-Item -Path "HKCU:\Software\Nexus\WebsiteGroups"
+	$groups = $groups.Property | Sort-Object
+	$groupSelectBox.Items.AddRange($groups)
+	$browserSelectBox.Items.AddRange($script:browserList)
+	$browserSelectBox.SelectedIndex = 0
+	$accountSelectBox.SelectedIndex = 0
+	$browserSelectBox.SelectedIndex = $browserSelectBox.Items.IndexOf("$script:default")
+	
+	if (($global:siteEditData -notlike $null) -or ($global:siteEditData -notlike ""))
+	{
+		$buttonAdd.Text = "&Update"
+		
+		$url.Text = $global:siteEditData.URL
+		$description.Text = $global:siteEditData.SiteName
+		$browserSelectBox.SelectedItem = $global:siteEditData.Browser
+		$accountSelectBox.SelectedItem = $global:siteEditData.Account
+		$groupSelectbox.SelectedItem = $global:siteEditData.Group
+		
+		$script:editPath = $global:siteEditData.RegPath
+		 
+		$global:siteEditData = $null
+	}
+	
+	if ($browserSelectBox.Items.Count -eq 0)
+	{
+		$buttonDefault.Visible = $false	
+	}
+}
+
+$buttonAdd_Click = {
+	$browserSelected = $browserSelectBox.SelectedItem
+	$accountType = $accountSelectBox.SelectedItem
+	$script:groupSelected = $groupSelectBox.Text
+	$urlSelected = $url.Text
+	$urlFormatted = $null
+	$webProtocol = $null
+	if ($urlSelected -like "http://*")
+	{
+		$webProtocol = "http://"
+	}
+	elseif ($urlSelected -like "https://*")
+	{
+		$webProtocol = "https://"
+	}
+	$urlSelected = $urlSelected.Replace("http://", '')
+	$urlSelected = $urlSelected.Replace("https://", '')
+	$urlFormatted = $urlSelected
+	$urlPathCheck = Test-Path -Path "HKCU:\Software\Nexus\Websites\$urlSelected"
+	if ($urlPathCheck -eq $true)
+	{
+		$index = 0
+		Do
+		{
+			$index++
+			
+			if ($urlSelected -like "*(*")
+			{
+				$split = $urlSelected.Split(" (")[0]
+				$urlSelected = "$split ($index)"
+			}
+			else
+			{
+				$urlSelected = "$urlSelected ($index)"
+			}
+			$urlPathCheck = Test-Path -Path "HKCU:\Software\Nexus\Websites\$urlSelected"
+		}
+		Until ($urlPathCheck -eq $false)
+	}
+	
+	if ($script:editPath -notlike $null)
+	{
+		Remove-Item -Path $script:editPath -Force
+	}
+	
+	$urlSelected = $urlSelected.Replace("/", "-")
+	New-Item -Path "HKCU:\Software\Nexus\Websites\$($urlSelected)" -Force
+	New-ItemProperty -Path "HKCU:\Software\Nexus\Websites\$urlSelected" -Name AccountType -Value $accountType -Force
+	New-ItemProperty -Path "HKCU:\Software\Nexus\Websites\$urlSelected" -Name Browser -Value $browserSelected -Force
+	New-ItemProperty -Path "HKCU:\Software\Nexus\Websites\$urlSelected" -Name Description -Value $description.Text -Force
+	New-ItemProperty -Path "HKCU:\Software\Nexus\Websites\$urlSelected" -Name GroupName -Value $groupSelected -Force
+	New-ItemProperty -Path "HKCU:\Software\Nexus\Websites\$urlSelected" -Name URL -Value $($url.Text) -Force
+	
+	if ((Test-Path -Path "HKCU:\Software\Nexus\WebsiteGroups\") -ne $true)
+	{
+		New-Item -Path "HKCU:\Software\Nexus\WebsiteGroups\" -Force
+		New-ItemProperty -Path "HKCU:\Software\Nexus\WebsiteGroups\" -Name $groupSelected -Value 0 -Force
+	}
+	else
+	{
+		New-ItemProperty -Path "HKCU:\Software\Nexus\WebsiteGroups\" -Name $groupSelected -Value 0 -Force
+	}
+	
+}
+
+$buttonCancel_Click = { $formSiteAdd.Close() }
+
+$buttonAddGroup_Click = {
+	
+	if (($groupSelectBox.Text -ne '') -and ($groupSelectBox.Text -ne $null))
+	{
+		if ($groupSelectBox.Items -notcontains $groupSelectBox.Text)
+		{
+			New-ItemProperty -Path "HKCU:\Software\Nexus\WebsiteGroups\" -Name $groupSelectBox.Text -Value 0 -Force
+			$groupSelectBox.Items.Add($groupSelectBox.Text)
+			$groupSelectBox.Text = ''
+		}
+	}
+}
+
+$buttonRemoveGroup_Click = {
+	
+	Remove-ItemProperty -Path "HKCU:\Software\Nexus\WebsiteGroups\" -Name $groupSelectBox.SelectedItem -Force
+	$siteArray = @(); $siteArray = Get-ChildItem -Path "HKCU:\Software\Nexus\Websites" -Recurse
+	foreach ($object in $siteArray)
+	{
+		$propertyPath = $object.Name.Replace("HKEY_CURRENT_USER", "HKCU:")
+		$siteProperties = Get-ItemProperty -Path "$propertyPath"
+		
+		if ($siteProperties.GroupName -eq $groupSelectBox.SelectedItem)
+		{
+			Set-ItemProperty -Path $propertyPath -Name GroupName -Value $null -Force
+		}
+	}
+	$groupSelectBox.Items.Remove($groupSelectBox.SelectedItem)
+	$groupSelectBox.Text = ''
+	
+}
+
+$groupSelectBox_SelectedIndexChanged = { $script:groupSelected = $groupSelectBox.SelectedItem }
+
+$groupSelectBox_TextUpdate = { $script:groupselected = $groupSelectBox.Text }
+
+$url_TextChanged = {
+	
+	if (($url.Text -ne '') -and ($description.Text -ne '') -and ($url.Text -ne $null) -and ($description.Text -ne $null))
+	{
+		$buttonAdd.Enabled = $true
+	}
+	Else
+	{
+		$buttonAdd.Enabled = $false
+	}
+	
+}
+
+$description_TextChanged = {
+	
+	if (($url.Text -ne '') -and ($description.Text -ne '') -and ($url.Text -ne $null) -and ($description.Text -ne $null))
+	{
+		$buttonAdd.Enabled = $true
+	}
+	Else
+	{
+		$buttonAdd.Enabled = $false
+	}
+	
+}
+
+$buttonDefault_Click = {
+	
+	if (($browserSelectBox.Text -ne '') -and ($browserSelectBox.Text -ne $null))
+	{
+		if ($script:browserList -contains $($browserSelectBox.Text))
+		{
+			New-ItemProperty -Path "HKCU:\Software\Nexus\WebBrowsers" -Name DefaultBrowser -Value $($browserSelectBox.Text) -Force
+			$buttonDefault.Enabled = $false
+		}
+	}
+}
+
+$browserSelectBox_SelectedIndexChanged = {
+	
+	if ($($browserSelectBox.Text) -notmatch "$script:default")
+	{
+		$buttonDefault.Enabled = $true
+	}
+	Else
+	{
+		$buttonDefault.Enabled = $false
+	}
+	
+}
+
+$buttonAddBrowser_Click={ Reopen-Site-Add }
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>

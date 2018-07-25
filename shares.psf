@@ -1,0 +1,372 @@
+﻿<File version="2">
+  <FileID>ba76ffa3-80ad-4505-a4af-b07da904ac89</FileID>
+  <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAjxSURBVHhe7dq/bxz0Hcfh/B9dKkijYOd85/Nd
+EgdS0kpUCoiklZAQIb9IWBjoEFUqQyO1Q7uwgBUyWEyBBSFUqagVMxNrLZjakYG/IcsXQwxb5Ky+
+1/NIb52l+9z8fQ0+BgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAcm82Wn83n23v7n2ZmZnbkd3pvc/P03sEz/3j7x/9fLp8bW1vbZmZmduR3
+biwW58bBM/94P9TCDz/YrwUzMzM78jsz5vMzAsDMzGzVNt3YHOun5mNz/6GfTh79Pfv5ewFgZma2
+YluOUxvL8drNO+NPVy+P40+dGNsvvjn+9vad8eut+diYLfdvBICZmdnKbbI+G8+/cnf864uPxpUL
+F8dfP/7P+PDPr4/piemY/ngjAMzMzFZvs8U4fnI6rvzl/vj6m/+Nf+/eHYvpyTGZnjm4EQBmZmar
+t/npsX785Fhcujv++92348E7fxi/+uVkzPYf/Uc3AsDMzGzlNp1Mx/rZy+PB51+N3fvvjk/++en4
+48sXxvG1zYMbAWBmZrZiW4y1tbPj1rufjC8f/H3Mf/H0uHRnd3z+0T/G77YmYzL1T4BmZmart9li
+TDd/M1597a1x+dn9GFjfHM9sXRjXr1wdL25vjw0BYGZmtqpbjPW1yVjfWP740G/OtsYza7Mxmf30
+/RMGwHS62Dt1aj7W1qZmZmZ25Dcb+2/74QGwXJ7be+ml34+LFy+ZmZnZCuz8+d8eHgBXr97Ye/jw
+4TAzM7PV2Hvv7RweANev39obAMDKuHfv/uEBcO3aGwIAAFbIzs49AQAANQIAAIIEAAAECQAACBIA
+ABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIE
+AAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAg
+AQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAg
+SAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAA
+CBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIA
+AIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAA
+AIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAk
+AAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAE
+CQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAA
+QQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAA
+QJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIA
+ABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIE
+AAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAg
+AQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAg
+SAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAA
+CBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIA
+AIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAA
+AIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAk
+AAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAE
+CQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAA
+QQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAA
+QJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIA
+ABAkAAAgSAAAQJAAAIAgAQAAQQIAAIIEAAAECQAACBIAABAkAAAgSAAAQNATBcDNm7e/PrgHAFbA
+7u6HhwfACy9c/GZn5/54//17ZmZmduT3wbhx4/bhAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAq+7Yse8B+yNDmul3MsEAAAAASUVORK5C
+YII=</Preview>
+  <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formShares" children="Controls">
+    <Property name="BackColor">49, 49, 54</Property>
+    <Property name="ClientSize">732, 491</Property>
+    <Property name="FormBorderStyle">None</Property>
+    <Property name="Name">formShares</Property>
+    <Property name="StartPosition">Manual</Property>
+    <Property name="Text">Form</Property>
+    <Event name="Load">formShares_Load</Event>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowBarPanel" children="Controls">
+      <Property name="Anchor">Top, Left, Right</Property>
+      <Property name="BackColor">Transparent</Property>
+      <Property name="Location">0, 0</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="Name">windowBarPanel</Property>
+      <Property name="Size">732, 19</Property>
+      <Property name="TabIndex">34</Property>
+      <Event name="MouseDown">windowBarPanel_MouseDown</Event>
+      <Event name="MouseUp">windowBarPanel_MouseUp</Event>
+      <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonSharesClose" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="FlatAppearance">
+          <Property name="BorderSize">0</Property>
+          <Property name="MouseOverBackColor">83, 84, 89</Property>
+        </Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="ForeColor">White</Property>
+        <Property name="Location">714, 0</Property>
+        <Property name="Margin">0, 0, 0, 0</Property>
+        <Property name="Name">buttonSharesClose</Property>
+        <Property name="Size">18, 21</Property>
+        <Property name="TabIndex">2</Property>
+        <Property name="Text">X</Property>
+        <Property name="UseVisualStyleBackColor">True</Property>
+        <Event name="Click">buttonSharesClose_Click</Event>
+      </Object>
+    </Object>
+    <Object type="System.Windows.Forms.ListView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="shareList" children="Controls">
+      <Property name="Activation">OneClick</Property>
+      <Property name="Alignment">Left</Property>
+      <Property name="Anchor">Top, Bottom, Left, Right</Property>
+      <Property name="BackColor">White</Property>
+      <Property name="BorderStyle">FixedSingle</Property>
+      <Property name="Columns">
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Icon" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Name" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Path" />
+        </Item>
+        <Item type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+          <Reference name="Description" />
+        </Item>
+      </Property>
+      <Property name="ContextMenuStrip">
+        <Reference name="shareOptions" />
+      </Property>
+      <Property name="ForeColor">Black</Property>
+      <Property name="FullRowSelect">True</Property>
+      <Property name="HeaderStyle">None</Property>
+      <Property name="HotTracking">True</Property>
+      <Property name="HoverSelection">True</Property>
+      <Property name="LargeImageList">
+        <Reference name="shareIconList" />
+      </Property>
+      <Property name="Location">0, 19</Property>
+      <Property name="MultiSelect">False</Property>
+      <Property name="Name">shareList</Property>
+      <Property name="ShowItemToolTips">True</Property>
+      <Property name="Size">732, 472</Property>
+      <Property name="SmallImageList">
+        <Reference name="shareIconList" />
+      </Property>
+      <Property name="Sorting">Ascending</Property>
+      <Property name="TabIndex">0</Property>
+      <Property name="UseCompatibleStateImageBehavior">False</Property>
+      <Property name="View">Details</Property>
+      <Event name="ItemActivate">shareList_ItemActivate</Event>
+      <Event name="SelectedIndexChanged">shareList_SelectedIndexChanged</Event>
+    </Object>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Path">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">120</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="shareIconList">
+    <Property name="ImageStream">
+      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAu
+MC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAA
+ACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkD
+AAAADwMAAAAQDgAAAk1TRnQBSQFMAwEBAAGIAQABiAEAASABAAEgAQAE/wEhAQAI/wFCAU0BNgcA
+ATYDAAEoAwABgAMAASADAAEBAQABIAYAAUD/AP8A/wD/AP8A/wAcAAMcAf8DHAH/AxoB/wMaAf8D
+GgH/AxoB/wMaAf8DGgH/AxsB/wMbAf8DGwH/AxsB/wMcAf8DHAH/AxwB/wMcAf8DHQH/Ax0B/wMb
+Af8DHAH/AxwB/wMcAf8DHAH/Ax0B/wMdAf8DHQH/Ax0B/wMeAf8DHgH/Ax4B/wMeAf//AIUAAxwB
+/wMcAf8DHAH/AxwB/wMcAf8DHAH/Ax0B/wMdAf8DHQH/Ax4B/wMeAf8DHgH/Ax4B/wMfAf8DHwH/
+Ax8B/wMgAf8DIAH/AyAB/wMgAf8DIQH/AyEB/wMhAf8DIQH/AyIB/wMiAf8DIgH/AyIB/wMjAf8D
+IwH/AyMB//8AhQADHAH/AxwB/wMcAf8DHQH/Ax0B/wMdAf8DHQH/Ax4B/wMeAf8DHgH/Ax8B/wMf
+Af8DHwH/Ax8B/wMgAf8DIAH/AyAB/wMgAf8DIQH/AyEB/wMhAf8DIQH/AyIB/wMiAf8DIgH/AyIB
+/wMjAf8DIwH/AyMB/wMjAf8DIwH//wCFAAMcAf8DHQH/Ax0B/wMdAf8DHgH/Ax4B/wMeAf8DHgH/
+Ax8B/wMfAf8DHwH/AyAB/wMgAf8DIAH/AyAB/wMhAf8DIQH/AyEB/wMhAf8DIgH/AyIB/wMiAf8D
+IgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/AyQB/wMkAf//AIUAAx0B/wMdAf8DHgH/Ax4B/wMe
+Af8DHwH/Ax8B/wMfAf8DHwH/AyAB/wMgAf8DIAH/AyAB/wMhAf8DIQH/AyEB/wMhAf8DIgH/AyIB
+/wMiAf8DIgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/AyQB/wMkAf8DJAH/AyUB//8AhQADHgH/
+Ax4B/wMeAf8DHwH/Ax8B/wMfAf8DIAH/AyAB/wMgAf8DIAH/AyEB/wMhAf8DIQH/AyEB/wMiAf8D
+IgH/AyIB/wMiAf8DIwH/AyMB/wMjAf8DIwH/AyMB/wMkAf8DJAH/AyQB/wMkAf8DJAH/AyUB/wMl
+Af8DJQH//wCFAAMfAf8DHwH/Ax8B/wMfAf8DIAH/AyAB/wMgAf8DIAH/AyEB/wMhAf8DIQH/AyEB
+/wMiAf8DIgH/AyIB/wMiAf8DIwH/AyMB/wMjAf8DIwH/AyMB/wMkAf8DJAH/AyQB/wMkAf8DJQH/
+AyUB/wMlAf8DJQH/AyUB/wMlAf//AIUAAx8B/wMgAf8DIAH/AyAB/wMgAf8DIAH/AyEB/wMhAf8D
+IQH/AyIB/wMiAf8DIgH/AyIB/wMjAf8DIwH/AyMB/wMjAf8DIwH/AyQB/wMkAf8DJAH/AyQB/wMk
+Af8DJQH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJgH/AyYB//8AhQADIAH/AyAB/wMgAf8DIQH/AyEB
+/wMhAf8DIQH/AyIB/wMiAf8DIgH/AyIB/wMjAf8DIwH/AyMB/wMjAf8DIwH/AyQB/wMkAf8DJAH/
+AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMmAf8DJgH/AyYB/wMmAf8DJgH//wCFAAMgAf8D
+IQH/AyEB/wMhAf8DIgH/AyIB/wMiAf8DIgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/AyQB/wMk
+Af8DJAH/AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMmAf8DJgH/AyYB/wMmAf8DJgH/AycB
+/wMnAf//AIUAAyEB/wMhAf8DIgH/AyIB/wMiAf8DIgH/AyMB/wMjAf8DIwH/AyMB/wMjAf8DJAH/
+AyQB/wMkAf8DJAH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyYB/wMmAf8DJgH/AyYB/wMmAf8D
+JgH/AycB/wMnAf8DJwH/AycB//8AhQADIgH/AyIB/wMiAf8DIwH/AyMB/wMjAf8DIwH/AyMB/wMk
+Af8DJAH/AyQB/wMkAf8DJAH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyYB/wMmAf8DJgH/AyYB
+/wMmAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH//wCFAAMiAf8DIwH/AyMB/wMjAf8DIwH/
+AyMB/wMkAf8DJAH/AyQB/wMkAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJgH/AyYB/wMmAf8D
+JgH/AyYB/wMmAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/AygB/wMoAf//AIUAAyMB/wMj
+Af8DIwH/AyQB/wMkAf8DJAH/AyQB/wMkAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMlAf8DJgH/AyYB
+/wMmAf8DJgH/AyYB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/AygB/wMoAf8DKAH/
+AygB//8AhQADIwH/AyQB/wMkAf8DJAH/AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB/wMmAf8D
+JgH/AyYB/wMmAf8DJgH/AyYB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DKAH/AygB/wMo
+Af8DKAH/AygB/wMoAf8DKAH//wCFAAMkAf8DJAH/AyQB/wMlAf8DJQH/AyUB/wMlAf8DJQH/AyUB
+/wMmAf8DJgH/AyYB/wMmAf8DJgH/AyYB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMnAf8DKAH/
+AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf//AIUAAyUB/wMlAf8DJQH/AyUB/wMlAf8D
+JQH/AyYB/wMmAf8DJgH/AyYB/wMmAf8DJgH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/AycB/wMo
+Af8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB//8AhQADJQH/AyUB
+/wMlAf8DJQH/AyYB/wMmAf8DJgH/AyYB/wMmAf8DJgH/AycB/wMnAf8DJwH/AycB/wMnAf8DJwH/
+AycB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8D
+KAH//wCFAAMlAf8DJgH/AyYB/wMmAf8DJgH/AyYB/wMmAf8DJwH/AycB/wMnAf8DJwH/AycB/wMn
+Af8DJwH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB
+/wMoAf8DKAH/AygB/wMoAf//AIUAAyYB/wMmAf8DJgH/AyYB/wMmAf8DJwH/AycB/wMnAf8DJwH/
+AycB/wMnAf8DJwH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8D
+KAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB//8AhQADJgH/AyYB/wMnAf8DJwH/AycB/wMn
+Af8DJwH/AycB/wMnAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB
+/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH//wCFAAMnAf8DJwH/
+AycB/wMnAf8DJwH/AycB/wMnAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8D
+KAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMo
+Af//AIUAAcwBlwEAAf8BywGWAQAB/wHJAZUBAAH/AccBkwEAAf8BxgGSAQAB/wHDAZABAAH/AcEB
+jwEAAf8BwAGOAQAB/wG+AYwBAAH/AbwBiwEAAf8DBQH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/
+AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf8DKAH/AygB/wMoAf//
+AIUAAdoBoQEAAf8B2QGhAQAB/wHYAaABAAH/AdgBnwEAAf8B1wGfAQAB/wHVAZ4BAAH/AdQBnQEA
+Af8B0wGcAQAB/wHSAZsBAAH/AdEBmgEAAf8BzwGZAQAB/wGnAYMBAAH/AaUBggEAAf8BpQGCAQAB
+/wGjAYABAAH/AaIBfwEAAf8BoQF+AQAB/wGeAX0BAAH/AZ0BfAEAAf8BnAF6AQAB/wGaAXkBAAH/
+AZkBeAEAAf8BlwF3AQAB/wGVAXUBAAH/AZMBdAEAAf8BkgFzAQAB/wGQAXIBAAH/AY4BcAEAAf8B
+jAFuAQAB/wGLAW0BAAH/AYkBbAEAAf//AIUAAcsBmQEAAf8B2wGiAQAB/wHbAaIBAAH/AdsBogEA
+Af8B2wGiAQAB/wHbAaIBAAH/AdsBogEAAf8B2wGiAQAB/wHbAaIBAAH/AdsBogEAAf8BsgGMAQAB
+//8A/wD/AP8A/wD/AP8A/wD/ANkAAUIBTQE+BwABPgMAASgDAAGAAwABIAMAAQEBAAEBBgABAhYA
+A/8BAAT/DAAE/wwABP8MAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwAB
+gA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGADwABgA8AAYAPAAGA
+AQ8C/wwABP8MAAT/DAAE/wwABP8MAAs=</Binary>
+    </Property>
+    <Property name="TransparentColor">Transparent</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Description">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">280</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Icon">
+    <Property name="Text">
+    </Property>
+    <Property name="Width">40</Property>
+  </Object>
+  <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowMoveTimer">
+    <Property name="Interval">10</Property>
+    <Event name="Tick">windowMoveTimer_Tick</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="tooltipButtons" />
+  <Object type="System.Windows.Forms.ColumnHeader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="Name">
+    <Property name="Width">260</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ContextMenuStrip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="shareOptions" children="Controls">
+    <Property name="BackColor">42, 43, 48</Property>
+    <Property name="Items">
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="copySharePathToolStripMenuItem" />
+      </Item>
+      <Item type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089">
+        <Reference name="driveSpaceToolStripMenuItem" />
+      </Item>
+    </Property>
+    <Property name="Name">contextmenustrip1</Property>
+    <Property name="ShowImageMargin">False</Property>
+    <Property name="Size">105, 26</Property>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="copySharePathToolStripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">copySharePathToolStripMenuItem</Property>
+    <Property name="Size">104, 22</Property>
+    <Property name="Text">Copy Path</Property>
+    <Event name="Click">copySharePathToolStripMenuItem_Click</Event>
+  </Object>
+  <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="driveSpaceToolStripMenuItem">
+    <Property name="ForeColor">White</Property>
+    <Property name="Name">driveSpaceToolStripMenuItem</Property>
+    <Property name="Size">110, 22</Property>
+    <Property name="Text">Drive Space</Property>
+    <Event name="Click">driveSpaceToolStripMenuItem_Click</Event>
+  </Object>
+  <Code><![CDATA[
+$formShares_Load = {
+	
+	$formShares.StartPosition = 'Manual'
+	$formShares.Location = $formAnchorShares.PointToScreen($formShares.Location)
+	
+	$sharesArray = @(); $sharesArray = get-WmiObject -class Win32_Share -computer $($computername_field.Text)
+	$listViewObjectArray = @()
+	$index = 0
+	foreach ($object in $sharesArray)
+	{
+		Add-ListViewItem -ListView $shareList -Items "" -ImageIndex 0 -SubItems $object.Name, $object.Path, $object.Description
+		$shareList.Items[$index].ToolTipText = $($object.Path)
+		$index++
+	}
+	Sort-ListViewColumn -ListView $shareList -ColumnIndex 1 -SortOrder 'Ascending'
+	$formShares.Add_Shown({ $formShares.Activate(); $formShares.focus() })
+	
+	#region Window Foreground
+	Mainform-Foreground
+	#endregion
+}
+
+#region Functions
+
+$shareList_SelectedIndexChanged = {
+	$script:share = $null
+	$ErrorActionPreference = 'SilentlyContinue'
+	$script:share = $shareList.SelectedItems[0].SubItems[1].Text
+	$script:shareIndex = $shareList.SelectedIndices[0]
+}
+
+$shareList_ItemActivate = {
+	
+	if ($script:share -notlike "*\\*")
+	{
+		$sharePath = "\\" + "$($computername_field.Text)" + "\" + "$($shareList.Items[$shareIndex].SubItems[1].Text)"
+		if ((Test-Path -path "$sharePath") -eq $true)
+		{
+			explorer.exe $sharePath
+		}
+		else
+		{
+			$global:errorMessage = "Unable to connect. This may be due to insufficient permissions."
+			Call-error_psf
+		}
+	}
+	else
+	{
+		$sharePath = $($shareList.Items[$shareIndex].SubItems[1].Text)
+		if ((Test-Path -path "$sharePath") -eq $true)
+		{
+			explorer.exe $sharePath
+		}
+		else
+		{
+			$global:errorMessage = "Unable to connect. This may be due to insufficient permissions."
+			Call-error_psf
+		}
+	}
+	
+}
+
+$buttonSharesClose_Click={ $formShares.Close() }
+
+$windowBarPanel_MouseDown = [System.Windows.Forms.MouseEventHandler]{
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$controlPosition = $windowBarPanel.PointToClient((New-Object System.Drawing.Point($_.X, $_.Y)))
+	$script:diffX = ($cursorPosition.X + $controlPosition.X)
+	$script:diffy = ($cursorPosition.Y + $controlPosition.Y)
+	$windowMoveTimer.Start()
+	
+}
+
+$windowBarPanel_MouseUp = [System.Windows.Forms.MouseEventHandler]{
+	
+	$script:diffx = 0
+	$script:diffy = 0
+	$windowMoveTimer.Stop()
+	
+}
+
+$windowMoveTimer_Tick = {
+	
+	$cursorPosition = [System.Windows.Forms.Cursor]::Position
+	$newPosX = $cursorPosition.X - ($diffx/2)
+	if (($cursorPosition.Y - ($diffy/2)) -lt 0)
+	{ $newPosY = 0 }
+	Else
+	{ $newPosY = $cursorPosition.Y - ($diffy/2) }
+	$formShares.SetDesktopLocation($newPosX, $newPosY)
+	
+}
+
+$copySharePathToolStripMenuItem_Click={ Set-Clipboard -Value "$script:share" }
+
+$driveSpaceToolStripMenuItem_Click={
+	
+	$spaceSniffer = "$toolsPath\SpaceSniffer.exe"
+	$sharePath = "\\" + "$($computername_field.Text)" + "\" + "$($shareList.Items[$shareIndex].SubItems[1].Text)"
+	$spaceArgs = "scan $sharePath"
+	Start $spaceSniffer -ArgumentList "$spaceArgs"
+	
+}
+]]></Code>
+  <Mode>1</Mode>
+  <Assemblies>
+    <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
+    <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Data, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Xml, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.DirectoryServices, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Core, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
+    <Assembly>System.ServiceProcess, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+    <Assembly>System.Design, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</Assembly>
+  </Assemblies>
+</File>
