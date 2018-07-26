@@ -26,7 +26,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAADAn9XqG9t9WWvZ2EiBAAAAAElFTkSuQmCC</Preview>
   <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="MainForm" children="Controls">
-    <Property name="AutoScaleMode">None</Property>
+    <Property name="AutoScaleDimensions">6, 13</Property>
+    <Property name="AutoScaleMode">Font</Property>
     <Property name="AutoSize">True</Property>
     <Property name="AutoSizeMode">GrowAndShrink</Property>
     <Property name="AutoValidate">EnableAllowFocusChange</Property>
@@ -6522,6 +6523,7 @@ hZiUwlOHwlpKITGlQNqhMFxR+E4p5FdUKlZUVl5FpaumUmcqjDup3M5dB7QODWgdGtFSHtFSGtke
 ztiWef6tyhnbJjSipTSgdfi9yOjdmtIbW9P7vab7sIvu3IruZ4fu9YpyQYdySEoZqKK8lVLOqyhX
 ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
         </Property>
+        <Property name="BackgroundImageLayout">Stretch</Property>
         <Property name="Location">0, 0</Property>
         <Property name="Margin">0, 0, 0, 0</Property>
         <Property name="Name">windowBarPanel</Property>
@@ -7688,7 +7690,7 @@ V70AcN8TpfM/s3283/2SgDd+1e9AB9q96AD7V70AH2r3oAPtXvQAfavegA+1e9AB9q96AOU8dy+Z
       <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAu
 MC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAA
 ACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkD
-AAAADwMAAADqNgAAAk1TRnQBSQFMAwEBAAGoAQABqAEAASEBAAFDAQAE/wEhAQAI/wFCAU0BNgcA
+AAAADwMAAADqNgAAAk1TRnQBSQFMAwEBAAGwAQABsAEAASEBAAFDAQAE/wEhAQAI/wFCAU0BNgcA
 ATYDAAEoAwABhAMAAUMDAAEBAQABIAUAATABihIAAv8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8B
 dAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0
 A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQB/wHkAe8BjgH//wCN
@@ -8324,7 +8326,7 @@ $MainForm_KeyUp=[System.Windows.Forms.KeyEventHandler]{
 	
 }
 ]]></Code>
-  <Mode>1</Mode>
+  <Mode>0</Mode>
   <Assemblies>
     <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
     <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>

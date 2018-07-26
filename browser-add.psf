@@ -272,6 +272,8 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAmf7lX/5/cYfw7pZ6zvEAAAAASUVORK5CYII=</Pr
     <Property name="AcceptButton">
       <Reference name="buttonBrowse2" />
     </Property>
+    <Property name="AutoScaleDimensions">6, 13</Property>
+    <Property name="AutoScaleMode">Font</Property>
     <Property name="BackColor">54, 57, 62</Property>
     <Property name="BackgroundImageLayout">Stretch</Property>
     <Property name="ClientSize">505, 137</Property>

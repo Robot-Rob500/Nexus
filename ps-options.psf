@@ -1818,6 +1818,8 @@ EolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQS
 iUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJRCKRSCQSiUQikUgkEolEIpFIJBKJ
 RCKRSCQSiUTyf5S/+qv/P8jyM+kRsmOyAAAAAElFTkSuQmCC</Preview>
   <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formPSOptions" children="Controls">
+    <Property name="AutoScaleDimensions">6, 13</Property>
+    <Property name="AutoScaleMode">Font</Property>
     <Property name="BackColor">42, 43, 48</Property>
     <Property name="BackgroundImageLayout">Stretch</Property>
     <Property name="ClientSize">142, 79</Property>
@@ -2082,7 +2084,7 @@ $psOptionsCloseTimer_Tick = {
 
 $formPSOptions_Deactivate={ $formPSOptions.Close() }
 ]]></Code>
-  <Mode>1</Mode>
+  <Mode>0</Mode>
   <Assemblies>
     <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
     <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>
