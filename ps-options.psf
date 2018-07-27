@@ -1984,7 +1984,7 @@ TkSuQmCC</Binary>
 $formPSOptions_Load={
 	
 	$formPSOptions.StartPosition = 'Manual'
-	$formPSOptions.Location = $formAnchorPowershell.PointToScreen($formPSOptions.Location)
+	$formPSOptions.Location = $buttonPowershellRemote.PointToScreen($formPSOptions.Location)
 	
 	#region Window Foreground
 	Mainform-Foreground
@@ -2084,7 +2084,7 @@ $psOptionsCloseTimer_Tick = {
 
 $formPSOptions_Deactivate={ $formPSOptions.Close() }
 ]]></Code>
-  <Mode>0</Mode>
+  <Mode>1</Mode>
   <Assemblies>
     <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
     <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>

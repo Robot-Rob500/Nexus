@@ -1,8 +1,8 @@
 ﻿<File version="2">
   <FileID>8d74389b-4c1c-4d0c-9cb6-78bc1cc02b35</FileID>
   <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAULSURBVHhe7daxigIxAEVR/3ur6awFe2FAEEVI
-P/6HwwxY+BVW2c3ilqJsN7xz4JImqfNWAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAUKSURBVHhe7dexigIxAEVR/3vLaawFe2FEUFFI
+P/sbgqiVX2GVNaKl6JbDOwcu0yR13kwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -10,12 +10,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPB/2+32a7PZlPV6LUmSFl7X
-dWUYhvL85l/7uXw5HA71dDrVdkqSpOXW93293+/1+c2/1tbC8XispZR6Pp8lSdKCayNgnufPBkC7
-3B61ISBJkpbbfr+v0zQZAJIkJWUASJIUmAEgSVJgBoAkSYEZAJIkBWYASJIUmAEgSVJgBoAkSYEZ
-AJIkBWYASJIUmAEgSVJgBoAkSYEZAJIkBWYASJIUmAEgSVJgBoAkSYEZAJIkBWYASJIUmAEgSVJg
-BoAkSYEZAJIkBWYASJIUmAEgSVJgBoAkSYEZAJIkBWYASJIUmAEgSVJgBoAkSYEZAJIkBfbxAOi6
-rvR9X9sIaI8kSdJy2+12dRzH9wOglDLcbrc6z/PvYpAkScvter3Wx+PxfgAAAAAAAAAAAAAAAAAA
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgH+bz+c9sNivT6VSSJI28
+ruvKMAzl+cy/dz/8u9ls6m63q+0rSZLG23K5rNfrtT6f+ffaWthut7WU8hgBkiRpvK3X63o+n78b
+AO3wfr+vbQhIkqTxtlqt6ul0MgAkSUrKAJAkKTADQJKkwAwASZICMwAkSQrMAJAkKTADQJKkwAwA
+SZICMwAkSQrMAJAkKTADQJKkwAwASZICMwAkSQrMAJAkKTADQJKkwAwASZICMwAkSQrMAJAkKTAD
+QJKkwAwASZICMwAkSQrMAJAkKTADQJKkwAwASZICMwAkSQrMAJAkKTADQJKkwAwASZIC+3oAdF1X
++r6vbQS0S5IkabwtFot6PB4/D4D7n/9wuVwea6FdkCRJ4+1wONTb7fZ5AAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -24,7 +24,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAADAn9XqG9t9WWvZ2EiBAAAAAElFTkSuQmCC</Preview>
+AAAAAMDLZPIHwdBlj8FFVZkAAAAASUVORK5CYII=</Preview>
   <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="MainForm" children="Controls">
     <Property name="AutoScaleDimensions">6, 13</Property>
     <Property name="AutoScaleMode">Font</Property>
@@ -33,7 +33,7 @@ AAAAAADAn9XqG9t9WWvZ2EiBAAAAAElFTkSuQmCC</Preview>
     <Property name="AutoValidate">EnableAllowFocusChange</Property>
     <Property name="BackColor">42, 43, 48</Property>
     <Property name="BackgroundImageLayout">Stretch</Property>
-    <Property name="ClientSize">1246, 87</Property>
+    <Property name="ClientSize">1254, 87</Property>
     <Property name="DoubleBuffered">True</Property>
     <Property name="FormBorderStyle">None</Property>
     <Property name="Icon">
@@ -6315,7 +6315,7 @@ gAEAAIABAACAAQAAgAEAAIABAACAAQAAgAEAAIABOS6AATYAgAEAAP//AgA=</Binary>
       <Property name="Location">0, 0</Property>
       <Property name="Margin">0, 0, 0, 0</Property>
       <Property name="Name">mainformFlowPanel</Property>
-      <Property name="Size">1246, 87</Property>
+      <Property name="Size">1254, 87</Property>
       <Property name="TabIndex">34</Property>
       <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowBarPanel" children="Controls">
         <Property name="BackColor">42, 43, 48</Property>
@@ -6527,7 +6527,7 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
         <Property name="Location">0, 0</Property>
         <Property name="Margin">0, 0, 0, 0</Property>
         <Property name="Name">windowBarPanel</Property>
-        <Property name="Size">1243, 20</Property>
+        <Property name="Size">1254, 20</Property>
         <Property name="TabIndex">32</Property>
         <Property name="Visible">False</Property>
         <Event name="MouseDown">windowBarPanel_MouseDown</Event>
@@ -6539,7 +6539,7 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
           </Property>
           <Property name="FlatStyle">Flat</Property>
           <Property name="ForeColor">White</Property>
-          <Property name="Location">1206, -2</Property>
+          <Property name="Location">1217, -2</Property>
           <Property name="Margin">0, 0, 0, 0</Property>
           <Property name="Name">minimizeButton</Property>
           <Property name="Size">19, 21</Property>
@@ -6550,11 +6550,12 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
           <Event name="Click">minimizeButton_Click</Event>
         </Object>
         <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panelTopBorder" children="Controls">
+          <Property name="Anchor">Left, Right</Property>
           <Property name="BackColor">55, 56, 61</Property>
           <Property name="Location">2, 19</Property>
           <Property name="Margin">0, 0, 0, 0</Property>
           <Property name="Name">panelTopBorder</Property>
-          <Property name="Size">1243, 1</Property>
+          <Property name="Size">1254, 1</Property>
           <Property name="TabIndex">13</Property>
         </Object>
         <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="exitButton" children="Controls">
@@ -6564,7 +6565,7 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
           </Property>
           <Property name="FlatStyle">Flat</Property>
           <Property name="ForeColor">White</Property>
-          <Property name="Location">1225, 0</Property>
+          <Property name="Location">1236, 0</Property>
           <Property name="Margin">0, 0, 0, 0</Property>
           <Property name="Name">exitButton</Property>
           <Property name="Size">19, 21</Property>
@@ -6579,17 +6580,11 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
         <Property name="Location">0, 20</Property>
         <Property name="Margin">0, 0, 0, 0</Property>
         <Property name="Name">mainWindowPanel</Property>
-        <Property name="Size">1243, 67</Property>
+        <Property name="Size">1255, 67</Property>
         <Property name="TabIndex">33</Property>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formAnchorDropdown" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="FlatStyle">Flat</Property>
-          <Property name="Location">0, 66</Property>
-          <Property name="Name">formAnchorDropdown</Property>
-          <Property name="Size">10, 10</Property>
-          <Property name="TabIndex">22</Property>
-        </Object>
         <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panelAllControls" children="Controls">
+          <Property name="Anchor">Left, Right</Property>
+          <Property name="AutoSizeMode">GrowAndShrink</Property>
           <Property name="BackColor">42, 43, 48</Property>
           <Property name="BackgroundImage">
             <Binary>iVBORw0KGgoAAAANSUhEUgAABNsAAABCCAYAAABuM9BJAAAABGdBTUEAALGPC/xhBQAALKJJREFU
@@ -6795,17 +6790,19 @@ hZiUwlOHwlpKITGlQNqhMFxR+E4p5FdUKlZUVl5FpaumUmcqjDup3M5dB7QODWgdGtFSHtFSGtke
 ztiWef6tyhnbJjSipTSgdfi9yOjdmtIbW9P7vab7sIvu3IruZ4fu9YpyQYdySEoZqKK8lVLOqyhX
 ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
           </Property>
-          <Property name="BackgroundImageLayout">Zoom</Property>
+          <Property name="BackgroundImageLayout">Stretch</Property>
           <Property name="Location">0, 0</Property>
+          <Property name="Margin">0, 0, 0, 0</Property>
           <Property name="Name">panelAllControls</Property>
-          <Property name="Size">1243, 66</Property>
+          <Property name="Size">1255, 66</Property>
           <Property name="TabIndex">30</Property>
           <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="controlPanel" children="Controls">
-            <Property name="BackColor">42, 43, 48</Property>
-            <Property name="Location">1007, 0</Property>
+            <Property name="BackColor">Transparent</Property>
+            <Property name="BackgroundImageLayout">None</Property>
+            <Property name="Location">1021, 0</Property>
             <Property name="Margin">0, 0, 0, 0</Property>
             <Property name="Name">controlPanel</Property>
-            <Property name="Size">236, 67</Property>
+            <Property name="Size">233, 67</Property>
             <Property name="TabIndex">15</Property>
             <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="flowlayoutpanel1" children="Controls">
               <Property name="Location">0, -4</Property>
@@ -6832,16 +6829,13 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
                 <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="adminCredentials" children="Controls">
                   <Property name="BackColor">Transparent</Property>
                   <Property name="BackgroundImage">
-                    <Binary>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAepJREFU
-WEftVdlxwjAQpYQ0gC06oARKooPQQegg6SD5J0SGBkwH4Z9hfDRA9mlXSBoOywf5Sd6MJt7z7a7E
-ZvSPIXBYqdlxnbwWn0lebSanaqNOhU5y6A5azcRteBRaTY/rsa6JsCZi9zf8hg98JWwYIGHxlRQg
-KnRakrzwSYzd6NKy3k4wkcK39wInBzmNWydvJD+J6QKwlVnyMWgR5UZl9VYZclGdAUIiejmskm8c
-8nmG3hZRZmNtHLuCCGbcjRn7ReeVVkvY3UGhasmF2evo8TDRtSRZiCqAR4I3MMU3JsE2tYB8bXLR
-KLN0h66QXFQBuAC22wJIt2cby3QduXHuAiQAgYgXsF36BzoxS/zkZnwjQN6UgO883fMJr6p3AUiK
-BBinqKLhriDdiao9vEc4F1U0MA3Edn6ElABLJcc14Hct6igg1iwvLr79zzAkT3eQxRQFXkQUS0tM
-VPFw5Hx/bcg5Nn3nzs3yavd2HPn9zkk/95PjG2vYjb0XeXPn8Ll1MPYe5HF3zmTYEbwnEIPXTnF9
-Hlzbzm9vyGi0IQdsx/aIujtAGkMeEg/QuQUnNv/NWnQ+aAH3R+lI7/t1RlPisPOHFMAEIp7hSK/b
-B4MlEvEMR/7wAvwR+98si9vjEJK7jn+tgD+G0egHHSaYfVu1Z0gAAAAASUVORK5CYII=</Binary>
+                    <Binary>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAEbSURBVEhL7ZI/SwNBFMSfNuJXsNBCEP0GFtZCOlFsTnL4Dys7O2s/kVhaR/E0lhov
+twZT2dkE7MZ353DmbbbIBsv7wcCyM2/ecpw0NPwvyGUBmZyrCjwKVF96flC1GZkddGVJC19YHNJN
++QDG4wBkTl/ZCZRaZXLLkTh08DhYGFImKcemRwfvvZJrPMlGpfI87kWI9dWCkTG7skKr9JaNFyFW
+aMng9BuDM9QqttZoCXrb68aLECu05D3tGdMld8hbm5Vc0jFehFivC/Ldy1AgqP7OBcdq/Ayv/9Df
+dB6u/eoHJ+QOnjli8HO8tuCjtQp3NPTDtYokw3B/kXGDn+X1JGUB+ntXcIefv+GTEVz6Fvos40y9
+oKFhBkR+AMvCDLyhBlJCAAAAAElFTkSuQmCC</Binary>
                   </Property>
                   <Property name="BackgroundImageLayout">Zoom</Property>
                   <Property name="FlatAppearance">
@@ -6878,15 +6872,13 @@ B4MlEvEMR/7wAvwR+98si9vjEJK7jn+tgD+G0egHHSaYfVu1Z0gAAAAASUVORK5CYII=</Binary>
                 <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="userCredentials" children="Controls">
                   <Property name="BackColor">Transparent</Property>
                   <Property name="BackgroundImage">
-                    <Binary>iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAABGdBTUEAALGPC/xhBQAAAZ1JREFU
-WEftVNtxg0AMpISUkhJcUjowHcQdmA6SDuIO4g6cn9hOfuIKUHZvJEaGA8Nx+Ms7o+GQdLsn3aN4
-IAdOIqtvke1R5PNHRGgc08eYpuXHr8jzsa4/TLTPmMNcnZYHJER1fxQ4i1wwLr2IxkvGmMPcbIvw
-4rDqIPKkoQ4YO9X1e9ZFgGhn4upqQEHs/yvafqAhd02/LYLbERJTAcIVidjaWOWocKOLa4w+5rrt
-SD+YIKiUpFTXFUyEraZxzE4wxjn8J0dITgFauTcBdV0htgD4vhhrFoQrGpJTQAKa/nbgqmzMd8t8
-+jsdYwhQ6YZV09pbNXsBJCVB3xYMwbaA26iu6QBBOIRYyIu6RmP2IdQ7Ht573mt1j0J4kPTxwnf6
-NWyJ72NvwBDsIYL4Tl3jMUecudiuN87F9zL57IwV55nw5Byj2rW1fVFxgjl9xrYvKk50RDEH32rx
-A+dFaepOx9zK1Z0Obd39KzcY4d0rN9wi9KJDecm4RezFh/KS0UfsRWPxbOgT8OKxeDa0hdqmacsh
-JupN0x7IhKL4B1eosDPpGPCxAAAAAElFTkSuQmCC</Binary>
+                    <Binary>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAETSURBVEhL7ZK9SsRQFISPNuIrWGghLPoGvowWW9vZWftEi6X1KlpY+pMYQhLy26RZ
+sLvOlYneHK+wd9kyHwyEM3Nmz4bIxMR2iaJoL0mSyziOP4CBeugRs3NGNifLsgOUvbDYp1t7AONh
+GGN2cPXSU6p1x5UwsDhXRf8Kr+uCa+uDxQdVtEjT9NTKPitvbbH++wdWroErj2hZ79D1QsQKkbZt
+PyEzqOu6GS0py/LE9ULECpGmad5co67r+6IozqzgLV0vRKwXQeG1L+BTVVVXXPtBZzj+BZ/pLi59
+1UEtZJ65MkLnOB7T9/0xzFyHB+FfPuV5vs/4CJ3l+C+2AEU3uLRheAW9+16Ly1A8iOOJia0g8gXe
+Jn4/mqUR3QAAAABJRU5ErkJggg==</Binary>
                   </Property>
                   <Property name="BackgroundImageLayout">Zoom</Property>
                   <Property name="FlatAppearance">
@@ -7000,11 +6992,11 @@ Ptc6LtIbsIG8mV0S8QH7Lj3fW7FAbAAAAABJRU5ErkJggg==</Binary>
               <Property name="CharacterCasing">Upper</Property>
               <Property name="Font">Segoe UI Emoji, 8.25pt</Property>
               <Property name="ForeColor">White</Property>
-              <Property name="Location">68, 40</Property>
+              <Property name="Location">68, 41</Property>
               <Property name="Margin">0, 0, 0, 0</Property>
               <Property name="MaxLength">10000</Property>
               <Property name="Name">computername_field</Property>
-              <Property name="Size">141, 22</Property>
+              <Property name="Size">140, 22</Property>
               <Property name="TabIndex">3</Property>
               <Property name="TextAlign">Center</Property>
               <Event name="TextChanged">computername_field_TextChanged</Event>
@@ -7029,22 +7021,19 @@ Ptc6LtIbsIG8mV0S8QH7Lj3fW7FAbAAAAABJRU5ErkJggg==</Binary>
               <Property name="BackgroundImageLayout">Stretch</Property>
               <Property name="FlatAppearance">
                 <Property name="BorderColor">55, 56, 61</Property>
+                <Property name="MouseDownBackColor">LightGray</Property>
+                <Property name="MouseOverBackColor">104, 104, 104</Property>
               </Property>
               <Property name="FlatStyle">Flat</Property>
               <Property name="Font">Segoe UI, 8.25pt</Property>
               <Property name="ForeColor">White</Property>
-              <Property name="ImageList">
-                <Reference name="buttonDropdownImagelist" />
-              </Property>
-              <Property name="Location">212, -2</Property>
+              <Property name="Location">211, -2</Property>
               <Property name="Name">buttonDropdown</Property>
-              <Property name="Size">28, 71</Property>
+              <Property name="Size">24, 71</Property>
               <Property name="TabIndex">4</Property>
               <Property name="TextAlign">BottomCenter</Property>
               <Property name="UseVisualStyleBackColor">False</Property>
               <Event name="Click">buttonDropdown_Click</Event>
-              <Event name="MouseEnter">buttonDropdown_MouseEnter</Event>
-              <Event name="MouseLeave">buttonDropdown_MouseLeave</Event>
             </Object>
           </Object>
           <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formAnchorRemoteSettings" children="Controls">
@@ -7187,7 +7176,7 @@ AAAASUVORK5CYII=</Binary>
             <Property name="Margin">0, 0, 0, 0</Property>
             <Property name="Name">buttonSettings</Property>
             <Property name="RightToLeft">No</Property>
-            <Property name="Size">54, 66</Property>
+            <Property name="Size">68, 66</Property>
             <Property name="TabIndex">14</Property>
             <Property name="TextAlign">BottomCenter</Property>
             <Property name="TextImageRelation">ImageAboveText</Property>
@@ -7421,7 +7410,7 @@ t3pEJADiT3znGvGYIb0v5wsHQHBVeN95pgiOMSunOBGAgucAXyQNgdSaDr4fmFnk9lLedCj98GO5
             <Property name="UseVisualStyleBackColor">False</Property>
             <Event name="Click">buttonSystemInformation_Click</Event>
           </Object>
-          <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonRemoteDesktop" children="Controls">
+          <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonRemoteOptions" children="Controls">
             <Property name="BackColor">Transparent</Property>
             <Property name="FlatAppearance">
               <Property name="BorderColor">Black</Property>
@@ -7443,14 +7432,14 @@ g+yEWg8B5XXN05o6ut9gU0xNDLIDZBfUWtKBhpmzsKt/yHu3gND/yBgkBpKDKqMdcPEL2Y5uOQy7
             </Property>
             <Property name="Location">69, 0</Property>
             <Property name="Margin">0, 0, 0, 0</Property>
-            <Property name="Name">buttonRemoteDesktop</Property>
+            <Property name="Name">buttonRemoteOptions</Property>
             <Property name="Size">68, 66</Property>
             <Property name="TabIndex">1</Property>
             <Property name="TextAlign">BottomCenter</Property>
             <Property name="TextImageRelation">ImageAboveText</Property>
             <Property name="ToolTip" extended="True" provider="tooltip">Remote Desktop</Property>
             <Property name="UseVisualStyleBackColor">False</Property>
-            <Event name="Click">buttonRemoteDesktop_Click</Event>
+            <Event name="Click">buttonRemoteOptions_Click</Event>
           </Object>
           <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonRemoteRegistry" children="Controls">
             <Property name="BackColor">Transparent</Property>
@@ -7679,266 +7668,11 @@ V70AcN8TpfM/s3283/2SgDd+1e9AB9q96AD7V70AH2r3oAPtXvQAfavegA+1e9AB9q96AOU8dy+Z
     </Property>
     <Property name="LayoutStyle">Table</Property>
     <Property name="Name">contextmenustrip1</Property>
-    <Property name="Size">61, 4</Property>
+    <Property name="Size">145, 26</Property>
   </Object>
   <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowMoveTimer">
     <Property name="Interval">10</Property>
     <Event name="Tick">windowMoveTimer_Tick</Event>
-  </Object>
-  <Object type="System.Windows.Forms.ImageList, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonDropdownImagelist">
-    <Property name="ImageStream">
-      <Binary>AAEAAAD/////AQAAAAAAAAAMAgAAAFdTeXN0ZW0uV2luZG93cy5Gb3JtcywgVmVyc2lvbj00LjAu
-MC4wLCBDdWx0dXJlPW5ldXRyYWwsIFB1YmxpY0tleVRva2VuPWI3N2E1YzU2MTkzNGUwODkFAQAA
-ACZTeXN0ZW0uV2luZG93cy5Gb3Jtcy5JbWFnZUxpc3RTdHJlYW1lcgEAAAAERGF0YQcCAgAAAAkD
-AAAADwMAAADqNgAAAk1TRnQBSQFMAwEBAAGwAQABsAEAASEBAAFDAQAE/wEhAQAI/wFCAU0BNgcA
-ATYDAAEoAwABhAMAAUMDAAEBAQABIAUAATABihIAAv8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8B
-dAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0
-A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQD/wF0A/8BdAP/AXQB/wHkAe8BjgH//wCN
-AAL/AWwD/wFsA/8BbAP/AWwD/wFsA/8BbAP/AWwD/wFsA/8BbAP/AWwD/wFsA/8BbAP/AWwD/wFs
-A/8BbAP/AWwD/wFsA/8BbAP/AWwD/wFsA/8BbAP/AWwD/wFsA/8BbAP/AWwD/wFsA/8BbAP/AWwD
-/wFsA/8BbAP/AWwD/wFsAf8B6QH5AW8B//8AjQAB+AH/AXkB/wH4Af8BeQH/AfgB/wF5Af8B+AH/
-AXkB/wH4Af8BeQH/AfgB/wF5Af8B+AH/AXkB/wH4Af8BeQH/AfgB/wF5Af8B+AH/AXkB/wH4Af8B
-eQH/AfgB/wF5Af8B+AH/AXkB/wH4Af8BeQH/AfgB/wF5Af8B+AH/AXkB/wH4Af8BeQH/AfgB/wF5
-Af8B+AH/AXkB/wH4Af8BeQH/AfgB/wF5Af8B+AH/AXkB/wH4Af8BeQH/AfgB/wF5Af8B+AH/AXkB
-/wH4Af8BeQH/AfgB/wF5Af8B+AH/AXkB/wH4Af8BeQH/AfgB/wF5Af8B+AH/AXkB/wH4Af8BeQH/
-AfsB/wFrAf//AI0AAv8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD
-/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/
-AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUB/wH6Af4BdgH//wCNAAL/AXUD/wF1A/8BdQP/AXUD
-/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/
-AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1Af8B
-+gH+AXYB//8AjQAC/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/
-AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8B
-dQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQH/AfoB/gF2Af//AI0AAf8B/gF0Av8B/gF0Av8B/gF0
-Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B
-/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0
-Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B
-/gF0Af8B+gH+AXYB//8AjQAB/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+
-AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC
-/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+
-AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH+AXQB/wH6Af4BdgH//wCNAAL/AXUD
-/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/
-AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8B
-dQP/AXUD/wF1Af8B+gH+AXYB//8AjQAC/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/
-AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8B
-dQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQH/AfoB/gF2Af//AI0AAv8BdQP/
-AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8B
-dQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1
-A/8BdQP/AXUB/wH6Af4BdgH//wCNAAL/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8B
-dQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1
-A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1Af8B+gH+AXYB//8AjQAC/wF1A/8B
-dQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1
-A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD
-/wF1A/8BdQH/AfoB/gF2Af//AI0AAv8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1
-A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD
-/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUB/wH6Af4BdgH//wCNAAH/Af4BdAL/
-Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4B
-dAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/
-Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4B
-dAL/Af4BdAL/Af4BdAH/AfoB/gF2Af//AI0AAf8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0
-Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B
-/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0
-Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Av8B/gF0Af8B+gH+AXYB
-//8AjQAC/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1
-A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD
-/wF1A/8BdQP/AXUD/wF1A/8BdQH/AfoB/gF2Af//AI0AAv8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1
-A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD
-/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUB/wH6Af4BdgH/
-/wCNAAL/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD
-/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/AXUD/wF1A/8BdQP/
-AXUD/wF1A/8BdQP/AXUD/wF1Af8B+gH+AXYB//8AjQAB/AH/AXQB/wH8Af8BdAH/Av4BdAH/Av4B
-dAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAP/AXMD/wFzA/8BcwP/AXMC/wH+AXIC/wH+AXIC/wH+
-AXIC/wH+AXID/wFzA/8BcwP/AXMD/wFzA/8BcwP/AXMD/wFzA/8BcwL/Af4BcgL/Af4BcgL/Af4B
-cgH/Af0B/gFyAf8B/QH+AXIB/wH7Af4BcgH/AfsB/gFyAf8B+wH+AXIC/wH8AXUB//8AjQAB/AH/
-AXQB/wH8Af8BdAH/Av4BdAH/Av4BdAL/Af4BdAL/Af4BdAL/Af4BdAL/Af4BdAP/AXMD/wFzAv8B
-/gFyAv8B/gFyAv8B/gFyAv8B/gFyAf8B/gH9AXEB/wH+Af0BcQL/Af4BcgL/Af4BcgL/Af4BcgL/
-Af4BcgL/Af4BcgL/Af4BcgL/Af4BcgL/Af4BcgL/Af0BcgL/Af4BcgL/Af4BcgL/Af4BcgH/Af0B
-/gFyAf8B/QH+AXIB/wH8Af8BcwH/AfwB/wFzAf8B/gH7AXQB//8AjQAC/wF1A/8BdQP/AXUC/wH+
-AXQC/wH+AXQC/wH+AXQC/wH+AXQC/wH9AXMC/wH8AXEC/wH8AXEC/wH8AXEC/wH8AXEC/wH8AXEB
-/wH+AfsBcAH/Af4B+wFwAf8B/gH7AXAB/wH+AfsBcAH/Af4B+wFwAf8B/gH7AXAB/wH+AfsBcAH/
-Af4B+wFwAf8B/gH7AXAB/wH+AfsBcAH/Af4B+wFwAv8B/AFxAv8B/QFyAv8B/QFyAv8B/gFyAv8B
-/gFyAf8B/gH/AXMB/wH+Af8BcwH/Af4B/wFzAf8B/gH7AXQB//8AjQAC/wF1A/8BdQL/Af4BdAL/
-Af4BdAL/Af4BdAL/Af0BcwL/Af0BcwL/Af0BcwL/AfoBcQL/AfoBcQL/AfkBcAL/AfkBcAL/AfkB
-cAL/AfkBcAL/AfkBcAH/Af4B+AFvAv8B+QFwAv8B+QFwAv8B+QFwAv8B+QFwAv8B+QFwAv8B+QFw
-Av8B+QFwAv8B+QFwAv8B+gFxAv8B+gFxAv8B+wFyAv8B/AFyAv8B/QFzAv8B/QFzAv8B/QFzAv8B
-/gF0Af8B/gH7AXQB//8AjQAB/wH+AXQC/wH+AXQC/wH+AXQC/wH9AXMC/wH8AXIC/wH8AXIC/wH6
-AXEC/wH6AXEC/wH4AW8C/wH4AW8C/wH4AW8C/wH4AW8C/wH3AW4C/wH3AW4C/wH3AW4C/wH3AW4B
-/wH+AfYBbQH/Af4B9gFtAf8B/gH2AW0B/wH+AfYBbQH/Af4B9gFtAf8B/gH2AW0B/wH+AfYBbQH/
-Af4B9gFtAv8B+AFvAv8B+QFwAv8B+QFwAv8B+gFxAv8B+gFxAv8B/AFyAv8B/AFyAv8B/QFzAf8B
-/QH6AXMB//8AjQAB/wH9AXMC/wH9AXMC/wH8AXIC/wH8AXIB/wH+AfsBcQL/AfkBcAH/Af4B+AFv
-Af8B/gH4AW8C/wH1AW8C/wH1AW8C/wH1AW8C/wH1AW8C/wH1AW8C/wH0AW4C/wH0AW4C/wH0AW4C
-/wH0AW4C/wH0AW4C/wH0AW4C/wH0AW4C/wH0AW4C/wH0AW4C/wH0AW4C/wH0AW4C/wH1AW8C/wH1
-AW8C/wH2AXAC/wH3AXEC/wH4AXIC/wH5AXIC/wH6AXMC/wH6AXMB/wH9AfoBcwH//wCNAAH+AfwB
-cgL/AfwBcgH/Af4B+wFxAf8B/QH6AXAB/wH+AfgBbwH/Af0B9wFuAv8B9wFuAf8B/gH2AW0C/wH0
-AW4C/wH0AW4C/wH0AW4C/wH0AW4B/wH+AfMBbQH/Af4B8wFtAf8B/gHzAW0B/wH+AfMBbQH/Af0B
-8gFsAf8B/QHyAWwB/wH9AfIBbAH/Af0B8gFsAf8B/QHyAWwB/wH9AfIBbAH/Af0B8gFsAf8B/QHy
-AWwC/wHzAW0B/wH+AfMBbQL/AfQBbgL/AfUBbwL/AfYBcAL/AfcBcQH/Af4B+AFxAv8B+QFyAf8B
-/AH5AXIB//8AjQAB/gH7AXEB/wH+AfsBcQH/Af0B+gFwAf8B/gH4AW8B/wH9AfcBbgH/AfwB9gFt
-Af8B/QH1AWwB/wH9AfUBbAL/AfQBbgL/AfQBbgL/AfMBbQL/AfMBbQL/AfMBbQL/AfMBbQH/Af4B
-8gFsAf8B/gHyAWwB/wH9AfEBawH/Af0B8QFrAf8B/QHxAWsB/wH9AfEBawH/Af0B8QFrAf8B/QHx
-AWsB/wH9AfEBawH/Af0B8QFrAf8B/gHyAWwB/wH+AfIBbAL/AfMBbQL/AfQBbgL/AfUBbwL/AfYB
-cAL/AfcBcQL/AfcBcQH/AfwB+QFyAf//AI0AAf8B+AFvAv8B9wFuAv8B9gFwAv8B9QFvAv8B8wFv
-Av8B8gFuAf8B/gHxAW0B/wH9AfABbAL/AfEBbQL/AfEBbQL/AfABbAL/Ae8BbAL/Ae4BawL/Ae4B
-awL/Ae0BagL/Ae0BagL/AewBawL/AewBawL/AewBawL/Ae0BbAL/Ae0BbAL/Ae0BbAL/Ae0BbAL/
-Ae0BbAH/Af4B7gFsAf8B/gHuAWwC/wHvAW0B/wH9AfABbAH/Af4B8QFtAf8B/gHzAW0C/wH0AW4C
-/wH0AW4C/wHyAW8B//8AjQAB/wH3AW4C/wH3AW4C/wH1AW8C/wH0AW4C/wHyAW4B/wH+AfEBbQL/
-AfABbAL/Ae8BbQL/AfABbAL/AfABbAL/Ae4BawL/Ae4BawL/Ae0BagL/Ae0BagL/AewBaQL/AewB
-aQH/Af4B6wFqAf8B/gHrAWoC/wHsAWsC/wHsAWsC/wHsAWsC/wHsAWsC/wHtAWwC/wHtAWwC/wHs
-AW0B/wH9Ae0BawH/Af4B7gFsAv8B7wFtAf8B/gHxAW0B/wH+AfEBbQH/Af4B8wFtAf8B/gHzAW0C
-/wHxAW4B//8AjQAB/wH1AW8C/wH1AW8C/wH0AW4C/wHyAW4B/wH+AfEBbQL/AfABbAH/Af4B7gFs
-Af8B/QHtAWsC/wHtAWwC/wHsAWsC/wHsAWsC/wHrAWoC/wHrAWoC/wHqAWkC/wHqAWkC/wHqAWkC
-/wHpAWsC/wHpAWsC/wHpAWsC/wHpAWsC/wHqAWwC/wHqAWwC/wHqAWwC/wHqAWwB/wH+AesBbAH/
-Af4B6wFsAv8B7AFrAf8B/gHuAWwB/wH+Ae8BawH/Af0B8AFsAf8B/gHxAW0B/wH+AfIBbAL/AfAB
-bQH//wCNAAH/AfMBbQL/AfMBbQH/Af4B8QFtAv8B8AFsAf8B/gHvAWsC/wHsAWsB/wH+AesBagH/
-Af4B6wFqAv8B6gFsAv8B6QFrAv8B6QFrAv8B6QFrAv8B6AFqAf8B/gHnAWkC/wHnAWkC/wHnAWkB
-/wH+AeYBagH/Af4B5gFqAf8B/gHmAWoB/wH+AeYBagL/AecBawL/AecBawL/AecBawL/AecBawH/
-Af4B6AFqAv8B6QFrAv8B6QFrAf8B/gHrAWoC/wHsAWsB/wH+Ae8BawH/Af4B7wFrAf8B/gHvAWsC
-/wHvAWwB//8AjQAB/wHxAW0C/wHwAWwB/wH+Ae8BawL/Ae0BagH/Af4B6wFqAv8B6gFpAv8B6QFr
-Af8B/gHoAWoC/wHnAWsB/wH+AeYBagH/Af4B5gFqAf8B/QHlAWkC/wHlAWkB/wH+AeQBaAL/AeQB
-aAL/AeQBaAH/Af4B4wFqAf8B/gHjAWoB/wH+AeMBagH/Af4B4wFqAv8B5AFrAv8B5AFrAv8B5AFr
-Av8B5AFrAf8B/gHmAWoB/wH+AeYBagH/Af4B5wFpAf8B/gHoAWoC/wHqAWkB/wH+AesBagH/Af4B
-6wFqAv8B7QFqAv8B7gFrAf//AI0AAf8B7gFrAv8B7gFrAv8B7AFrAv8B6wFqAv8B6gFpAv8B6AFq
-Af8B/gHnAWkB/wH+AecBaQH/Af0B5QFrAf8B/gHjAWoB/wH+AeMBagH/Af4B4wFqAv8B4gFpAv8B
-4gFpAv8B4QFoAv8B4QFoAf8B/gHgAWkB/wH+AeABaQH/Af4B4AFpAf8B/gHgAWkC/wHhAWoC/wHh
-AWoC/wHhAWoC/wHhAWoB/wH+AeQBaAH/Af4B5AFoAv8B5QFpAf8B/gHnAWkB/wH+AecBaQH/Af4B
-6QFoAv8B6gFpAv8B6gFpAv8B7AFpAf//AI0AAf8B7QFqAv8B6wFqAv8B6wFqAv8B6gFpAv8B6AFq
-Af8B/gHnAWkC/wHlAWkB/wH+AeQBaAH/Af0B4gFpAf8B/QHiAWkC/wHiAWkB/wH+AeEBaAL/AeEB
-aAL/AeABZwL/AeABZwL/Ad4BZgH/AfwB3gFnAf8B/AHeAWcB/wH9Ad8BaAH/Af0B3wFoAf8B/QHf
-AWgB/wH9Ad8BaAH/Af4B4AFpAf8B/gHgAWkC/wHiAWkC/wHjAWcB/wH+AeQBaAH/Af4B5AFoAf8B
-/QHmAWgB/wH+AecBaQL/AekBaAH/Af4B6QFoAv8B6wFoAf//AI0AAf8B6wFqAv8B6wFqAv8B6gFp
-Av8B6AFqAf8B/gHnAWkC/wHmAWgB/wH+AeQBaAH/Af4B5AFoAf8B/AHhAWkB/wH+AeABaQH/Af4B
-4AFpAf8B/QHfAWgC/wHfAWgB/wH+Ad4BZwL/Ad4BZwL/Ad4BZwH/Af4B3QFoAf8B/gHdAWgB/wH+
-Ad0BaAH/Af4B3QFoAf8B/gHdAWgC/wHeAWkC/wHeAWkC/wHeAWkB/wH+AeEBaAH/Af4B4QFoAv8B
-4wFnAf8B/gHkAWgC/wHmAWgB/wH9AeYBaAH/Af4B5wFpAf8B/gHoAWcC/wHrAWgB//8AjQAB/gHo
-AWoB/wH+AegBawH/Af4B5gFqAf8B/gHkAWgC/wHiAWkC/wHhAWgC/wHfAWgC/wHeAWcC/wHfAWgC
-/wHfAWgC/wHeAWcC/wHdAWcC/wHcAWYC/wHcAWYC/wHbAWUC/wHbAWUC/wHaAWQC/wHaAWQC/wHb
-AWUC/wHbAWUC/wHbAWUC/wHbAWUC/wHcAWYC/wHcAWYB/wH+Ad0BaAH/Af4B3QFoAv8B3wFoAf8B
-/gHgAWkC/wHiAWkC/wHjAWoC/wHkAWsC/wHlAWkC/wHkAWsB//8AjQAB/gHoAWsB/wH+AeYBagH/
-Af0B5QFpAf8B/gHjAWoB/wH+AeEBaAL/Ad8BaAL/Ad4BZwL/Ad4BZwL/AdwBZwL/AdwBZwL/AdsB
-ZwL/AdoBZgH/Af4B2QFlAv8B2QFlAv8B2QFlAv8B2AFkAv8B2AFkAv8B2QFlAv8B2QFlAv8B2QFl
-Av8B2QFlAv8B2gFmAv8B2gFmAv8B2gFmAv8B3AFnAv8B3AFnAf8B/gHeAWcC/wHfAWgB/wH+AeEB
-aAL/AeIBaQL/AeMBagH/Af4B4wFqAv8B4wFqAf//AI0AAf4B5gFqAf8B/QHlAWkB/wH+AeQBaAL/
-AeIBaQL/AeEBaAL/Ad4BZwL/Ad0BZgL/AdwBZgH/Af4B2QFlAf8B/gHZAWUB/wH9AdgBZAL/AdgB
-ZAH/Af4B1wFjAv8B1wFjAv8B1gFiAv8B1gFiAv8B1wFjAv8B1wFjAv8B1wFjAv8B2AFkAv8B2AFk
-Av8B2AFkAv8B2AFkAv8B2AFkAf8B/gHbAWYB/wH+AdsBZgL/AdwBZwH/Af4B3gFnAv8B3wFoAv8B
-4QFoAv8B4gFpAv8B4gFpAv8B4gFpAf//AI0AAf4B5AFoAf8B/gHjAWoC/wHiAWkC/wHhAWgC/wHe
-AWcC/wHcAWYC/wHaAWYC/wHZAWUC/wHYAWQC/wHYAWQB/wH+AdcBYwL/AdcBYwL/AdYBYgL/AdYB
-YgL/AdQBYQL/AdQBYQL/AdQBYQL/AdQBYQL/AdQBYQL/AdUBYgL/AdUBYgL/AdUBYgL/AdUBYgL/
-AdUBYgH/Af0B2AFmAf8B/QHYAWYB/wH+AdkBZQH/Af4B2wFmAv8B3QFmAf8B/gHeAWcC/wHgAWcC
-/wHhAWgC/wHhAWgB//8AjQAB/wHiAWkB/wH+AeEBaAL/AeEBaAL/Ad4BZwL/AdwBZgL/AdoBZgL/
-AdkBZQL/AdgBZAL/AdYBZQL/AdYBZQL/AdYBZQL/AdUBZAL/AdUBZAL/AdQBYwL/AdMBYwL/AdMB
-YwL/AdEBYQL/AdEBYQL/AdEBYQL/AdIBYgL/AdIBYgL/AdIBYgL/AdIBYgL/AdIBYgH/Af0B1QFk
-Af8B/gHWAWUC/wHXAWYB/wH+AdkBZQL/AdoBZgL/Ad0BZgL/Ad0BZgL/Ad4BZwH/Af4B3wFmAf//
-AI0AAf8B4QFoAv8B3wFoAv8B3gFnAv8B3AFmAv8B2gFmAv8B2AFkAv8B1gFlAv8B1gFlAv8B1QFk
-Av8B1QFkAv8B1QFkAv8B1AFjAv8B0wFjAv8B0gFiAv8B0gFiAv8B0QFhAv8BzwFfAv8BzwFfAv8B
-zwFfAv8B0AFgAv8B0AFgAv8B0AFgAv8B0AFgAv8B0QFhAf8B/gHTAWQB/wH+AdQBYwL/AdUBZAH/
-Af4B1gFlAv8B2AFkAf8B/gHZAWUC/wHbAWUC/wHbAWUB/wH9Ad4BZQH//wCNAAH/Ad8BaAL/Ad4B
-ZwL/Ad0BZgL/AdoBZgL/AdkBZQL/AdYBZQL/AdUBZAL/AdUBZAL/AdIBYwL/AdIBYwL/AdIBYwL/
-AdEBYgL/AdABYgL/Ac8BYQL/Ac8BYQL/Ac4BYAH/Af4BzQFfAf8B/gHNAV8B/wH+Ac0BXwH/Af4B
-zQFfAf8B/gHNAV8C/wHOAWAC/wHOAWAC/wHOAWAC/wHSAWMC/wHSAWMB/wH+AdQBYwL/AdUBZAH/
-Af4B1gFlAv8B2AFkAv8B2QFlAf8B/gHZAWUB/wH8Ad0BZAH//wCNAAH/Ad4BZwL/Ad4BZwL/AdwB
-ZgL/AdoBZgL/AdgBZAL/AdYBZQL/AdUBZAL/AdMBYwH/Af0B0AFhAf8B/gHQAWEB/wH+AdABYQH/
-Af0BzwFgAv8BzgFgAf8B/gHNAV8C/wHNAV8C/wHNAV8C/wHMAV4C/wHMAV4C/wHMAV4C/wHMAV4C
-/wHNAV8C/wHNAV8C/wHNAV8C/wHNAV8B/wH+AdEBYgH/Af4B0QFiAv8B0gFjAf8B/gHUAWMC/wHV
-AWQB/wH+AdcBYwL/AdgBZAL/AdgBZAH/AfwB3QFkAf//AI0AAf8B3gFnAv8B3AFmAv8B2gFmAv8B
-2AFkAv8B1gFlAv8B1AFjAv8B0gFiAv8B0QFhAv8BzwFjAv8BzgFiAf8B/gHNAWEC/wHLAWEB/wH+
-AcoBYAL/AckBYAL/AckBYQL/AckBYQL/AckBYAL/AcgBXwL/AcgBXwL/AccBXgL/AccBXgL/AcgB
-XwL/AckBYAL/AckBYAL/AcwBXgL/AcwBXgL/Ac4BYAH/Af4B0AFgAv8B0wFiAf8B/gHVAWEC/wHW
-AWIB/wH+AdcBYwH/Af4B1gFfAf//AI0AAf8B3AFmAv8B2wFlAv8B2QFlAv8B2AFkAv8B1QFkAv8B
-1AFjAv8B0QFhAv8B0AFiAv8BzgFiAf8B/gHNAWEC/wHLAWAB/wH+AcoBYAL/AckBYAL/AcgBYAL/
-AcgBYAL/AcgBYQL/AcgBXwL/AccBXgL/AccBXgL/AccBXgL/AccBXgL/AccBXgL/AcgBXwL/AcgB
-XwH/Af4BygFfAv8BzAFeAf8B/gHNAV8B/wH+AdABYQH/Af4B0gFhAf8B/gHUAWMC/wHWAWIB/wH+
-AdcBYwH/Af4B1gFfAf//AI0AAf8B2gFmAv8B2gFmAv8B2QFlAv8B1gFlAv8B1AFjAv8B0gFiAv8B
-0QFiAv8BzwFhAv8BzAFhAv8BywFgAf8B/gHKAWAC/wHIAV8B/wH+AccBXwL/AcYBXwL/AcYBXwL/
-AcUBYQL/AcYBXQL/AcYBXQL/AcYBXQL/AcUBXAL/AcYBXQL/AcYBXQL/AccBXgL/AcgBXwL/AcoB
-XwH/Af4BygFfAv8BzAFeAv8BzgFgAv8B0QFhAv8B0wFiAf8B/gHUAWMC/wHWAWIB/wH+AdYBXwH/
-/wCNAAH+AdkBZQL/AdkBZQL/AdcBZgL/AdUBZAL/AdMBYgL/AdEBYgL/Ac8BYQL/Ac4BYAL/AcoB
-YQL/AckBYAL/AcgBXwL/AcYBXwL/AcUBXgL/AcQBXQL/AcMBXwL/AcMBXwH/Af4BwwFcAf8B/gHD
-AVwB/wH+AcMBXAH/Af4BwwFcAf8B/gHDAVwC/wHEAV0C/wHFAV4C/wHFAV4C/wHJAV4C/wHJAV4B
-/wH+AcoBXwH/Af4BzQFfAf8B/gHQAWEB/wH+AdIBYQL/AdMBYgH/Af4B1AFjAf8B/gHWAV8B//8A
-jQAB/wHXAWYC/wHXAWYC/wHWAWUC/wHUAWMC/wHRAWIC/wHPAWEC/wHOAWIC/wHMAWEC/wHJAWAC
-/wHIAV8C/wHGAV8C/wHEAV0B/wH+AcMBXAL/AcEBXQL/AcEBXQL/AcEBXQH/AfwBwQFaAf8B/AHB
-AVoB/wH8AcEBWgH/AfwBwQFaAf8B/QHCAVsB/wH+AcMBXAL/AcQBXQL/AcQBXQL/AccBXgH/Af4B
-xwFeAf8B/QHJAV4C/wHLAWAC/wHOAWAB/wH+AdABYQH/Af4B0QFiAv8B0wFiAf8B/gHWAV8B//8A
-jQAB/gHWAWUC/wHWAWUC/wHUAWUC/wHSAWMB/wH+AdABYQL/Ac4BYgL/AcwBYQL/AcsBYAL/AcgB
-XwL/AcYBXwL/AcQBXQL/AcIBXAH/Af4BwAFcAf8B/QG/AVsC/wG+AVwC/wG+AVwB/wH8Ab4BWgH/
-AfwBvgFaAf8B/AG+AVoB/wH8Ab4BWgH/Af0BvwFbAf8B/gHAAVwC/wHBAV0C/wHCAV4C/wHGAV0C
-/wHGAV0B/wH+AccBXgH/Af4BygFfAf8B/gHNAWEB/wH9Ac8BYAH/Af4B0AFhAf8B/gHRAWIB/wH+
-AdYBXwH//wCNAAH/AdYBZQL/AdQBZQL/AdMBZAL/AdEBYgL/Ac8BYwL/AcwBYQL/AcsBYQL/AckB
-YAL/AcYBXwL/AcUBXgL/AcIBXAH/Af4BwAFcAv8BvgFbAf8B/gG9AVsB/wH9AbwBWgL/AbsBWgH/
-AfoBvAFYAf8B+gG8AVgB/wH6AbwBWAH/AfsBvQFZAf8B/AG+AVoB/wH9Ab8BWwH/Af4BwAFcAv8B
-wQFdAf8B/gHEAV0C/wHGAV0B/wH+AccBXgH/Af0ByQFfAf8B/QHMAWAB/wH+Ac0BYQH/Af4B0AFh
-Af8B/QHQAWEB/wH+AdYBXwH//wCNAAH/AdQBZQL/AdQBZQL/AdMBZAL/AdABZAL/Ac4BYgL/AcwB
-YQL/AcsBYQL/AckBYAL/AcQBXgL/AcMBXQL/AcIBXgL/Ab8BXAH/Af4BvQFaAv8BuwFaAv8BuwFa
-Af8B/gG6AVkB/wH8AbsBWAH/AfwBuwFYAf8B/AG7AVgB/wH8AbsBWAH/Af0BvAFZAv8BvgFbAv8B
-vwFcAv8BwAFdAv8BxAFdAf8B/gHEAV0B/wH9AcYBXQL/AcgBXwH/Af4BygFfAf8B/gHNAWEB/wH9
-Ac4BYgH/Af4B0AFhAf8B/gHWAV8B//8AjQAB/wHWAWUC/wHVAWQC/wHRAWIB/wH+AdABYQL/Ac4B
-YgL/AcwBYQL/AcoBXwH/Af4BxwFeAv8BwwFbAv8BwQFbAf8B/gHAAVoB/wH9Ab8BWwH/AfsBvAFa
-Af8B+gG6AVsB/wH5AbkBWwH/AfgBuAFaAf8B8wG2AVkB/wHzAbYBWQH/AfUBtwFZAf8B9QG3AVkB
-/wH3AboBWgH/AfoBugFbAf8B+wG8AVoB/wH8Ab0BWwL/AcABXgL/AcEBXQL/AcQBXQL/AcYBXwL/
-AcgBXwL/AcsBYAL/Ac4BYAL/Ac4BYAL/AdEBZQH//wCNAAH/AdYBZQL/AdUBZAL/AdEBYgH/Af4B
-0AFhAv8BzgFiAv8BzAFhAv8BygFfAf8B/gHHAV4C/wHDAVsC/wHBAVsB/wH+AcABWgH/Af0BvwFb
-Af8B+wG8AVoB/wH5AbkBWgH/AfgBuAFaAf8B9wG3AVkB/wHyAbUBWAH/AfIBtQFYAf8B8wG1AVcB
-/wH0AbYBWAH/AfYBuQFZAf8B+QG5AVoB/wH7AbwBWgH/AfwBvQFbAv8BwAFeAv8BwQFdAv8BxAFd
-Av8BxgFfAv8ByAFfAv8BywFgAv8BzgFgAv8BzgFgAv8B0QFlAf//AI0AAf8B1gFlAv8B1QFkAv8B
-0QFiAf8B/gHQAWEC/wHOAWIC/wHMAWEC/wHKAV8B/wH+AccBXgL/AcMBWwL/AcIBXAH/Af4BwAFa
-Af8B/AG+AVoB/wH6AbsBWQH/AfgBuAFZAf8B9wG3AVkB/wH2AbYBWAH/Ae8BsgFVAf8B8AGzAVYB
-/wHxAbMBVQH/AfMBtQFXAf8B9AG3AVcB/wH5AbkBWgH/AfoBuwFZAf8B+wG8AVoC/wHAAV4C/wHB
-AV0C/wHEAV0C/wHGAV8C/wHIAV8C/wHLAWAC/wHOAWAC/wHOAWAC/wHRAWUB//8AjQAB/wHWAWUC
-/wHVAWQB/wH+AdEBYgH/Af4B0AFhAv8BzgFiAv8BzAFhAv8BygFfAf8B/gHHAV4C/wHEAVwC/wHC
-AVwB/wH+AcABWgH/AfwBvgFaAf8B+gG7AVkB/wH3AbcBWAH/AfYBtgFYAf8B9QG1AVcB/wHuAbEB
-VAH/Ae4BsQFUAf8B8AGyAVQB/wHyAbQBVgH/AfQBtwFXAf8B+AG4AVkB/wH6AbsBWQH/AfsBvAFa
-Av8BwAFeAv8BwQFdAv8BxAFdAv8BxgFfAv8ByAFfAv8BywFgAv8BzgFgAv8BzgFgAv8B0QFlAf//
-AI0AAf8B1gFlAv8B1QFkAf8B/gHRAWIB/wH+AdABYQL/Ac4BYgL/AcwBYQL/AcoBXwH/Af4BxwFe
-Av8BxAFcAv8BwgFcAv8BwQFbAf8B/AG+AVoB/wH6AbsBWQH/AfgBuAFZAf8B9gG2AVgB/wH1AbUB
-VwH/Ae4BsQFUAf8B7gGxAVQB/wHwAbIBVAH/AfIBtAFWAf8B9AG3AVcB/wH4AbgBWQH/AfoBuwFZ
-Af8B/AG9AVsC/wHAAV4C/wHBAV0C/wHEAV0C/wHGAV8C/wHIAV8C/wHLAWAC/wHOAWAC/wHOAWAC
-/wHRAWUB//8AjQAB/wHWAWUC/wHVAWQC/wHRAWIB/wH+AdABYQL/Ac4BYgL/AcwBYQL/AcoBXwH/
-Af4BxwFeAv8BxAFcAv8BwwFdAv8BwQFbAf8B/QG/AVsB/wH7AbwBWgH/AfkBuQFaAf8B+AG4AVoB
-/wH3AbcBWQH/AfABswFWAf8B8QG0AVcB/wHyAbQBVgH/AfQBtgFYAf8B9QG4AVgB/wH6AboBWwH/
-AfsBvAFaAf8B/AG9AVsC/wHAAV4C/wHBAV0C/wHEAV0C/wHGAV8C/wHIAV8C/wHLAWAC/wHOAWAC
-/wHOAWAC/wHRAWUB//8AjQAB/wHWAWUC/wHVAWQC/wHRAWIB/wH+AdABYQL/Ac4BYgL/AcwBYQL/
-AcoBXwH/Af4BxwFeAv8BxQFdAv8BwwFdAv8BwgFcAf8B/gHAAVwB/wH8Ab0BWwH/AfsBuwFcAf8B
-+QG5AVsB/wH5AbkBWwH/AfMBtgFZAf8B8wG2AVkB/wH1AbcBWQH/AfYBuAFaAf8B9wG6AVoB/wH7
-AbsBXAH/AfwBvQFbAf8B/QG+AVwC/wHAAV4C/wHBAV0C/wHEAV0C/wHGAV8C/wHIAV8C/wHLAWAC
-/wHOAWAC/wHOAWAC/wHRAWUB//8AjQAB/wHXAWYC/wHVAWQC/wHRAWIB/wH+AdABYQL/Ac4BYgL/
-AcwBYQL/AcoBXwH/Af4BxwFeAv8BxQFdAv8BwwFdAv8BwgFcAv8BwQFdAf8B/QG+AVwB/wH8AbwB
-XQH/AfsBuwFdAf8B+gG6AVwB/wH1AbgBWwH/AfUBuAFbAf8B9gG4AVoB/wH3AbkBWwH/AfoBugFb
-Af8B/AG8AV0B/wH9Ab0BXgH/Af4BvwFdAv8BwAFeAv8BwQFdAv8BwwFfAv8BxgFfAv8ByAFfAv8B
-ywFgAv8BzgFgAv8BzgFgAv8B0QFlAf//AI0AAf4B1gFlAf8B/QHVAWQB/wH+AdQBYwL/AdIBYwH/
-Af4B0AFhAv8BzgFiAv8BywFgAv8BywFgAv8BxwFeAv8BxwFeAv8BxAFdAv8BwgFcAf8B/gHAAVwC
-/wG+AVsB/wH+Ab0BWgH/Af0BvAFaAf8B/gG9AVoB/wH+Ab0BWgH/Af4BvQFaAf8B/gG9AVoC/wG+
-AVsC/wG+AVsC/wG/AVwC/wHAAV0C/wHEAV0C/wHFAV4B/wH+AccBXgL/AcgBXwL/AcsBYAL/Ac4B
-YgH/Af4BzwFjAf8B/gHQAWEC/wHYAWEB//8AjQAB/gHXAWMB/wH+AdYBZQL/AdUBZAL/AdMBYgH/
-Af4B0AFhAv8BzgFgAf8B/gHNAWEC/wHLAWAC/wHIAV8C/wHHAV4C/wHGAV0C/wHEAV0C/wHBAVsB
-/wH+AcABXAL/Ab4BWwH/Af4BvQFaAf8B/QG/AVsB/wH9Ab8BWwH/Af0BvwFbAf8B/QG/AVsB/wH9
-Ab8BWwH/Af4BwAFcAv8BwQFdAv8BwgFeAv8BxQFeAv8BxgFdAf8B/gHHAV4B/wH+AcoBYAH/Af4B
-zQFhAv8BzgFiAf8B/gHQAWEB/wH+AdEBYgL/AdgBYQH//wCNAAH/AdgBZAL/AdgBZAL/AdUBZAH/
-Af4B1AFjAf8B/gHRAWIB/wH+AdABYQL/Ac4BYAH/Af4BzQFhAv8ByAFfAv8ByAFfAv8BxwFeAv8B
-xQFeAf8B/gHDAVwC/wHBAVsB/wH+AcABXAH/Af4BwAFcAf8B/gHAAVwB/wH+AcABXAH/Af4BwAFc
-Af8B/gHAAVwB/wH+AcABXAL/AcEBXQL/AcIBXgL/AcMBXwL/AccBXgL/AccBXgL/AcgBXwL/AcsB
-YAL/Ac4BYgH/Af4B0AFhAv8B0QFiAv8B0gFjAv8B2AFhAf//AI0AAf4B2QFlAf8B/QHYAWQB/wH+
-AdcBYwL/AdUBZAL/AdMBYgL/AdEBYgL/Ac4BYAL/Ac4BYAL/AcsBYAL/AcoBXwL/AcgBXwL/AccB
-XgL/AcUBXgL/AcQBXQH/Af4BwwFcAf8B/gHCAV4B/wH+AcMBXAH/Af0BwgFbAf8B/QHCAVsB/wH9
-AcIBWwH/Af4BwwFcAv8BxAFdAv8BxQFeAv8BxQFeAv8ByAFfAv8ByQFgAv8BywFgAv8BzAFhAv8B
-zwFhAv8B0QFiAv8B0wFkAv8B1AFjAv8B2AFhAf//AI0AAf8B2wFlAv8B2wFlAv8B2AFkAv8B1wFj
-Af8B/gHUAWMC/wHTAWIB/wH+AdABYAH/Af4B0AFhAv8BzAFhAv8BywFgAv8BywFgAv8ByQFgAv8B
-yAFfAv8BxgFfAv8BxQFeAv8BxQFeAf8B/gHEAV0B/wH+AcQBXQH/Af4BxAFdAf8B/gHEAV0C/wHF
-AV4C/wHGAV8C/wHHAWAC/wHHAWAC/wHKAV8C/wHLAWAC/wHMAWEC/wHPAWEC/wHRAWIC/wHUAWMC
-/wHVAWQC/wHWAWUC/wHYAWEB//8AjQAB/wHdAWYC/wHbAWUB/wH+AdoBZAL/AdgBZAL/AdYBYgL/
-AdQBYwL/AdEBYQL/AdEBYQL/Ac4BYAL/Ac4BYAH/Af4BzQFhAv8BywFgAv8BywFhAv8ByQFgAv8B
-yAFfAv8ByAFgAf8B/gHHAV4B/wH+AccBXgH/Af4BxwFeAf8B/gHHAV4B/wH+AccBXgL/AcgBXwL/
-AckBYAL/AcoBYQL/AcwBYQL/AcwBYQL/Ac4BYAL/AdABYgL/AdMBYwL/AdUBZAL/AdYBZQL/AdgB
-ZAL/AdgBYQH//wCNAAH/Ad4BZgL/Ad0BZgL/AdsBZQL/AdoBZAL/AdcBYwL/AdQBYQL/AdMBYgL/
-AdIBYgH/Af4B0AFhAf8B/gHQAWEC/wHOAWAC/wHOAWIC/wHMAWEC/wHLAWEC/wHLAWEC/wHJAWAB
-/wH9AckBXwH/Af0ByQFfAf8B/QHJAV8B/wH9AckBXwH/Af4BygFgAf8B/gHKAWAC/wHLAWEC/wHM
-AWIC/wHNAWIC/wHOAWAC/wHPAWEC/wHSAWMC/wHVAWQC/wHWAWUC/wHYAWQC/wHZAWUC/wHYAWEB
-//8AjQAB/wHeAWYC/wHeAWYC/wHbAWUC/wHaAWQC/wHXAWMC/wHWAWIC/wHUAWEC/wHTAWIB/wH+
-AdABYQH/Af4B0AFhAf8B/gHQAWEC/wHOAWIC/wHOAWIC/wHMAWIC/wHMAWIC/wHLAWEB/wH+AcoB
-YAH/Af4BygFgAf8B/gHKAWAB/wH+AcoBYAH/Af4BygFgAv8BywFhAv8BzAFiAv8BzQFjAv8BzgFg
-Av8BzwFhAv8B0AFiAv8B0gFiAv8B1QFkAv8B1wFmAv8B2QFlAv8B2QFlAv8B2AFhAf//AI0AAUIB
-TQE+BwABPgMAASgDAAGEAwABQwMAAQEBAAEBBQABPAEFFgAD//8A/wD/AP8A/wBCAAs=</Binary>
-    </Property>
-    <Property name="TransparentColor">Transparent</Property>
   </Object>
   <Object type="System.Windows.Forms.ToolTip, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="tooltip">
     <Property name="AutomaticDelay">1000</Property>
@@ -7957,11 +7691,10 @@ $OnLoadFormEvent = {
 	$w = ($res -split ',')[2].Substring(6); $w = [Int]$w
 	$h = ($res -split ',')[3].Substring(7, $heightend); $h = [Int]$h
 	
-	#The number subtracted below is based on the width of the form. The Width property was not referenced directly because the form is not initialized at this time and cannot provide that value.
-	$startPositionW = (($w - 1250) / 2)
+	#Main window start location
+	$startPositionW = [math]::Round((($w - $MainForm.Size.Width) / 2))
 	$startPositionH = '0'
 	$MainForm.Location = "$startPositionW,$startPositionH"
-	
 	#endregion
 	
 	#region Create User Profile Folder
@@ -8054,8 +7787,6 @@ $OnLoadFormEvent = {
 	$computername_field.AutoCompleteCustomSource.AddRange($hostNames)
 	#endregion
 	
-	$global:buttonDropdownImageList = $buttonDropdownImagelist
-	
 	#region Window Foreground
 	Mainform-Foreground
 	#endregion
@@ -8085,7 +7816,7 @@ $buttonPing_Click = {
 	start "$toolsPath\multi-ping.exe"
 }
 
-$buttonRemoteDesktop_Click = { Call-remote-desktop_psf }
+$buttonRemoteOptions_Click = { Call-remote-desktop_psf }
 
 $buttonShares_Click = {
 	
@@ -8253,10 +7984,6 @@ $computername_field_TextChanged={ $global:computername = $computername_field.Tex
 
 $buttonFolders_Click={ Call-folders_psf }
 
-$buttonDropdown_MouseEnter = { $buttonDropdown.ImageIndex = 0 }
-
-$buttonDropdown_MouseLeave = { $buttonDropdown.ImageIndex = -1 }
-
 $MainForm_KeyDown=[System.Windows.Forms.KeyEventHandler]{
 	
 	if ($_.KeyCode -eq 'PageDown')
@@ -8272,7 +7999,7 @@ $MainForm_KeyDown=[System.Windows.Forms.KeyEventHandler]{
 	if ($_.KeyCode -eq 'ControlKey')
 	{
 		$buttonPing.Text = "Ping"
-		$buttonRemoteDesktop.Text = "Remote Desktop"
+		$buttonRemoteOptions.Text = "Remote Desktop"
 		$buttonShares.Text = "Shares"
 		$buttonTools.Text = "Tools"
 		$buttonGPUpdate.Text = "GP Update"
@@ -8308,7 +8035,7 @@ $MainForm_KeyUp=[System.Windows.Forms.KeyEventHandler]{
 	if ($_.KeyCode -eq 'ControlKey')
 	{
 		$buttonPing.Text = ''
-		$buttonRemoteDesktop.Text = ''
+		$buttonRemoteOptions.Text = ''
 		$buttonShares.Text = ''
 		$buttonTools.Text = ''
 		$buttonGPUpdate.Text = ''
