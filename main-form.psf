@@ -6534,6 +6534,7 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
         <Event name="MouseUp">windowBarPanel_MouseUp</Event>
         <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="minimizeButton" children="Controls">
           <Property name="Anchor">Top, Right</Property>
+          <Property name="BackColor">Transparent</Property>
           <Property name="FlatAppearance">
             <Property name="BorderSize">0</Property>
           </Property>
@@ -6546,7 +6547,7 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
           <Property name="TabIndex">14</Property>
           <Property name="Text">_</Property>
           <Property name="TextAlign">TopCenter</Property>
-          <Property name="UseVisualStyleBackColor">True</Property>
+          <Property name="UseVisualStyleBackColor">False</Property>
           <Event name="Click">minimizeButton_Click</Event>
         </Object>
         <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panelTopBorder" children="Controls">
@@ -6560,6 +6561,7 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
         </Object>
         <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="exitButton" children="Controls">
           <Property name="Anchor">Top, Right</Property>
+          <Property name="BackColor">Transparent</Property>
           <Property name="FlatAppearance">
             <Property name="BorderSize">0</Property>
           </Property>
@@ -6571,7 +6573,7 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
           <Property name="Size">19, 21</Property>
           <Property name="TabIndex">12</Property>
           <Property name="Text">X</Property>
-          <Property name="UseVisualStyleBackColor">True</Property>
+          <Property name="UseVisualStyleBackColor">False</Property>
           <Event name="Click">exitButton_Click</Event>
         </Object>
       </Object>
@@ -6829,13 +6831,13 @@ ppRnO5Snp5Tzp9Q/juPdfPXVV1/9XzhQNm1gYU8FAAAAAElFTkSuQmCC</Binary>
                 <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="adminCredentials" children="Controls">
                   <Property name="BackColor">Transparent</Property>
                   <Property name="BackgroundImage">
-                    <Binary>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAEbSURBVEhL7ZI/SwNBFMSfNuJXsNBCEP0GFtZCOlFsTnL4Dys7O2s/kVhaR/E0lhov
-twZT2dkE7MZ353DmbbbIBsv7wcCyM2/ecpw0NPwvyGUBmZyrCjwKVF96flC1GZkddGVJC19YHNJN
-+QDG4wBkTl/ZCZRaZXLLkTh08DhYGFImKcemRwfvvZJrPMlGpfI87kWI9dWCkTG7skKr9JaNFyFW
-aMng9BuDM9QqttZoCXrb68aLECu05D3tGdMld8hbm5Vc0jFehFivC/Ldy1AgqP7OBcdq/Ayv/9Df
-dB6u/eoHJ+QOnjli8HO8tuCjtQp3NPTDtYokw3B/kXGDn+X1JGUB+ntXcIefv+GTEVz6Fvos40y9
-oKFhBkR+AMvCDLyhBlJCAAAAAElFTkSuQmCC</Binary>
+                    <Binary>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAARtJREFU
+SEvtkj9LA0EUxJ824lew0EIQ/QYW1kI6UWxOcvgPKzs7az+RWFpH8TSWGi+3BlPZ2QTsxnfncOZt
+tsgGy/vBwLIzb95ynDQ0/C/IZQGZnKsKPApUX3p+ULUZmR10ZUkLX1gc0k35AMbjAGROX9kJlFpl
+csuROHTwOFgYUiYpx6ZHB++9kms8yUal8jzuRYj11YKRMbuyQqv0lo0XIVZoyeD0G4Mz1Cq21mgJ
+etvrxosQK7TkPe0Z0yV3yFublVzSMV6EWK8L8t3LUCCo/s4Fx2r8DK//0N90Hq796gcn5A6eOWLw
+c7y24KO1Cnc09MO1iiTDcH+RcYOf5fUkZQH6e1dwh5+/4ZMRXPoW+izjTL2goWEGRH4Ay8IMvKEG
+UkIAAAAASUVORK5CYII=</Binary>
                   </Property>
                   <Property name="BackgroundImageLayout">Zoom</Property>
                   <Property name="FlatAppearance">
@@ -6872,13 +6874,13 @@ oKFhBkR+AMvCDLyhBlJCAAAAAElFTkSuQmCC</Binary>
                 <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="userCredentials" children="Controls">
                   <Property name="BackColor">Transparent</Property>
                   <Property name="BackgroundImage">
-                    <Binary>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAETSURBVEhL7ZK9SsRQFISPNuIrWGghLPoGvowWW9vZWftEi6X1KlpY+pMYQhLy26RZ
-sLvOlYneHK+wd9kyHwyEM3Nmz4bIxMR2iaJoL0mSyziOP4CBeugRs3NGNifLsgOUvbDYp1t7AONh
-GGN2cPXSU6p1x5UwsDhXRf8Kr+uCa+uDxQdVtEjT9NTKPitvbbH++wdWroErj2hZ79D1QsQKkbZt
-PyEzqOu6GS0py/LE9ULECpGmad5co67r+6IozqzgLV0vRKwXQeG1L+BTVVVXXPtBZzj+BZ/pLi59
-1UEtZJ65MkLnOB7T9/0xzFyHB+FfPuV5vs/4CJ3l+C+2AEU3uLRheAW9+16Ly1A8iOOJia0g8gXe
-Jn4/mqUR3QAAAABJRU5ErkJggg==</Binary>
+                    <Binary>iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABGdBTUEAALGPC/xhBQAAARNJREFU
+SEvtkr1KxFAUhI824itYaCEs+ga+jBZb29lZ+0SLpfUqWlj6kxhCEvLbpFmwu86Vid4cr7B32TIf
+DIQzc2bPhsjExHaJomgvSZLLOI4/gIF66BGzc0Y2J8uyA5S9sNinW3sA42EYY3Zw9dJTqnXHlTCw
+OFdF/wqv64Jr64PFB1W0SNP01Mo+K29tsf77B1augSuPaFnv0PVCxAqRtm0/ITOo67oZLSnL8sT1
+QsQKkaZp3lyjruv7oijOrOAtXS9ErBdB4bUv4FNVVVdc+0FnOP4Fn+kuLn3VQS1knrkyQuc4HtP3
+/THMXIcH4V8+5Xm+z/gIneX4L7YARTe4tGF4Bb37XovLUDyI44mJrSDyBd4mfj+apRHdAAAAAElF
+TkSuQmCC</Binary>
                   </Property>
                   <Property name="BackgroundImageLayout">Zoom</Property>
                   <Property name="FlatAppearance">
@@ -7051,36 +7053,6 @@ Ptc6LtIbsIG8mV0S8QH7Lj3fW7FAbAAAAABJRU5ErkJggg==</Binary>
           </Object>
           <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonPing" children="Controls">
             <Property name="BackColor">Transparent</Property>
-            <Property name="BackgroundImage">
-              <Binary>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</Binary>
-            </Property>
             <Property name="BackgroundImageLayout">Center</Property>
             <Property name="Cursor">Default</Property>
             <Property name="FlatAppearance">
@@ -7115,6 +7087,7 @@ rIIfJLwAN/xBgqp1B1r+2SdZTDH9R5Kk38Tw+m7Llvl2AAAAAElFTkSuQmCC</Binary>
             <Property name="Name">buttonPing</Property>
             <Property name="Size">68, 66</Property>
             <Property name="TabIndex">0</Property>
+            <Property name="TextAlign">BottomCenter</Property>
             <Property name="TextImageRelation">ImageAboveText</Property>
             <Property name="ToolTip" extended="True" provider="tooltip">Ping</Property>
             <Property name="UseVisualStyleBackColor">False</Property>
@@ -7412,6 +7385,7 @@ t3pEJADiT3znGvGYIb0v5wsHQHBVeN95pgiOMSunOBGAgucAXyQNgdSaDr4fmFnk9lLedCj98GO5
           </Object>
           <Object type="System.Windows.Forms.Button, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="buttonRemoteOptions" children="Controls">
             <Property name="BackColor">Transparent</Property>
+            <Property name="BackgroundImageLayout">Zoom</Property>
             <Property name="FlatAppearance">
               <Property name="BorderColor">Black</Property>
               <Property name="BorderSize">0</Property>
@@ -8052,6 +8026,8 @@ $MainForm_KeyUp=[System.Windows.Forms.KeyEventHandler]{
 	}
 	
 }
+
+$buttonPing
 ]]></Code>
   <Mode>0</Mode>
   <Assemblies>

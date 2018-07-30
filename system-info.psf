@@ -3412,6 +3412,797 @@ AAAAgAEAAMADAADgBwAA8A8AAA==</Binary>
     <Property name="StartPosition">CenterScreen</Property>
     <Property name="Text">System Information</Property>
     <Event name="Load">formSystemInformation_Load</Event>
+    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="computerPanel" children="Controls">
+      <Property name="BackColor">42, 43, 48</Property>
+      <Property name="Location">0, 30</Property>
+      <Property name="Margin">0, 0, 0, 0</Property>
+      <Property name="Name">computerPanel</Property>
+      <Property name="Size">1176, 711</Property>
+      <Property name="TabIndex">81</Property>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="networkGrid" children="Controls">
+        <Property name="AllowUserToAddRows">False</Property>
+        <Property name="AllowUserToDeleteRows">False</Property>
+        <Property name="BackgroundColor">54, 57, 62</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="CellBorderStyle">None</Property>
+        <Property name="ColumnHeadersBorderStyle">None</Property>
+        <Property name="ColumnHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">60, 61, 69</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="ContextMenuStrip">
+          <Reference name="contextmenustripGroups" />
+        </Property>
+        <Property name="DefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">Window</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">False</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="EnableHeadersVisualStyles">False</Property>
+        <Property name="GridColor">150, 151, 159</Property>
+        <Property name="Location">2, 474</Property>
+        <Property name="Margin">1, 1, 1, 1</Property>
+        <Property name="Name">networkGrid</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="RowHeadersBorderStyle">None</Property>
+        <Property name="RowHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="RowHeadersWidth">30</Property>
+        <Property name="RowsDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">White</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="Size">688, 235</Property>
+        <Property name="TabIndex">131</Property>
+      </Object>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="pcMemberGrid" children="Controls">
+        <Property name="AllowUserToAddRows">False</Property>
+        <Property name="AllowUserToDeleteRows">False</Property>
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="AutoSizeColumnsMode">Fill</Property>
+        <Property name="BackgroundColor">54, 57, 62</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="CellBorderStyle">None</Property>
+        <Property name="ColumnHeadersBorderStyle">None</Property>
+        <Property name="ColumnHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">60, 61, 69</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="ContextMenuStrip">
+          <Reference name="contextmenustripGroups" />
+        </Property>
+        <Property name="DefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">Window</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">False</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="EditMode">EditOnEnter</Property>
+        <Property name="EnableHeadersVisualStyles">False</Property>
+        <Property name="GridColor">150, 151, 159</Property>
+        <Property name="Location">691, 24</Property>
+        <Property name="Margin">1, 1, 1, 1</Property>
+        <Property name="Name">pcMemberGrid</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="RowHeadersBorderStyle">None</Property>
+        <Property name="RowHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="RowHeadersWidth">30</Property>
+        <Property name="RowsDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">White</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="ShowEditingIcon">False</Property>
+        <Property name="Size">483, 127</Property>
+        <Property name="TabIndex">127</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelNetworkDevices" children="Controls">
+        <Property name="BackColor">Transparent</Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">1, 451</Property>
+        <Property name="Margin">3, 3, 3, 3</Property>
+        <Property name="Name">labelNetworkDevices</Property>
+        <Property name="Size">689, 23</Property>
+        <Property name="TabIndex">130</Property>
+        <Property name="Text">Network Devices</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelComputerGroups" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">691, 1</Property>
+        <Property name="Margin">3, 3, 3, 3</Property>
+        <Property name="Name">labelComputerGroups</Property>
+        <Property name="Size">484, 23</Property>
+        <Property name="TabIndex">126</Property>
+        <Property name="Text">Computer Groups</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="diskDrivesGrid" children="Controls">
+        <Property name="AllowUserToAddRows">False</Property>
+        <Property name="AllowUserToDeleteRows">False</Property>
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="BackgroundColor">54, 57, 62</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="CellBorderStyle">None</Property>
+        <Property name="ColumnHeadersBorderStyle">None</Property>
+        <Property name="ColumnHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">60, 61, 69</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="ContextMenuStrip">
+          <Reference name="contextmenustripGroups" />
+        </Property>
+        <Property name="DefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">Window</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">False</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="EnableHeadersVisualStyles">False</Property>
+        <Property name="GridColor">150, 151, 159</Property>
+        <Property name="Location">691, 474</Property>
+        <Property name="Margin">1, 1, 1, 1</Property>
+        <Property name="Name">diskDrivesGrid</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="RowHeadersBorderStyle">None</Property>
+        <Property name="RowHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="RowHeadersWidth">30</Property>
+        <Property name="RowsDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">White</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="Size">483, 235</Property>
+        <Property name="TabIndex">129</Property>
+      </Object>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="mappedDrivesGrid" children="Controls">
+        <Property name="AllowUserToAddRows">False</Property>
+        <Property name="AllowUserToDeleteRows">False</Property>
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="BackgroundColor">54, 57, 62</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="CellBorderStyle">None</Property>
+        <Property name="ColumnHeadersBorderStyle">None</Property>
+        <Property name="ColumnHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">60, 61, 69</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="ContextMenuStrip">
+          <Reference name="contextmenustripGroups" />
+        </Property>
+        <Property name="DefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">Window</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">False</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="EnableHeadersVisualStyles">False</Property>
+        <Property name="GridColor">150, 151, 159</Property>
+        <Property name="Location">691, 175</Property>
+        <Property name="Margin">1, 1, 1, 1</Property>
+        <Property name="MinimumSize">30, 0</Property>
+        <Property name="Name">mappedDrivesGrid</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="RowHeadersBorderStyle">None</Property>
+        <Property name="RowHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="RowHeadersWidth">30</Property>
+        <Property name="RowsDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">White</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="Size">483, 125</Property>
+        <Property name="TabIndex">124</Property>
+        <Event name="CellClick">mappedDrivesGrid_CellClick</Event>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDiskDrives" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">691, 451</Property>
+        <Property name="Margin">3, 3, 3, 3</Property>
+        <Property name="Name">labelDiskDrives</Property>
+        <Property name="Size">484, 23</Property>
+        <Property name="TabIndex">128</Property>
+        <Property name="Text">Disk Drives</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="printerOutputGrid" children="Controls">
+        <Property name="AllowUserToAddRows">False</Property>
+        <Property name="AllowUserToDeleteRows">False</Property>
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="AutoSizeColumnsMode">Fill</Property>
+        <Property name="BackgroundColor">54, 57, 62</Property>
+        <Property name="BorderStyle">None</Property>
+        <Property name="CellBorderStyle">None</Property>
+        <Property name="ColumnHeadersBorderStyle">None</Property>
+        <Property name="ColumnHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">60, 61, 69</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
+        <Property name="ContextMenuStrip">
+          <Reference name="contextmenustripGroups" />
+        </Property>
+        <Property name="DefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">Window</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">False</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="EnableHeadersVisualStyles">False</Property>
+        <Property name="GridColor">150, 151, 159</Property>
+        <Property name="Location">691, 323</Property>
+        <Property name="Margin">1, 1, 1, 1</Property>
+        <Property name="Name">printerOutputGrid</Property>
+        <Property name="ReadOnly">True</Property>
+        <Property name="RowHeadersBorderStyle">None</Property>
+        <Property name="RowHeadersDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="Alignment">MiddleLeft</Property>
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">HighlightText</Property>
+            <Property name="WrapMode">True</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="RowHeadersWidth">30</Property>
+        <Property name="RowsDefaultCellStyle">
+          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
+            <Property name="BackColor">54, 57, 62</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="SelectionBackColor">Highlight</Property>
+            <Property name="SelectionForeColor">White</Property>
+          </InstanceDescriptor>
+        </Property>
+        <Property name="Size">483, 127</Property>
+        <Property name="TabIndex">125</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelMappedDrives" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">691, 152</Property>
+        <Property name="Margin">3, 3, 3, 3</Property>
+        <Property name="Name">labelMappedDrives</Property>
+        <Property name="Size">484, 23</Property>
+        <Property name="TabIndex">122</Property>
+        <Property name="Text">Mapped Drives</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelPrinters" children="Controls">
+        <Property name="Anchor">Top, Right</Property>
+        <Property name="BackColor">Transparent</Property>
+        <Property name="FlatStyle">Flat</Property>
+        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
+        <Property name="ForeColor">ControlLightLight</Property>
+        <Property name="Location">691, 301</Property>
+        <Property name="Margin">3, 3, 3, 3</Property>
+        <Property name="Name">labelPrinters</Property>
+        <Property name="Size">484, 23</Property>
+        <Property name="TabIndex">121</Property>
+        <Property name="Text">Printers</Property>
+        <Property name="TextAlign">MiddleCenter</Property>
+      </Object>
+      <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel13" children="Controls">
+        <Property name="BackColor">54, 57, 62</Property>
+        <Property name="BackgroundImageLayout">Stretch</Property>
+        <Property name="Location">2, 1</Property>
+        <Property name="Name">panel13</Property>
+        <Property name="Size">688, 449</Property>
+        <Property name="TabIndex">123</Property>
+        <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="flowlayoutpanelModel" children="Controls">
+          <Property name="Location">3, 66</Property>
+          <Property name="Margin">0, 0, 0, 0</Property>
+          <Property name="Name">flowlayoutpanelModel</Property>
+          <Property name="Size">677, 30</Property>
+          <Property name="TabIndex">73</Property>
+          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelModelSerial" children="Controls">
+            <Property name="BackColor">Transparent</Property>
+            <Property name="Font">Segoe UI, 12pt</Property>
+            <Property name="ForeColor">ControlLightLight</Property>
+            <Property name="Location">0, 3</Property>
+            <Property name="Margin">0, 3, 0, 3</Property>
+            <Property name="Name">labelModelSerial</Property>
+            <Property name="Size">149, 23</Property>
+            <Property name="TabIndex">7</Property>
+            <Property name="Text">Model/Serial:</Property>
+          </Object>
+          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelModelOutput" children="Controls">
+            <Property name="AutoSize">True</Property>
+            <Property name="BackColor">Transparent</Property>
+            <Property name="ContextMenuStrip">
+              <Reference name="contextmenustrip1" />
+            </Property>
+            <Property name="Font">Segoe UI, 12pt, style=Underline</Property>
+            <Property name="ForeColor">DodgerBlue</Property>
+            <Property name="Location">152, 3</Property>
+            <Property name="Margin">3, 3, 0, 3</Property>
+            <Property name="MaximumSize">525, 23</Property>
+            <Property name="Name">labelModelOutput</Property>
+            <Property name="Size">0, 21</Property>
+            <Property name="TabIndex">8</Property>
+            <Event name="Click">labelModelOutput_Click</Event>
+            <Event name="MouseEnter">labelModelOutput_MouseEnter</Event>
+            <Event name="MouseLeave">labelModelOutput_MouseLeave</Event>
+          </Object>
+          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelModelOutput2" children="Controls">
+            <Property name="AutoSize">True</Property>
+            <Property name="BackColor">Transparent</Property>
+            <Property name="ContextMenuStrip">
+              <Reference name="contextmenustrip1" />
+            </Property>
+            <Property name="Font">Segoe UI, 12pt, style=Underline</Property>
+            <Property name="ForeColor">DodgerBlue</Property>
+            <Property name="Location">153, 3</Property>
+            <Property name="Margin">1, 3, 3, 3</Property>
+            <Property name="MaximumSize">525, 23</Property>
+            <Property name="Name">labelModelOutput2</Property>
+            <Property name="Size">0, 21</Property>
+            <Property name="TabIndex">11</Property>
+            <Event name="Click">labelModelOutput2_Click</Event>
+            <Event name="MouseLeave">labelModelOutput2_MouseLeave</Event>
+            <Event name="MouseMove">labelModelOutput2_MouseMove</Event>
+          </Object>
+          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelSerialOutput" children="Controls">
+            <Property name="AutoSize">True</Property>
+            <Property name="BackColor">Transparent</Property>
+            <Property name="ContextMenuStrip">
+              <Reference name="contextmenustrip1" />
+            </Property>
+            <Property name="Font">Segoe UI, 12pt</Property>
+            <Property name="ForeColor">White</Property>
+            <Property name="Location">157, 3</Property>
+            <Property name="Margin">1, 3, 0, 3</Property>
+            <Property name="MaximumSize">525, 23</Property>
+            <Property name="Name">labelSerialOutput</Property>
+            <Property name="Size">0, 21</Property>
+            <Property name="TabIndex">12</Property>
+          </Object>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDeviceName" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 11</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelDeviceName</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">3</Property>
+          <Property name="Text">Device Name:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRealName" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 156</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelRealName</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">45</Property>
+          <Property name="Text">Real Name:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelOUOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 330</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelOUOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">39</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRealNameOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 156</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelRealNameOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">46</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDeviceNameOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 11</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelDeviceNameOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">4</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDomainOU" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 330</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelDomainOU</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">38</Property>
+          <Property name="Text">Domain OU:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelMonitors" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 362</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelMonitors</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">47</Property>
+          <Property name="Text">Monitors:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelManufacturer" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 40</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelManufacturer</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">5</Property>
+          <Property name="Text">Manufacturer:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelLastBootTimeOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 301</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelLastBootTimeOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">27</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelMonitorsOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 362</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelMonitorsOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">48</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelLastBootTime" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 301</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelLastBootTime</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">26</Property>
+          <Property name="Text">Last Boot Time:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelVideoProperties" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 394</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelVideoProperties</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">51</Property>
+          <Property name="Text">Video Properties:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRAMOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 272</Property>
+          <Property name="Margin">0, 6, 0, 6</Property>
+          <Property name="Name">labelRAMOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">20</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelManufacturerOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 40</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelManufacturerOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">6</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelGraphicsOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 394</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelGraphicsOutput</Property>
+          <Property name="Size">525, 46</Property>
+          <Property name="TabIndex">52</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRAM" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 272</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelRAM</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">19</Property>
+          <Property name="Text">RAM:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelProcessorOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 244</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelProcessorOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">16</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelProcessor" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 244</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelProcessor</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">15</Property>
+          <Property name="Text">Processor:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelOperatingSystemOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 215</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelOperatingSystemOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">14</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDepartmentOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 186</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelDepartmentOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">72</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelOperatingSystem" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 215</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelOperatingSystem</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">13</Property>
+          <Property name="Text">Operating System:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelIPAddress" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 98</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelIPAddress</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">9</Property>
+          <Property name="Text">IP Address:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDepartment" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 186</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelDepartment</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">71</Property>
+          <Property name="Text">Department:</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelCurrentUserOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 127</Property>
+          <Property name="Margin">3, 6, 3, 6</Property>
+          <Property name="Name">labelCurrentUserOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">12</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelIPAddressOutput" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="ContextMenuStrip">
+            <Reference name="contextmenustrip1" />
+          </Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">155, 98</Property>
+          <Property name="Margin">2, 6, 2, 6</Property>
+          <Property name="Name">labelIPAddressOutput</Property>
+          <Property name="Size">525, 23</Property>
+          <Property name="TabIndex">10</Property>
+        </Object>
+        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelCurrentUser" children="Controls">
+          <Property name="BackColor">Transparent</Property>
+          <Property name="Font">Segoe UI, 12pt</Property>
+          <Property name="ForeColor">ControlLightLight</Property>
+          <Property name="Location">3, 127</Property>
+          <Property name="Margin">1, 3, 1, 3</Property>
+          <Property name="Name">labelCurrentUser</Property>
+          <Property name="Size">150, 23</Property>
+          <Property name="TabIndex">11</Property>
+          <Property name="Text">Current User:</Property>
+        </Object>
+      </Object>
+    </Object>
     <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="programPanel" children="Controls">
       <Property name="BackColor">42, 43, 48</Property>
       <Property name="ContextMenuStrip">
@@ -20301,797 +21092,6 @@ B+gmjCA1lYNIFeo+eQyJ9a4w5TRqM3MgItfPPfpQD1AA/wOJLDwdlKV2xwAAAABJRU5ErkJggg==</Bi
         </Property>
         <Property name="Size">392, 295</Property>
         <Property name="TabIndex">122</Property>
-      </Object>
-    </Object>
-    <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="computerPanel" children="Controls">
-      <Property name="BackColor">42, 43, 48</Property>
-      <Property name="Location">0, 30</Property>
-      <Property name="Margin">0, 0, 0, 0</Property>
-      <Property name="Name">computerPanel</Property>
-      <Property name="Size">1176, 711</Property>
-      <Property name="TabIndex">81</Property>
-      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="networkGrid" children="Controls">
-        <Property name="AllowUserToAddRows">False</Property>
-        <Property name="AllowUserToDeleteRows">False</Property>
-        <Property name="BackgroundColor">54, 57, 62</Property>
-        <Property name="BorderStyle">None</Property>
-        <Property name="CellBorderStyle">None</Property>
-        <Property name="ColumnHeadersBorderStyle">None</Property>
-        <Property name="ColumnHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">60, 61, 69</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
-        <Property name="ContextMenuStrip">
-          <Reference name="contextmenustripGroups" />
-        </Property>
-        <Property name="DefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">Window</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">False</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="EnableHeadersVisualStyles">False</Property>
-        <Property name="GridColor">150, 151, 159</Property>
-        <Property name="Location">2, 474</Property>
-        <Property name="Margin">1, 1, 1, 1</Property>
-        <Property name="Name">networkGrid</Property>
-        <Property name="ReadOnly">True</Property>
-        <Property name="RowHeadersBorderStyle">None</Property>
-        <Property name="RowHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="RowHeadersWidth">30</Property>
-        <Property name="RowsDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">White</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="Size">688, 235</Property>
-        <Property name="TabIndex">131</Property>
-      </Object>
-      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="pcMemberGrid" children="Controls">
-        <Property name="AllowUserToAddRows">False</Property>
-        <Property name="AllowUserToDeleteRows">False</Property>
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="AutoSizeColumnsMode">Fill</Property>
-        <Property name="BackgroundColor">54, 57, 62</Property>
-        <Property name="BorderStyle">None</Property>
-        <Property name="CellBorderStyle">None</Property>
-        <Property name="ColumnHeadersBorderStyle">None</Property>
-        <Property name="ColumnHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">60, 61, 69</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
-        <Property name="ContextMenuStrip">
-          <Reference name="contextmenustripGroups" />
-        </Property>
-        <Property name="DefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">Window</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">False</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="EditMode">EditOnEnter</Property>
-        <Property name="EnableHeadersVisualStyles">False</Property>
-        <Property name="GridColor">150, 151, 159</Property>
-        <Property name="Location">691, 24</Property>
-        <Property name="Margin">1, 1, 1, 1</Property>
-        <Property name="Name">pcMemberGrid</Property>
-        <Property name="ReadOnly">True</Property>
-        <Property name="RowHeadersBorderStyle">None</Property>
-        <Property name="RowHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="RowHeadersWidth">30</Property>
-        <Property name="RowsDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">White</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="ShowEditingIcon">False</Property>
-        <Property name="Size">483, 127</Property>
-        <Property name="TabIndex">127</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelNetworkDevices" children="Controls">
-        <Property name="BackColor">Transparent</Property>
-        <Property name="FlatStyle">Flat</Property>
-        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
-        <Property name="ForeColor">ControlLightLight</Property>
-        <Property name="Location">1, 451</Property>
-        <Property name="Margin">3, 3, 3, 3</Property>
-        <Property name="Name">labelNetworkDevices</Property>
-        <Property name="Size">689, 23</Property>
-        <Property name="TabIndex">130</Property>
-        <Property name="Text">Network Devices</Property>
-        <Property name="TextAlign">MiddleCenter</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelComputerGroups" children="Controls">
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="BackColor">Transparent</Property>
-        <Property name="FlatStyle">Flat</Property>
-        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
-        <Property name="ForeColor">ControlLightLight</Property>
-        <Property name="Location">691, 1</Property>
-        <Property name="Margin">3, 3, 3, 3</Property>
-        <Property name="Name">labelComputerGroups</Property>
-        <Property name="Size">484, 23</Property>
-        <Property name="TabIndex">126</Property>
-        <Property name="Text">Computer Groups</Property>
-        <Property name="TextAlign">MiddleCenter</Property>
-      </Object>
-      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="diskDrivesGrid" children="Controls">
-        <Property name="AllowUserToAddRows">False</Property>
-        <Property name="AllowUserToDeleteRows">False</Property>
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="BackgroundColor">54, 57, 62</Property>
-        <Property name="BorderStyle">None</Property>
-        <Property name="CellBorderStyle">None</Property>
-        <Property name="ColumnHeadersBorderStyle">None</Property>
-        <Property name="ColumnHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">60, 61, 69</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
-        <Property name="ContextMenuStrip">
-          <Reference name="contextmenustripGroups" />
-        </Property>
-        <Property name="DefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">Window</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">False</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="EnableHeadersVisualStyles">False</Property>
-        <Property name="GridColor">150, 151, 159</Property>
-        <Property name="Location">691, 474</Property>
-        <Property name="Margin">1, 1, 1, 1</Property>
-        <Property name="Name">diskDrivesGrid</Property>
-        <Property name="ReadOnly">True</Property>
-        <Property name="RowHeadersBorderStyle">None</Property>
-        <Property name="RowHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="RowHeadersWidth">30</Property>
-        <Property name="RowsDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">White</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="Size">483, 235</Property>
-        <Property name="TabIndex">129</Property>
-      </Object>
-      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="mappedDrivesGrid" children="Controls">
-        <Property name="AllowUserToAddRows">False</Property>
-        <Property name="AllowUserToDeleteRows">False</Property>
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="BackgroundColor">54, 57, 62</Property>
-        <Property name="BorderStyle">None</Property>
-        <Property name="CellBorderStyle">None</Property>
-        <Property name="ColumnHeadersBorderStyle">None</Property>
-        <Property name="ColumnHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">60, 61, 69</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
-        <Property name="ContextMenuStrip">
-          <Reference name="contextmenustripGroups" />
-        </Property>
-        <Property name="DefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">Window</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">False</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="EnableHeadersVisualStyles">False</Property>
-        <Property name="GridColor">150, 151, 159</Property>
-        <Property name="Location">691, 175</Property>
-        <Property name="Margin">1, 1, 1, 1</Property>
-        <Property name="MinimumSize">30, 0</Property>
-        <Property name="Name">mappedDrivesGrid</Property>
-        <Property name="ReadOnly">True</Property>
-        <Property name="RowHeadersBorderStyle">None</Property>
-        <Property name="RowHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="RowHeadersWidth">30</Property>
-        <Property name="RowsDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">White</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="Size">483, 125</Property>
-        <Property name="TabIndex">124</Property>
-        <Event name="CellClick">mappedDrivesGrid_CellClick</Event>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDiskDrives" children="Controls">
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="BackColor">Transparent</Property>
-        <Property name="FlatStyle">Flat</Property>
-        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
-        <Property name="ForeColor">ControlLightLight</Property>
-        <Property name="Location">691, 451</Property>
-        <Property name="Margin">3, 3, 3, 3</Property>
-        <Property name="Name">labelDiskDrives</Property>
-        <Property name="Size">484, 23</Property>
-        <Property name="TabIndex">128</Property>
-        <Property name="Text">Disk Drives</Property>
-        <Property name="TextAlign">MiddleCenter</Property>
-      </Object>
-      <Object type="System.Windows.Forms.DataGridView, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="printerOutputGrid" children="Controls">
-        <Property name="AllowUserToAddRows">False</Property>
-        <Property name="AllowUserToDeleteRows">False</Property>
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="AutoSizeColumnsMode">Fill</Property>
-        <Property name="BackgroundColor">54, 57, 62</Property>
-        <Property name="BorderStyle">None</Property>
-        <Property name="CellBorderStyle">None</Property>
-        <Property name="ColumnHeadersBorderStyle">None</Property>
-        <Property name="ColumnHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">60, 61, 69</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="ColumnHeadersHeightSizeMode">AutoSize</Property>
-        <Property name="ContextMenuStrip">
-          <Reference name="contextmenustripGroups" />
-        </Property>
-        <Property name="DefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">Window</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">False</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="EnableHeadersVisualStyles">False</Property>
-        <Property name="GridColor">150, 151, 159</Property>
-        <Property name="Location">691, 323</Property>
-        <Property name="Margin">1, 1, 1, 1</Property>
-        <Property name="Name">printerOutputGrid</Property>
-        <Property name="ReadOnly">True</Property>
-        <Property name="RowHeadersBorderStyle">None</Property>
-        <Property name="RowHeadersDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="Alignment">MiddleLeft</Property>
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="Font">Microsoft Sans Serif, 8.25pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">HighlightText</Property>
-            <Property name="WrapMode">True</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="RowHeadersWidth">30</Property>
-        <Property name="RowsDefaultCellStyle">
-          <InstanceDescriptor member="AAEAAAD/////AQAAAAAAAAAEAQAAAC9TeXN0ZW0uUmVmbGVjdGlvbi5NZW1iZXJJbmZvU2VyaWFsaXphdGlvbkhvbGRlcgcAAAAETmFtZQxBc3NlbWJseU5hbWUJQ2xhc3NOYW1lCVNpZ25hdHVyZQpTaWduYXR1cmUyCk1lbWJlclR5cGUQR2VuZXJpY0FyZ3VtZW50cwEBAQEBAAMIDVN5c3RlbS5UeXBlW10GAgAAAAUuY3RvcgYDAAAAV1N5c3RlbS5XaW5kb3dzLkZvcm1zLCBWZXJzaW9uPTQuMC4wLjAsIEN1bHR1cmU9bmV1dHJhbCwgUHVibGljS2V5VG9rZW49Yjc3YTVjNTYxOTM0ZTA4OQYEAAAAKlN5c3RlbS5XaW5kb3dzLkZvcm1zLkRhdGFHcmlkVmlld0NlbGxTdHlsZQYFAAAADFZvaWQgLmN0b3IoKQYGAAAABy5jdG9yKCkBAAAACgs=">
-            <Property name="BackColor">54, 57, 62</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="SelectionBackColor">Highlight</Property>
-            <Property name="SelectionForeColor">White</Property>
-          </InstanceDescriptor>
-        </Property>
-        <Property name="Size">483, 127</Property>
-        <Property name="TabIndex">125</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelMappedDrives" children="Controls">
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="BackColor">Transparent</Property>
-        <Property name="FlatStyle">Flat</Property>
-        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
-        <Property name="ForeColor">ControlLightLight</Property>
-        <Property name="Location">691, 152</Property>
-        <Property name="Margin">3, 3, 3, 3</Property>
-        <Property name="Name">labelMappedDrives</Property>
-        <Property name="Size">484, 23</Property>
-        <Property name="TabIndex">122</Property>
-        <Property name="Text">Mapped Drives</Property>
-        <Property name="TextAlign">MiddleCenter</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelPrinters" children="Controls">
-        <Property name="Anchor">Top, Right</Property>
-        <Property name="BackColor">Transparent</Property>
-        <Property name="FlatStyle">Flat</Property>
-        <Property name="Font">Microsoft Sans Serif, 12pt</Property>
-        <Property name="ForeColor">ControlLightLight</Property>
-        <Property name="Location">691, 301</Property>
-        <Property name="Margin">3, 3, 3, 3</Property>
-        <Property name="Name">labelPrinters</Property>
-        <Property name="Size">484, 23</Property>
-        <Property name="TabIndex">121</Property>
-        <Property name="Text">Printers</Property>
-        <Property name="TextAlign">MiddleCenter</Property>
-      </Object>
-      <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel13" children="Controls">
-        <Property name="BackColor">54, 57, 62</Property>
-        <Property name="BackgroundImageLayout">Stretch</Property>
-        <Property name="Location">2, 1</Property>
-        <Property name="Name">panel13</Property>
-        <Property name="Size">688, 449</Property>
-        <Property name="TabIndex">123</Property>
-        <Object type="System.Windows.Forms.FlowLayoutPanel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="flowlayoutpanelModel" children="Controls">
-          <Property name="Location">3, 66</Property>
-          <Property name="Margin">0, 0, 0, 0</Property>
-          <Property name="Name">flowlayoutpanelModel</Property>
-          <Property name="Size">677, 30</Property>
-          <Property name="TabIndex">73</Property>
-          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelModelSerial" children="Controls">
-            <Property name="BackColor">Transparent</Property>
-            <Property name="Font">Segoe UI, 12pt</Property>
-            <Property name="ForeColor">ControlLightLight</Property>
-            <Property name="Location">0, 3</Property>
-            <Property name="Margin">0, 3, 0, 3</Property>
-            <Property name="Name">labelModelSerial</Property>
-            <Property name="Size">149, 23</Property>
-            <Property name="TabIndex">7</Property>
-            <Property name="Text">Model/Serial:</Property>
-          </Object>
-          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelModelOutput" children="Controls">
-            <Property name="AutoSize">True</Property>
-            <Property name="BackColor">Transparent</Property>
-            <Property name="ContextMenuStrip">
-              <Reference name="contextmenustrip1" />
-            </Property>
-            <Property name="Font">Segoe UI, 12pt, style=Underline</Property>
-            <Property name="ForeColor">DodgerBlue</Property>
-            <Property name="Location">152, 3</Property>
-            <Property name="Margin">3, 3, 0, 3</Property>
-            <Property name="MaximumSize">525, 23</Property>
-            <Property name="Name">labelModelOutput</Property>
-            <Property name="Size">0, 21</Property>
-            <Property name="TabIndex">8</Property>
-            <Event name="Click">labelModelOutput_Click</Event>
-            <Event name="MouseEnter">labelModelOutput_MouseEnter</Event>
-            <Event name="MouseLeave">labelModelOutput_MouseLeave</Event>
-          </Object>
-          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelModelOutput2" children="Controls">
-            <Property name="AutoSize">True</Property>
-            <Property name="BackColor">Transparent</Property>
-            <Property name="ContextMenuStrip">
-              <Reference name="contextmenustrip1" />
-            </Property>
-            <Property name="Font">Segoe UI, 12pt, style=Underline</Property>
-            <Property name="ForeColor">DodgerBlue</Property>
-            <Property name="Location">153, 3</Property>
-            <Property name="Margin">1, 3, 3, 3</Property>
-            <Property name="MaximumSize">525, 23</Property>
-            <Property name="Name">labelModelOutput2</Property>
-            <Property name="Size">0, 21</Property>
-            <Property name="TabIndex">11</Property>
-            <Event name="Click">labelModelOutput2_Click</Event>
-            <Event name="MouseLeave">labelModelOutput2_MouseLeave</Event>
-            <Event name="MouseMove">labelModelOutput2_MouseMove</Event>
-          </Object>
-          <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelSerialOutput" children="Controls">
-            <Property name="AutoSize">True</Property>
-            <Property name="BackColor">Transparent</Property>
-            <Property name="ContextMenuStrip">
-              <Reference name="contextmenustrip1" />
-            </Property>
-            <Property name="Font">Segoe UI, 12pt</Property>
-            <Property name="ForeColor">White</Property>
-            <Property name="Location">157, 3</Property>
-            <Property name="Margin">1, 3, 0, 3</Property>
-            <Property name="MaximumSize">525, 23</Property>
-            <Property name="Name">labelSerialOutput</Property>
-            <Property name="Size">0, 21</Property>
-            <Property name="TabIndex">12</Property>
-          </Object>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDeviceName" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 11</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelDeviceName</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">3</Property>
-          <Property name="Text">Device Name:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRealName" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 156</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelRealName</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">45</Property>
-          <Property name="Text">Real Name:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelOUOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 330</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelOUOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">39</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRealNameOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 156</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelRealNameOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">46</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDeviceNameOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 11</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelDeviceNameOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">4</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDomainOU" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 330</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelDomainOU</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">38</Property>
-          <Property name="Text">Domain OU:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelMonitors" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 362</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelMonitors</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">47</Property>
-          <Property name="Text">Monitors:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelManufacturer" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 40</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelManufacturer</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">5</Property>
-          <Property name="Text">Manufacturer:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelLastBootTimeOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 301</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelLastBootTimeOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">27</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelMonitorsOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 362</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelMonitorsOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">48</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelLastBootTime" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 301</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelLastBootTime</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">26</Property>
-          <Property name="Text">Last Boot Time:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelVideoProperties" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 394</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelVideoProperties</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">51</Property>
-          <Property name="Text">Video Properties:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRAMOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 272</Property>
-          <Property name="Margin">0, 6, 0, 6</Property>
-          <Property name="Name">labelRAMOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">20</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelManufacturerOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 40</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelManufacturerOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">6</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelGraphicsOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 394</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelGraphicsOutput</Property>
-          <Property name="Size">525, 46</Property>
-          <Property name="TabIndex">52</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelRAM" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 272</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelRAM</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">19</Property>
-          <Property name="Text">RAM:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelProcessorOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 244</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelProcessorOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">16</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelProcessor" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 244</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelProcessor</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">15</Property>
-          <Property name="Text">Processor:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelOperatingSystemOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 215</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelOperatingSystemOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">14</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDepartmentOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 186</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelDepartmentOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">72</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelOperatingSystem" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 215</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelOperatingSystem</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">13</Property>
-          <Property name="Text">Operating System:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelIPAddress" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 98</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelIPAddress</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">9</Property>
-          <Property name="Text">IP Address:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelDepartment" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 186</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelDepartment</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">71</Property>
-          <Property name="Text">Department:</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelCurrentUserOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 127</Property>
-          <Property name="Margin">3, 6, 3, 6</Property>
-          <Property name="Name">labelCurrentUserOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">12</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelIPAddressOutput" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="ContextMenuStrip">
-            <Reference name="contextmenustrip1" />
-          </Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">155, 98</Property>
-          <Property name="Margin">2, 6, 2, 6</Property>
-          <Property name="Name">labelIPAddressOutput</Property>
-          <Property name="Size">525, 23</Property>
-          <Property name="TabIndex">10</Property>
-        </Object>
-        <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelCurrentUser" children="Controls">
-          <Property name="BackColor">Transparent</Property>
-          <Property name="Font">Segoe UI, 12pt</Property>
-          <Property name="ForeColor">ControlLightLight</Property>
-          <Property name="Location">3, 127</Property>
-          <Property name="Margin">1, 3, 1, 3</Property>
-          <Property name="Name">labelCurrentUser</Property>
-          <Property name="Size">150, 23</Property>
-          <Property name="TabIndex">11</Property>
-          <Property name="Text">Current User:</Property>
-        </Object>
       </Object>
     </Object>
     <Object type="System.Windows.Forms.Panel, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowBarPanel" children="Controls">

@@ -172,11 +172,12 @@ AAAAAAAAAAAAAAAAAAAAAAAAAACAy+BlL/v/s6qfCQ7TeekAAAAASUVORK5CYII=</Preview>
     <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="labelError" children="Controls">
       <Property name="Anchor">Top, Bottom, Left, Right</Property>
       <Property name="AutoSize">True</Property>
+      <Property name="Font">Microsoft Sans Serif, 9pt</Property>
       <Property name="ForeColor">White</Property>
       <Property name="Location">205, 55</Property>
       <Property name="MaximumSize">400, 75</Property>
       <Property name="Name">labelError</Property>
-      <Property name="Size">0, 13</Property>
+      <Property name="Size">0, 15</Property>
       <Property name="TabIndex">35</Property>
       <Property name="TextAlign">MiddleCenter</Property>
     </Object>
