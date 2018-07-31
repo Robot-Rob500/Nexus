@@ -1,5 +1,7 @@
 ﻿<ProjectState>
   <Version>1.0</Version>
   <FileID>a1fa1941-adc8-4bbb-98ae-3e200c1b00e1</FileID>
-  <OpenFiles />
+  <OpenFiles>
+    <File>system-info.psf</File>
+  </OpenFiles>
 </ProjectState>

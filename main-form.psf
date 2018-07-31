@@ -8026,8 +8026,6 @@ $MainForm_KeyUp=[System.Windows.Forms.KeyEventHandler]{
 	}
 	
 }
-
-$buttonPing
 ]]></Code>
   <Mode>0</Mode>
   <Assemblies>
