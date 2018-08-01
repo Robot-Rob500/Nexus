@@ -3,5 +3,8 @@
   <FileID>a1fa1941-adc8-4bbb-98ae-3e200c1b00e1</FileID>
   <OpenFiles>
     <File>system-info.psf</File>
+    <File>main-form.psf</File>
+    <File>sysinfo-options.psf</File>
+    <File>dropdown.psf</File>
   </OpenFiles>
 </ProjectState>
