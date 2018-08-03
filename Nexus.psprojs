@@ -6,5 +6,10 @@
     <File>main-form.psf</File>
     <File>sysinfo-options.psf</File>
     <File>dropdown.psf</File>
+    <File>error.psf</File>
+    <File>sites.psf</File>
+    <File>folders.psf</File>
+    <File>remote-settings.psf</File>
+    <File>user-info.psf</File>
   </OpenFiles>
 </ProjectState>

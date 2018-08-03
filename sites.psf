@@ -290,8 +290,9 @@ TkSuQmCC</Preview>
 $formSites_Load = {
 
 	$formSites.StartPosition = 'Manual'
-	$formSites.Location = $formSitesAnchor.PointToScreen($formSites.Location)
-	$newLoc = $formSites.Location; $newLoc.X = $newLoc.X - 394
+	$newLoc = $MainForm.Location
+	$newLoc.X = ($newLoc.X + $MainForm.Width - $formSites.Width)
+	$newLoc.Y = ($newLoc.Y + $MainForm.Height)
 	$formSites.Location = $newLoc
 	
 	$groupArray = @(); $groupArray = Get-Item -Path "HKCU:\Software\Nexus\WebsiteGroups"

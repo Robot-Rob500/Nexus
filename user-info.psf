@@ -3851,6 +3851,7 @@ fCvtoIhBmwAAAABJRU5ErkJggg==</Binary>
             <Property name="SelectionForeColor">White</Property>
           </InstanceDescriptor>
         </Property>
+        <Property name="ShowEditingIcon">False</Property>
         <Property name="Size">401, 211</Property>
         <Property name="TabIndex">141</Property>
       </Object>
@@ -4545,6 +4546,7 @@ B+gmjCA1lYNIFeo+eQyJ9a4w5TRqM3MgItfPPfpQD1AA/wOJLDwdlKV2xwAAAABJRU5ErkJggg==</Bi
             <Property name="SelectionForeColor">White</Property>
           </InstanceDescriptor>
         </Property>
+        <Property name="ShowEditingIcon">False</Property>
         <Property name="Size">382, 597</Property>
         <Property name="TabIndex">122</Property>
       </Object>
@@ -20555,14 +20557,14 @@ AgA7</Binary>
     </Property>
     <Property name="Name">contextmenustrip1</Property>
     <Property name="ShowImageMargin">False</Property>
-    <Property name="Size">78, 26</Property>
+    <Property name="Size">97, 48</Property>
     <Event name="Opened">contextmenustripCopy_Opened</Event>
   </Object>
   <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="copy">
     <Property name="DisplayStyle">Text</Property>
     <Property name="ForeColor">White</Property>
     <Property name="Name">copy</Property>
-    <Property name="Size">77, 22</Property>
+    <Property name="Size">96, 22</Property>
     <Property name="Text">Copy</Property>
     <Event name="Click">copy_Click</Event>
   </Object>
@@ -20588,12 +20590,12 @@ AgA7</Binary>
     </Property>
     <Property name="Name">contextmenustrip1</Property>
     <Property name="ShowImageMargin">False</Property>
-    <Property name="Size">78, 26</Property>
+    <Property name="Size">157, 48</Property>
   </Object>
   <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="groupCopyToolStripMenuItem">
     <Property name="ForeColor">White</Property>
     <Property name="Name">groupCopyToolStripMenuItem</Property>
-    <Property name="Size">77, 22</Property>
+    <Property name="Size">156, 22</Property>
     <Property name="Text">Copy</Property>
     <Event name="Click">groupCopyToolStripMenuItem_Click</Event>
   </Object>
@@ -20632,7 +20634,7 @@ AgA7</Binary>
     </Property>
     <Property name="Name">contextmenustrip1</Property>
     <Property name="ShowImageMargin">False</Property>
-    <Property name="Size">78, 26</Property>
+    <Property name="Size">109, 48</Property>
   </Object>
   <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="deviceInfoToolStripMenuItem1">
     <Property name="ForeColor">White</Property>
@@ -20644,7 +20646,7 @@ AgA7</Binary>
   <Object type="System.Windows.Forms.ToolStripMenuItem, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="copyToolStripMenuItem">
     <Property name="ForeColor">White</Property>
     <Property name="Name">copyToolStripMenuItem</Property>
-    <Property name="Size">77, 22</Property>
+    <Property name="Size">108, 22</Property>
     <Property name="Text">Copy</Property>
     <Event name="Click">copyToolStripMenuItem_Click</Event>
   </Object>

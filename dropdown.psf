@@ -1,8 +1,8 @@
 ﻿<File version="2">
   <FileID>5522467a-c2ca-408b-88f6-8315ee0716bc</FileID>
   <Preview>iVBORw0KGgoAAAANSUhEUgAAAgAAAAIACAYAAAD0eNT6AAAAAXNSR0IArs4c6QAAAARnQU1BAACx
-jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAX4SURBVHhe7dxLTtsAGIVRltKEPAotLSTY8SOQ
-SCyrq/K8XZtLKrAYFCViRHzPkb6Zlel/pTi5AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+jwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAABGeSURBVHhe7d3pcttIlgbQepHxvluyJGuzvMir
+7LLHNV1RNX/6Wfqp9L/n2Th5kwAEggCTEmm1QZ8T8QXAewUyi6UUUwBF/wYAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
@@ -10,17 +10,69 @@ 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
-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
+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
+AYiMPfXrdiz223PZmwBFfuGUzwB4E6DI2BPzd3oGYG2fA3Dgh4LIyFP+M0CXAETGnpi/MY99DoCI
+NGkWAAOXAHwOgMj4E/N3ugBwCUBEqrgEILL5qRcAa7wE4AyAyNjjDIDI5ifm71rPAHRXEiIyvsQc
+3n42fAYg5rkFgMi4Uy8A1vg5AC4BiIw9MYddAhDZ7FwsANZ0CcDnAIiMPz4KWGTzc/G67aOARaRK
++QyASwAiY0/M37WeAfAeAJHxJ+aw9wCIbHYuFgA+ClhEqpT+CiDmuQWAyLgT8zfmsc8BEJEmMYe9
+CVBks1MvANZ4CcAZAJGxx+cAiGx+Yv5OzwDMvm5f/RJAWgDcuHkv/wCJFcU07f2+2rr6Q8es2u+r
+ras/dEyp31dbV3/omFX7fbXr6l/lmHaus99Xu95+zOH4K4A4A9B9kY/b8W8BxA+J/uMv91jztWX7
+Q8es2u+rras/dEyp31dbV3/omFX7fbXr6l/lmHaus99Xu75+zONYAMR+PceXWgDcvn3//P6Dp5O7
+9x7lg2IlcXB4PHm6tTN58nQnb7e2dvP+1vZuvp1raX/a313Qf5Z7i45vavV+vs9l++n+O/3pmHqO
+bx9TGlPqxX/XYL+qNftpe9G/yphivzymab91/+1+VWv2833O9+sxXa4/8JilMaXewucx91tjnunP
+P4/LjCnvLxjTxfO8aMxrGFO3v3BMi/qpVhpT1W8es+rH1+8fHA9eAnj+/DD/0Kgfd3YsfY8V+4u+
+T6djWXR8U6v3830u2289P1V/Oqae49u10phSb/j79OIxm37a9vUvM6bNne9D36el/vzzuMyY8v6C
+Mf0K8z1qMY9jPsfCPl7LI0stAM4+/3H+6ez75PTd58mb00+Ts8/f0/ZdvtP6QetB5P3qwWdqrf14
+whf34z+mc5+dfjzGwn6nVhpTecwXT/BQ/9JjKvWvY0yXHXNxTNP97cH+D/h/W+ovNabh46f9zn12
++kNj3k6/XfcdczGmUr9Va+0vM4eGx3TRj8ePeRw/CPrOAMRiPy4RzNxv677yfnEspf4P+J5Yy5gW
+9y89plL/OsZ02TEXxzTdv9b53jzmVedO+Xm86ph/5vke8/jjxy+TN2/PJm/ff5mcpu3Zlz/KC4Bv
+f/zv+cnLt5PDo1c5L05O85sA/+vm3eb0goiMNcPX92MR0H+MiIwlN2/dT7/xP5ycvDxtXscPDl9O
+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
@@ -28,7 +80,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
 AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
-AAAAAAAAAAAAAAAAAABAjIuLvzyKoj1OjOlTAAAAAElFTkSuQmCC</Preview>
+AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH4Zv/32/1yuc0W4XT7lAAAAAElFTkSuQmCC</Preview>
   <Object type="System.Windows.Forms.Form, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="formDropdown" children="Controls">
     <Property name="AutoScaleDimensions">6, 13</Property>
     <Property name="AutoScaleMode">Font</Property>
@@ -183,14 +235,14 @@ APAAAAAPAAAA8AAAAA8AAADwAAAADwAAAPAAAAAfAAAA+AAAAB8AAAD4AAAAHwAAAPgAAAAfAAAA
       <Property name="Location">0, 78</Property>
       <Property name="Margin">0, 0, 0, 0</Property>
       <Property name="Name">panel2</Property>
-      <Property name="Size">1254, 14</Property>
+      <Property name="Size">1254, 16</Property>
       <Property name="TabIndex">17</Property>
       <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel3Label" children="Controls">
         <Property name="Anchor">Bottom, Left</Property>
         <Property name="BackColor">Transparent</Property>
         <Property name="Font">Segoe UI, 9.75pt</Property>
         <Property name="ForeColor">ControlLightLight</Property>
-        <Property name="Location">12, -3</Property>
+        <Property name="Location">12, -1</Property>
         <Property name="Name">panel3Label</Property>
         <Property name="Size">609, 19</Property>
         <Property name="TabIndex">27</Property>
@@ -201,7 +253,7 @@ APAAAAAPAAAA8AAAAA8AAADwAAAADwAAAPAAAAAfAAAA+AAAAB8AAAD4AAAAHwAAAPgAAAAfAAAA
         <Property name="BackColor">Transparent</Property>
         <Property name="Font">Segoe UI, 9.75pt</Property>
         <Property name="ForeColor">ControlLightLight</Property>
-        <Property name="Location">621, -3</Property>
+        <Property name="Location">621, -1</Property>
         <Property name="Name">panel4Label</Property>
         <Property name="Size">607, 19</Property>
         <Property name="TabIndex">28</Property>
@@ -214,7 +266,7 @@ APAAAAAPAAAA8AAAAA8AAADwAAAADwAAAPAAAAAfAAAA+AAAAB8AAAD4AAAAHwAAAPgAAAAfAAAA
       <Property name="Location">0, 0</Property>
       <Property name="Margin">0, 0, 0, 0</Property>
       <Property name="Name">panel3</Property>
-      <Property name="Size">1254, 14</Property>
+      <Property name="Size">1254, 16</Property>
       <Property name="TabIndex">35</Property>
       <Object type="System.Windows.Forms.Label, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="panel2Label" children="Controls">
         <Property name="BackColor">Transparent</Property>
@@ -378,7 +430,7 @@ $formDropdown_Load = {
 	$formDropdown.StartPosition = 'Manual'
 	$dropdownCoords = $MainForm.PointToScreen($formDropdown.Location)
 	$dropdownCoords.Y = $dropdownCoords.Y + $MainForm.Height
-	$formDropdown.MaximumSize = "$($MainForm.Width),1000"
+	$formDropdown.MaximumSize = "$($MainForm.Width),1200"
 	$formDropdown.Width = $($MainForm.Width)
 	$formDropdown.Location = $dropdownCoords
 	$formDropdown.Opacity = 0
@@ -839,7 +891,7 @@ $formDropdown_KeyDown=[System.Windows.Forms.KeyEventHandler]{
 	}
 }
 ]]></Code>
-  <Mode>1</Mode>
+  <Mode>0</Mode>
   <Assemblies>
     <Assembly>System.Management.Automation, Version=3.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35</Assembly>
     <Assembly>mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</Assembly>

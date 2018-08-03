@@ -6915,13 +6915,12 @@ WEftlsEKgDAMQ/dF7q/cr+tdzzWFCmPF7WDnxTwIWwk0OTYRQmpEZIV2aBYbVCzOA/OEso3hYPei
 GTZ6YIp9X3HvaV+l/ju6ZhDDAl9gcZ6uGQQLsAALsAALsMCowAHNPEiyZtjogVmgmSeZ7n4+yQj5
 ISldB2LUD6YKIyQAAAAASUVORK5CYII=</Binary>
                 </Property>
-                <Property name="BackgroundImageLayout">None</Property>
+                <Property name="BackgroundImageLayout">Center</Property>
                 <Property name="FlatAppearance">
                   <Property name="BorderSize">0</Property>
                   <Property name="MouseOverBackColor">83, 84, 89</Property>
                 </Property>
                 <Property name="FlatStyle">Flat</Property>
-                <Property name="ImageAlign">BottomCenter</Property>
                 <Property name="Location">0, 0</Property>
                 <Property name="Margin">0, 0, 0, 0</Property>
                 <Property name="Name">buttonSites</Property>
@@ -6944,7 +6943,7 @@ MPcVxxUTKKMF+DOGz1FpDHNHMPsCiuEgXmAFz6LSGOYu4ZViFg7iBU5xNSqNYe4xbipm4SBe4Akn
 otIY5t5j8cuNA/cfyv3q+cYB1WYw03223DOKX24c/PWr2Io1Pa6mplcIgh/3VnC8X2l1LwAAAABJ
 RU5ErkJggg==</Binary>
                 </Property>
-                <Property name="BackgroundImageLayout">None</Property>
+                <Property name="BackgroundImageLayout">Center</Property>
                 <Property name="FlatAppearance">
                   <Property name="BorderSize">0</Property>
                   <Property name="MouseOverBackColor">83, 84, 89</Property>
@@ -7642,7 +7641,7 @@ V70AcN8TpfM/s3283/2SgDd+1e9AB9q96AD7V70AH2r3oAPtXvQAfavegA+1e9AB9q96AOU8dy+Z
     </Property>
     <Property name="LayoutStyle">Table</Property>
     <Property name="Name">contextmenustrip1</Property>
-    <Property name="Size">145, 26</Property>
+    <Property name="Size">61, 4</Property>
   </Object>
   <Object type="System.Windows.Forms.Timer, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" name="windowMoveTimer">
     <Property name="Interval">10</Property>
